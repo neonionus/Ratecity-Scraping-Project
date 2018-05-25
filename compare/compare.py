@@ -128,11 +128,11 @@ else:
 		varRC['fuzzToken'] = 0
 		varRC['matchIF'] = 0
 		varRC['codeIF'] = 0
-		for varIF in infochoiceList.items():
+		for varIF in infochoiceList.values():
 			if varIF['Company'] in companies.keys():
 				if (varRC['companyname'] == companies[varIF['Company']]
 				and varRC['homeloantype'] == varIF['Home Loan Type']
-				and varRC['purpose'] == varIF['Availability']):	
+				and ((varRC['hasowneroccupiedpurpose'] == varIF['hasowneroccupied']) or (varRC['hasinvestmentpurpose'] == varIF['hasinvestment']))):	
 					fuzzToken = fuzz.token_sort_ratio(varRC['variationname'], varIF['Name'])
 					if fuzzToken > 0 and fuzzToken > oldFuzz:
 						varRC['fuzzToken'] = fuzzToken
