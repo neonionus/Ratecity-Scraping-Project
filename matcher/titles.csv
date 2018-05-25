@@ -1,0 +1,30 @@
+﻿RC,IF
+companyname,Company
+variationname,Product
+variationuuid,CodeID
+homeloantype,Home Loan Type
+rate,Rate
+comparisonrate,Comparison Rate
+fixmonth,Fixed Months
+revertrate,Revert Rate
+introductoryrate,Introductory Rate
+hasinvestmentpurpose,hasinvestment
+hasowneroccupiedpurpose,hasowneroccupied
+hasprincipalandinterest,hasprincipal
+hasinterestonly,hasinterest
+hasweeklyrepayments,hasweekly
+hasfortnightlyrepayments,hasfortnightly
+hasmonthlyrepayments,hasmonthly
+minloanterm,Min Loan Term
+maxlvr,Max Loan to Value Ration (LVR)
+maxloanterm,Max Loan Term
+mintotalloanamount,Min Loan Amount
+maxtotalloanamount,Max Loan Amount
+extrarepaymentsallowed,Extra Repayments
+hasoffsetaccount,Mortgage Offset Available
+hasredrawfacility,Redraw Available
+applicationfee,Application Fee
+legalfee,Legal Fee
+valuationfee,Valuation Fee
+settlementfee,Settlement Fee
+dischargefee,Exit Fee
