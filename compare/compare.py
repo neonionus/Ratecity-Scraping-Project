@@ -106,7 +106,8 @@ with open('infochoice.csv', encoding='utf-8-sig') as infochoice:
 		row['Name'] = nameBuilder(row)
 		row = sanitise(row)
 		row = sanitiseIF(row)
-		print(float(row['Rate']))
+		row['Rate'] = float(row['Rate'])
+		#print(float(row['Rate']))
 		infochoiceList[row['CodeID']] = row
 
 with open('mozo.csv', encoding='utf-8-sig') as mozo:
@@ -115,6 +116,7 @@ with open('mozo.csv', encoding='utf-8-sig') as mozo:
 		#sanitisation
 		row = sanitise(row)
 		row = sanitiseMZ(row, "Variation ID")
+		row['Interest Rate'] = float(row['Interest Rate'])
 		print(float(row['Interest Rate']))
 		mozoList[row['Variation ID']] = row
 
