@@ -1,0 +1,44 @@
+﻿rc_id,if_id,mz_id,company,variationname,rc_value,other_value
+7efdbc22-75f8-42a5-9ccf-7597af634a8b,20281,1441,NAB,Tailored Home Loan Fixed (Principal and Interest) 1 Year,600,0
+4fc8bf34-0bb5-4871-81c2-c9519730f565,23540,2816,BankVic,Standard Variable Investment Loan,300,600
+a7784a4a-3fa4-49c2-8df8-54ab04d2c5a0,240350,1494,BankVic,Offset Variable Home Loan,300,600
+624b6f56-fb05-4421-8e53-2c5d0c7fa6c0,24041,28201,BankVic,Fixed Rate Investment Loan 1 Year,300,600
+18a188d6-5304-42c0-bfd5-3dd310971548,24043,28203,BankVic,Fixed Rate Investment Loan 3 Years,300,600
+de766d62-8fad-4768-9c19-613fb852621b,24042,28202,BankVic,Fixed Rate Investment Loan 2 Years,300,600
+28f72a2b-4ab4-4fa5-bdd8-d62f37caa21d,17371,6201,BankVic,Fixed Rate Home Loan 1 Year,300,600
+f203af0a-dc91-4d00-a4d2-c11fd88279c7,17374,6204,BankVic,Fixed Rate Home Loan 4 Years,300,600
+9d7c8273-c2be-42fe-9f75-515214cd432d,330870,1408,BankVic,Base Variable Rate Home Loan,300,600
+f8345bb0-ead3-476f-9ada-2b21f199b76c,16904,6924,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 4 Years,150,0
+c7c03aa2-9357-4355-a714-279b0795be69,16905,6925,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 5 Years,150,0
+fa239608-8dfb-49a4-ab10-aed2c9be59e1,16901,6921,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 1 Year,150,0
+e8eaab23-a522-4314-b6b5-b8d2e84edaab,208820,1035,Newcastle Permanent,Real Deal Variable Home Loan (Principal and Interest) (Introductory),595,0
+d73fb772-34ff-4fa6-9176-4f5a35d5e00a,431720,3443,QBANK,Classic Plus Package Investment Loan (QLD only) ($100k-$250k),700,0
+5be4195c-683e-4ad1-8563-a945440947a4,435900,2334,The Rock Building Society,Essentials Investment Loan (Principal and Interest) (LVR < 80%),0,300
+955a0b3b-7056-4e93-bc49-fbae4f781baf,274520,1315,The Rock Building Society,Essentials Home Loan (Principal and Interest) (LVR 90%-95%),0,600
+be77675c-4438-487f-a664-6e0618d4db42,130940,2112,Westpac,Flexi First Option Investment Loan (Principal and Interest),600,0
+8f70ae99-e8a6-4235-823a-7ecfa4aec4c7,487672,40092,Bank of us,FlexiDiscount Home Loan Fixed 2 Years (LVR 90%-95%),1150,300
+d3976e64-e153-41ba-9b7d-888428f4528d,487673,40093,Bank of us,FlexiDiscount Home Loan Fixed 3 Years (LVR 90%-95%),1150,300
+853af021-9508-4794-80c9-78109239f562,55042,42562,Bank of us,FlexiDiscount Home Loan Fixed 2 Years (LVR 80%-90%),1150,0
+e81f7683-c4ed-48ae-ac1c-98c0ffccd4b3,512170,4255,Bank of us,FlexiDiscount Home Loan (LVR 90%-95%),1150,300
+4558b943-92de-4e46-a0af-5b209aa37938,227070,1827,Bank of us,FlexiDiscount Home Loan (LVR < 80%),1150,0
+e787e1a0-ce7a-4051-a9cd-b1e1a41f382e,512120,806,Bank of us,Topline Home Loan (LVR 80%-90%),1150,0
+f58ab863-2416-4f9e-8845-a051f10aac5a,18670,4878,Bank of us,Topline Home Loan (LVR < 80%),1150,0
+12defa53-2096-4d01-bd13-d461672543c2,428360,2818,BankVic,Offset Variable Investment Loan,300,600
+b99573f9-220d-4089-a45b-d30acae0af23,461060,616,BankVic,Introductory Variable Home Loan 2 Years,300,600
+3e7baef8-c5f5-470d-bb2f-242cf19fef3a,24045,28205,BankVic,Fixed Rate Investment Loan 5 Years,300,600
+660a09dc-3563-4739-b0d5-162d651682d1,24044,28204,BankVic,Fixed Rate Investment Loan 4 Years,300,600
+40e3874e-0dcb-453e-b209-eb6365c57a8e,17373,6203,BankVic,Fixed Rate Home Loan 3 Years,300,600
+99651ca6-6417-422e-88d8-8f3d7a69911a,17372,6202,BankVic,Fixed Rate Home Loan 2 Years,300,600
+ce77bcfb-76c1-4370-9dad-ba75ef9a895c,17375,6205,BankVic,Fixed Rate Home Loan 5 Years,300,600
+7eecf609-9450-4bde-a615-4dc9c26df735,16902,6922,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 2 Years,150,0
+c1b72ec1-3631-4d39-9716-0acad142650f,16903,6923,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 3 Years,150,0
+4d1b1f2b-1888-4618-8092-21fb2264379f,18330,1829,Homeloans,MoniPower Home Loan (Principal and Interest) (LVR < 80%),150,0
+bbe3a91a-be7e-4352-b70b-02e7845889dc,431740,3440,QBANK,Classic Plus Package Investment Loan (New Customer),700,0
+0b73a592-6c74-4969-91b1-a385bcd233f2,431730,3444,QBANK,Classic Plus Package Investment Loan (QLD only) ($250k+),700,0
+267f8473-70d4-47ec-a0ba-832e39e6f801,291790,1316,The Rock Building Society,Essentials Home Loan (Principal and Interest) (LVR < 80%),0,300
+49e14d7f-9e4e-42b9-82bb-d4b639bed849,487671,40091,Bank of us,FlexiDiscount Home Loan Fixed 1 Year (LVR 90%-95%),1150,300
+99c75d6c-22ac-4892-9025-b1b588edf0df,55043,42563,Bank of us,FlexiDiscount Home Loan Fixed 3 Years (LVR 80%-90%),1150,0
+d6b30397-2b48-4035-bf0e-80896cce59a0,55041,42561,Bank of us,FlexiDiscount Home Loan Fixed 1 Year (LVR 80%-90%),1150,0
+97e19866-eed0-436c-91d1-feb41c7e41d8,512160,808,Bank of us,FlexiDiscount Home Loan (LVR 80%-90%),1150,0
+49c6263f-8edb-4995-9ddf-911e7853ee71,419520,4106,Bank of us,Topline Investment Loan (LVR 90%-95%),1150,300
+191d3b9a-c054-4cf4-a3e7-d47af5ed9925,54970,4105,Bank of us,Topline Home Loan (LVR 90%-95%),1150,300

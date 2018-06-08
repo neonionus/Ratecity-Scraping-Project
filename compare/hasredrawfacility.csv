@@ -1,0 +1,1378 @@
+﻿rc_id,if_id,mz_id,company,variationname,rc_value,other_value
+2a645fba-7746-429a-8afa-c001bbffd5f4,392124,20254,Greater Bank,"Ultimate Fixed Home Loan 4 Years (New Customers) (NSW, ACT & QLD only)",True,TRUE
+2327c2f6-1e8c-4d8a-a6a5-11e463323be0,392125,20255,Greater Bank,"Ultimate Fixed Home Loan 5 Years (New Customers) (NSW, ACT & QLD only)",True,TRUE
+10ec54e9-a1b6-41ed-8a82-f21d7b65469d,343640,1648,Greater Bank,"Ultimate Variable Home Loan (New Customers) (NSW, ACT & QLD only) ",True,TRUE
+9afa0d3f-264f-4aa4-8e7f-27944e135203,392071,20231,Greater Bank,"Great Rate Fixed Home Loan 1 Year (New Customers) (NSW, ACT & QLD only) ",True,TRUE
+04c79855-8991-4e83-9a69-292641e2e722,392073,20233,Greater Bank,"Great Rate Fixed Home Loan 3 Years (New Customers) (NSW, ACT & QLD only) ",True,TRUE
+4280ce88-ee57-422b-9fc7-1a7b860694e7,355830,1775,Greater Bank,"Great Rate Variable Home Loan (New Customers) (NSW, ACT & QLD only)",True,TRUE
+8bc2bb91-ad1a-43c8-b1c8-5197d12d68b4,449885,26745,Greater Bank,"Ultimate Fixed Investment Loan (Principal and Interest) 5 Years (NSW, ACT & QLD only)",True,TRUE
+f339844a-6dc1-4eb3-8342-e5874ff951a7,449883,26743,Greater Bank,"Ultimate Fixed Investment Loan (Principal and Interest) 3 Years (NSW, ACT & QLD only)",True,TRUE
+50daa857-fc7d-41b9-9d41-26bde9e64f01,449881,26741,Greater Bank,"Ultimate Fixed Investment Loan (Principal and Interest) 1 Year (NSW, ACT & QLD only)",True,TRUE
+e335d8a5-fe40-4640-add8-f02a3616ef5e,286554,8394,Greater Bank,"Ultimate Fixed Home Loan 4 Years (NSW, ACT & QLD only)",True,TRUE
+add7d06f-b0c1-4246-bc5c-dae8dbeb3ec3,286551,8391,Greater Bank,"Ultimate Fixed Home Loan 1 Year (NSW, ACT & QLD only)",True,TRUE
+39e2c00b-47e7-4ff8-b171-7c7c1c5a60b5,286553,8393,Greater Bank,"Ultimate Fixed Home Loan 3 Years (NSW, ACT & QLD only)",True,TRUE
+3d1fae5b-3222-440f-9dd4-af8b60866efb,449905,26715,Greater Bank,"Great Rate Fixed Investment Loan (Principal and Interest) 5 Years (NSW, ACT & QLD only)",True,TRUE
+3d34ea9b-d3bc-4936-ac77-cec4c90b7b00,449901,26711,Greater Bank,"Great Rate Fixed Investment Loan (Principal and Interest) 1 Year (NSW, ACT & QLD only)",True,TRUE
+5a2b1f7a-64ff-4420-8895-dea152191b3a,449902,26712,Greater Bank,"Great Rate Fixed Investment Loan (Principal and Interest) 2 Years (NSW, ACT & QLD only)",True,TRUE
+6923eb75-d0eb-4611-93e5-f3b354c8c147,134261,5451,Greater Bank,"Great Rate Fixed Home Loan 1 Year (NSW, ACT & QLD only)",True,TRUE
+708ba0f0-81b9-4932-b4d2-345011bb37a9,134263,5453,Greater Bank,"Great Rate Fixed Home Loan 3 Years (NSW, ACT & QLD only)",True,TRUE
+67a5ea29-d7ca-4ad1-a4a3-0d685e1076c4,134265,5455,Greater Bank,"Great Rate Fixed Home Loan 5 Years (NSW, ACT & QLD only)",True,TRUE
+179cfd38-6f6e-42e9-8e14-fe83e1077460,81490,777,SCU,Pro Pack Home Loan ($250k+),True,TRUE
+3044fd96-6fab-4c64-b0f8-7bc6d5343f54,353910,1755,SCU,My Life Variable Rate Package ($150k-$250k),True,TRUE
+05f740a5-99ec-4695-b34d-eb5ccdaf394c,353920,1760,SCU,My Life Variable Rate Package ($250k-$500k),True,TRUE
+ef4e2d59-9f27-4bfc-9933-0e0c9f13c458,25113,7793,SCU,Fixed Rate Home Loan 3 Years,True,TRUE
+e3eb9ab0-8fad-4b4f-ac47-79ed93a82f00,25111,7791,SCU,Fixed Rate Home Loan 1 Year,True,TRUE
+66c12c16-e118-43b8-9213-f160a3ca7fd6,17400,780,SCU,Basic Variable Rate Home Loan,True,TRUE
+c91d70f9-795b-43b2-8424-2701cb9f208e,428640,3336,NAB,Base Variable Investment Loan (Principal and Interest),True,TRUE
+bccb66cc-7855-4960-947a-f3605c605988,428870,3331,NAB,Tailored Investment Loan (Principal and Interest),True,TRUE
+33c1cb7d-e368-4871-b517-6cd88b07aa59,20270,143,NAB,Tailored Home Loan (Principal and Interest),True,TRUE
+9309368c-96a5-46fc-90a8-f73d220ffaae,177210,3646,NAB,Portfolio Facility ($1m+),False,FALSE
+399af2bf-f693-487e-b4cf-b8baf1cc5ae1,20290,145,NAB,Flexiplus Mortgage,False,FALSE
+59da3f16-df27-428e-a1e7-af9bfdeecc8e,428750,3345,NAB,Choice Package Tailored Investment Loan (Principal and Interest) ($750k+),True,TRUE
+2f679b42-8754-4c07-a4ab-1a47af4416d3,428830,3334,NAB,Choice Package Tailored Investment Loan (Interest Only) ($250k-$750k),True,TRUE
+59e3a171-7aba-48bf-a1ea-a03b7637c0c5,428840,3335,NAB,Choice Package Tailored Investment Loan (Interest Only) ($750k+),True,TRUE
+868bd2ea-006d-472e-ae82-95b63a193ff9,18260,411,NAB,Choice Package Tailored Home Loan (Principal and Interest) (Amounts < $250k),True,TRUE
+70394b36-62c3-4f00-b5d9-3662647b1287,428800,2223,NAB,Choice Package Tailored Home Loan (Interest Only) ($750k+),True,TRUE
+13462538-4706-411e-815a-c990515b74d7,428770,2220,NAB,Choice Package Tailored Home Loan (Interest Only) (Amounts < $250k),True,TRUE
+d82221ec-6a54-4569-adf5-69c3fdd5f884,21340,140,NAB,Base Variable Home Loan (Principal and Interest),True,TRUE
+f97225eb-29c6-421a-94fb-c3db1b01f579,17110,107,ANZ,Standard Variable Home Loan (Principal and Interest),True,TRUE
+c24167c2-cb19-4b57-b233-a466b5ff1954,393907,20977,ANZ,Fixed Rate Investment Loan (Principal and Interest) 7 Years ,False,FALSE
+00514b74-ef82-4223-89f5-42e8d092e6b2,393903,20973,ANZ,Fixed Rate Investment Loan (Principal and Interest) 3 Years,False,FALSE
+1f2c22a0-25c7-4489-ac5b-71cb6caeb02f,393902,20972,ANZ,Fixed Rate Investment Loan (Principal and Interest) 2 Years,False,FALSE
+4b6d6449-0ee7-440b-b513-dc2ca2ba782c,17133,1033,ANZ,Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+2fd81051-7a8b-4330-9a94-6f85d0056fcd,171310,10310,ANZ,Fixed Rate Home Loan (Principal and Interest) 10 Years,False,FALSE
+f90ad92b-2911-4c30-a524-fc4f2099bee3,17131,1031,ANZ,Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+b12d144e-9064-4043-a44e-28a91e46159c,17132,1032,ANZ,Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+a51dc158-d18d-4e5b-8b83-999cce3ad365,394575,18125,ANZ,Breakfree Package Fixed Rate Home Loan (Principal and Interest) 5 Years,False,FALSE
+ad4c4abb-b450-489d-bb11-9936a176ea63,394574,18124,ANZ,Breakfree Package Fixed Rate Home Loan (Principal and Interest) 4 Years,False,FALSE
+4a645e58-597b-4c79-874b-0dd2e01ba3e9,394577,18127,ANZ,Breakfree Package Fixed Rate Home Loan (Principal and Interest) 7 Years,False,FALSE
+9ad041f4-ccc6-46e1-a35b-320970ae600f,432260,3464,Qudos Bank,Variable Rate Investment Loan (LVR < 90%),True,TRUE
+2478f475-b8c5-4545-8668-3cab5d43f040,432300,3112,Qudos Bank,Low Cost Investment Loan (LVR < 80%),True,TRUE
+b5ac1be6-bb24-4bee-90cd-57aef8a949ec,432250,626,Qudos Bank,Variable Rate Home Loan (LVR < 90%),True,TRUE
+b47fb891-c6d5-4bcc-8417-9b9f61828bfb,200420,5011,Qudos Bank,Low Cost Home Loan (LVR 80%-90%),True,TRUE
+8accfe39-0772-42c7-af23-2390fe0a516b,427022,31112,Qudos Bank,Fixed Rate Investment Loan 2 Years,False,FALSE
+ed48744a-4fc0-4035-a56f-2ab461aa8e31,427023,31113,Qudos Bank,Fixed Rate Investment Loan 3 Years,False,FALSE
+ade0ab88-6207-4050-bb09-98f1f8cb4a34,200335,6275,Qudos Bank,Fixed Rate Home Loan 5 Years,False,FALSE
+b2abc94a-9a11-4215-8be4-8aa74be5b313,200334,6274,Qudos Bank,Fixed Rate Home Loan 4 Years,False,FALSE
+36ed125a-5d40-4803-a82f-10adf9a210d2,200332,6272,Qudos Bank,Fixed Rate Home Loan 2 Years,False,FALSE
+ea99bbd4-1433-4fa3-a6ce-e4e001db7eba,17290,4049,MOVE - People Driven Banking,Standard Variable Rate Investment Loan,True,TRUE
+d7c5d247-66ca-493f-813e-aad92ced9964,22360,1094,MOVE - People Driven Banking,First Home Loan,True,TRUE
+7cdbdf7f-3162-48b0-bb1e-b99fc7c8c7cb,516630,3029,UBank,Discount Offer for Investor Variable P&I Rate,True,TRUE
+f5896b24-25bc-44de-9589-b719985ba05b,405740,5140,UBank,Discount Offer Variable Home Loan ($700k+),True,TRUE
+29bca088-cf12-4f9b-b40a-4ae0ba449da3,196480,829,UBank,UHomeLoan - Standard Variable (Principal and Interest),True,TRUE
+3dd93cf3-754b-4626-9969-0efdac75aab5,424011,22281,UBank,Inv UHomeLoan Fixed 1 Year,False,FALSE
+1652b03f-60a7-4266-afd3-df6f2691bed0,424013,22283,UBank,Inv UHomeLoan Fixed 3 Years,False,FALSE
+8fdb05c7-8f22-405e-b5bf-a7b098d57521,197673,8353,UBank,UHomeLoan Fixed (Principal and Interest) 3 Years,False,FALSE
+e13e622d-ec45-4fbf-acfa-622552b056a3,528843,22263,UBank,UHomeLoan Fixed (Interest Only) 3 Years,False,FALSE
+ca81f04a-77c5-4a5f-9804-449d4c06e8e2,528845,22265,UBank,UHomeLoan Fixed (Interest Only) 5 Years,False,FALSE
+1274e732-43eb-47ab-8593-49a8526d10fb,403151,24941,Adelaide Bank,SmartFix Investment Loan (Principal and Interest) 1 Year,True,TRUE
+02a86bc3-6711-410c-b2e7-3a94e963a1b3,403155,24945,Adelaide Bank,SmartFix Investment Loan (Principal and Interest) 5 Years,True,TRUE
+0f291f0e-c1fc-482b-9bc0-78393982637c,403153,24943,Adelaide Bank,SmartFix Investment Loan (Principal and Interest) 3 Years,True,TRUE
+8459b70a-42e2-467c-8675-f62321938d7e,25101,3961,Adelaide Bank,SmartFix Home Loan (Principal and Interest) 1 Year,True,TRUE
+31a138cc-615c-4d91-880c-5b1b46afebfe,25105,3965,Adelaide Bank,SmartFix Home Loan (Principal and Interest) 5 Years,True,TRUE
+5291e78e-add6-4e76-b142-71f4621b35ea,403200,2490,Adelaide Bank,SmartFit Investment Loan (Principal and Interest) (LVR < 90%),True,TRUE
+8e66e49a-97a1-4f73-aea3-3a80065126d3,463643,38083,Bank of Sydney,Expect More Home Loan Package Fixed 3 Years,False,FALSE
+5776daf9-2f5a-4bf7-b6ab-d21906dd94b3,463642,38082,Bank of Sydney,Expect More Home Loan Package Fixed 2 Years,False,FALSE
+508e5ca0-738b-45a0-8741-c28ca448c164,199300,469,Bank of Sydney,Standard Variable Rate Home Loan,True,TRUE
+fad80b81-6238-428a-a243-49410e2b05c0,485274,23514,Bananacoast Community Credit Union,Fixed Investment Loan (Principal and Interest) 4 Years,False,FALSE
+71fe5153-3063-4de0-aeed-f74d2ccef2b7,485272,23512,Bananacoast Community Credit Union,Fixed Investment Loan (Principal and Interest) 2 Years,False,FALSE
+e1c4d98f-77f4-4c51-abbe-6b8d2952ee35,485285,7415,Bananacoast Community Credit Union,Fixed Home Loan (Principal and Interest) 5 Years,False,FALSE
+831337fd-8fb6-461b-a406-11dd21b9ec79,485283,7413,Bananacoast Community Credit Union,Fixed Home Loan (Principal and Interest) 3 Years,False,FALSE
+c7f1635b-711c-4ea6-bc5c-6087013b66fb,485281,7411,Bananacoast Community Credit Union,Fixed Home Loan (Principal and Interest) 1 year,False,FALSE
+ab18fe87-f6bd-4ed2-b0fc-2dbed1a8d8f2,21150,39,Heritage Bank,Living Equity,False,FALSE
+aaf8a760-95f6-49de-8013-224658f70e9b,517980,5049,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($150k-$250k) (LVR 80%-90%) ,True,TRUE
+e62977ee-eb5b-423d-b534-2bb300936a80,518000,5051,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($700k+) (LVR 80%-90%) ,True,TRUE
+71b8bfc5-2b83-48eb-9802-41aa984ea66c,388620,1910,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR<80%),True,TRUE
+1ab8abeb-670f-4a8e-8fb3-14f34a206f9a,513220,4892,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR 80%-90%),True,TRUE
+6546b3e1-f0ea-486a-b5f0-8de83595b58e,513240,4893,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR 80%-90%),True,TRUE
+0d66e9f5-6e0b-40bd-b661-dbaa806da39a,513260,4894,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR 80%-90%),True,TRUE
+0dd2239b-06ca-4390-8760-41968958bff7,388590,1911,Heritage Bank,Home Advantage Living Equity Home Loan ($700k+),True,FALSE
+dfb85014-0f54-48d3-bcd3-6f634eeed98e,25140,1904,Heritage Bank,Home Advantage Living Equity Home Loan ($150k-$250k),True,FALSE
+b9870593-8d73-4c3e-ae77-a7799bfd128a,18191,19091,Heritage Bank,Home Advantage Fixed Home Loan 1 Year,True,TRUE
+4258dfc9-4a24-4055-a62a-1a982af1c61e,18195,19095,Heritage Bank,Home Advantage Fixed Home Loan 5 Years,True,TRUE
+1bf1d670-7ac9-40f2-a8ae-4c5e66b24fbb,18185,335,Heritage Bank,Fixed Rate Home Loan 5 Years,True,TRUE
+8fdc93d8-8c13-44b3-89dd-f61ae00b2684,18182,332,Heritage Bank,Fixed Rate Home Loan 2 Years,True,TRUE
+e1644066-4526-4b79-9843-881629f81ca6,449681,36531,ING,Orange Advantage Home Loan Fixed 1 Year,False,FALSE
+73860f0f-d4e3-4a3d-bd56-494ec5b8d8d6,449685,36535,ING,Orange Advantage Home Loan Fixed 5 Years,False,FALSE
+9b1196f3-8e4e-4717-817a-10f24b2543fb,449684,36534,ING,Orange Advantage Home Loan Fixed 4 Years,False,FALSE
+efd4545a-1458-434b-8b41-360d4ddb0c79,394110,2096,ING,"Orange Advantage Investment Loan (Principal and Interest) ($150-$500k, LVR<80%)",True,TRUE
+104607eb-c0c1-4f22-b95e-f242f6cf4403,155290,488,ING,Orange Advantage Home Loan (Principal and Interest) (Amounts < $150k),True,TRUE
+de7edc5c-a280-40dd-ad9f-b7c711d04288,515240,4966,ING,"Orange Advantage Home Loan (Principal and Interest) ($1m+, LVR<80%)",True,TRUE
+d66bcf7a-1de4-4def-bd7c-5d09ff855907,515210,4968,ING,"Orange Advantage Home Loan (Interest Only) ($1m+, LVR<80%) ",True,TRUE
+7770ff21-5d1c-4685-a2e9-bf78fbceefa1,374550,4823,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($500k-$1m, LVR < 80%)",True,TRUE
+f94df7c5-6ab7-4b35-9cd3-3045b70b251f,259290,978,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($150k-$500k, LVR 80%-90%)",True,TRUE
+4a996fd8-de00-4033-a45b-2bee6e8927b3,394051,21161,ING,Fixed Rate Investment Loan 1 Year,False,FALSE
+35cd3d65-d951-4714-a0ef-6032d4f36a93,394055,21165,ING,Fixed Rate Investment Loan 5 Years,False,FALSE
+18f8ce03-2430-467f-9776-f296dda505bd,394053,21163,ING,Fixed Rate Investment Loan 3 Years,False,FALSE
+26f5232d-8126-4511-9627-ced2e3e9713f,23633,11753,ING,Fixed Rate Home Loan 3 Years,False,FALSE
+a771c83a-ce85-48cb-bd83-171b0495e04f,23631,11751,ING,Fixed Rate Home Loan 1 Year,False,FALSE
+2620d5d4-7447-4bfc-b1ce-d8b23fdc419e,307640,1326,P&N Bank,Smooth Home Loan (LVR < 80%),True,TRUE
+aa8da500-5a7f-401c-92cf-4c02c09410c2,23244,14404,P&N Bank,Fixed Rate Home Loan 4 Years (LVR 80%-95%),False,FALSE
+7662bcfb-8dbc-4c2b-8434-402bda85d128,307654,5494,P&N Bank,Fixed Rate Home Loan 4 Years (LVR < 80%),False,FALSE
+2f0ef0a7-070e-4e9d-a491-1cd4b49efe7e,307652,5492,P&N Bank,Fixed Rate Home Loan 2 Years (LVR < 80%),False,FALSE
+9385cd9d-75b7-4b0f-bf91-fc93476805bb,307655,5495,P&N Bank,Fixed Rate Home Loan 5 Years (LVR < 80%),False,FALSE
+ba9bffb7-05d4-4991-bf70-f55f412b491b,307651,5491,P&N Bank,Fixed Rate Home Loan 1 Year (LVR < 80%),False,FALSE
+1d6c27ea-f8aa-42ca-9278-00d186fa2ef1,20790,551,P&N Bank,Equity Access,False,FALSE
+dda3a148-8789-467b-9543-5d0441744cc5,409490,3100,P&N Bank,& Home Loan ,True,TRUE
+59565ef8-e83e-4f28-84d5-8c52cfb0a7a1,271060,1657,Australian Military Bank,Value Home Loan,True,TRUE
+b27bad32-b625-48ab-a8a4-409b4e546e95,414550,4180,AMP Bank,Professional Package Investment Loan (Interest Only) ($250k-$750k),True,TRUE
+f4fba860-0e39-4cd8-bbce-b1c87271ece5,414540,4179,AMP Bank,Professional Package Investment Loan (Interest Only) ($100k-$250k),True,TRUE
+d7138108-e359-4a99-865e-fd6dd947e034,20331,41841,AMP Bank,Professional Package Home Loan Fixed (Interest Only) 1 Year,True,FALSE
+02a27149-ab84-42c5-969d-9e1838cad5f7,20335,41845,AMP Bank,Professional Package Home Loan Fixed (Interest Only) 5 Years,True,FALSE
+d59a4b0e-effb-4c6c-b0a2-a4c1f0a32430,20930,4176,AMP Bank,Professional Package Home Loan (Interest Only) ($100k-$250k),True,TRUE
+5f3e6a3a-d759-4540-b607-316c0bb29fbb,414460,4187,AMP Bank,Introductory Classic Investment Loan (Interest Only),True,TRUE
+a7edb20c-e58a-4841-abda-8c6eca6bd04d,414480,4183,AMP Bank,Classic Variable Investment Loan (Interest Only),True,TRUE
+ad3e2f49-89a5-45ac-a0b7-d67723d4d63b,484605,41745,AMP Bank,Classic Fixed Home Loan (Interest Only) 5 Years,False,FALSE
+d9453191-5164-4e35-98e4-99f7e783fd8c,484603,41743,AMP Bank,Classic Fixed Home Loan (Interest Only) 3 Years,False,FALSE
+e78a85f6-217f-481f-a07b-820baf042fd3,484452,41892,AMP Bank,Basic Fixed Rate Investment Loan (Interest Only) 2 Years,False,FALSE
+3143f5cf-99c2-460b-a0fc-f922331e252b,484455,41895,AMP Bank,Basic Fixed Rate Investment Loan (Interest Only) 5 Years,False,FALSE
+0661a1c2-19b6-43ef-a748-ba5a6346b328,484462,41882,AMP Bank,Basic Fixed Rate Home Loan (Interest Only) 2 Years,False,FALSE
+12af0812-ad77-441a-b86d-077fdd6a7ed2,484465,41885,AMP Bank,Basic Fixed Rate Home Loan (Interest Only) 5 Years,False,FALSE
+439f04c6-7172-447c-a87c-fae8f0a55ac6,484500,2925,AMP Bank,Professional Package Investment Loan (Principal and Interest) ($250k-$750k),True,TRUE
+e4cd8f4d-6487-408d-b365-66d844fe6737,484481,741,AMP Bank,Professional Package Home Loan Fixed (Principal and Interest) 1 Year,True,FALSE
+cd666b23-1cee-4411-a28e-6db20b005a7b,484485,745,AMP Bank,Professional Package Home Loan Fixed (Principal and Interest) 5 Years,True,FALSE
+72b1719c-66f9-4108-a37b-51839d19c0a4,484530,2103,AMP Bank,Professional Package Home Loan (Principal and Interest) ($500k-$750k),True,TRUE
+300eb9e4-0779-4173-8713-03d9b3f6afc0,484520,66,AMP Bank,Professional Package Home Loan (Principal and Interest) ($100k-$250k),True,TRUE
+d625f56d-d471-4d94-815b-d10b0d0e42c4,484550,2943,AMP Bank,Introductory Classic Investment Loan (Principal and Interest),True,TRUE
+fe09016c-c75e-4679-b048-a195396ce5ad,414420,2922,AMP Bank,Essential Investment Loan,True,TRUE
+0415a3c0-6073-49e1-b1cc-79d6b7ea239e,481100,2875,AMP Bank,Essential Home Loan ($40k-$100k),True,TRUE
+e450bccd-4645-448e-882b-258b81a43b33,126620,73,AMP Bank,Classic Variable Home Loan (Principal and Interest),True,TRUE
+ff4f2a91-82a8-4220-a638-eb5878feb03d,224972,652,AMP Bank,Classic Fixed Home Loan (Principal and Interest) 2 Years,False,FALSE
+23c4c83b-f56a-4db0-b1d7-8eac6098dff1,414452,29232,AMP Bank,Basic Fixed Rate Investment Loan (Principal and Interest) 2 Years,False,FALSE
+4f9da6e7-70e6-462d-b15e-6e6e4bf877a1,414451,29231,AMP Bank,Basic Fixed Rate Investment Loan (Principal and Interest) 1 Year,False,FALSE
+661046a1-b3ff-4ec8-a744-5743ffe99f21,187792,6942,AMP Bank,Basic Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+a3736726-08b8-428a-a69b-377f685c66c3,187795,6945,AMP Bank,Basic Fixed Rate Home Loan (Principal and Interest) 5 Years,False,FALSE
+f9304809-60b0-41c1-be46-d5baf78e2be7,389970,1974,Aussie,"Select Standard Variable Investment Loan (Principal and Interest) ($500k+, LVR 80%-90%)",True,TRUE
+9a35a64e-ac7a-488e-931f-07b568d9a3b4,359230,1528,Aussie,"Select Standard Variable Home Loan (Principal and Interest) ($500k+, LVR 80%-90%)",True,TRUE
+359dc808-594c-4c99-b482-d74ad05dd932,390135,22805,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 5 Years,False,FALSE
+81ff5c3a-e1f7-4792-a1ae-fef92d540cfe,390132,22802,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 2 Years,False,FALSE
+1358efd7-d4e2-4125-9fd7-54676155628d,390133,22803,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 3 Years,False,FALSE
+cad874ce-d3dd-49a6-9c98-a28ceb98ba29,238995,15405,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 5 Years,False,FALSE
+946ff986-ef8f-4e36-b60f-1bb4b546e417,238991,15401,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 1 Year,False,FALSE
+1d7d08fd-f2be-4921-9977-ed03088f341e,389520,3973,Aussie,Select Line of Credit Investment Loan (LVR < 80%),True,TRUE
+77d16920-052b-4bb5-b859-c3fedf6a4469,359440,3970,Aussie,Select Line of Credit Home Loan (LVR 80%-90%),True,TRUE
+8674bd70-f876-45cb-b765-792e92aa7485,389480,1966,Aussie,"Select Basic Investment Loan (Principal and Interest) ($500k+, LVR 80%-90%)",True,TRUE
+a9d97b65-cd41-48b9-8682-732769c2e23b,358220,1529,Aussie,"Select Basic Home Loan (Principal and Interest) ($500k+, LVR 80%-90%)",True,TRUE
+eab1c0e9-c179-4efb-a851-0fc8807a92dc,358250,1531,Aussie,"Select Basic Home Loan (Principal and Interest) ($500k+, LVR 90%-95%)",True,TRUE
+9f51254a-413c-4e4c-a220-b6f154fbedcd,390114,22794,Aussie,Select Basic Investment Loan Fixed (Principal and Interest) 4 Years,False,FALSE
+52a24eeb-01fc-4e2f-b62f-408ab1ba609e,390115,22795,Aussie,Select Basic Investment Loan Fixed (Principal and Interest) 5 Years,False,FALSE
+8b5805f9-43b7-4b4e-9d37-3ae69c2b53b1,390111,22791,Aussie,Select Basic Investment Loan Fixed (Principal and Interest) 1 Year,False,FALSE
+d550141e-6a75-4a7b-a4de-eaf0474af53d,237812,28522,Aussie,Select Basic Home Loan Fixed (Principal and Interest) 2 Years (LVR 80%-95%),False,FALSE
+62185922-e408-4511-9dec-907293c70436,237811,28521,Aussie,Select Basic Home Loan Fixed (Principal and Interest) 1 Year (LVR 80%-95%),False,FALSE
+319b0d8d-cd58-44fe-a700-245049891c67,511990,4665,Aussie,IQ Basic Investment Loan (Principal and Interest) (LVR < 70%),True,TRUE
+d79ee1b9-7370-4e05-810e-4dae02b35ab3,512050,4664,Aussie,IQ Basic Investment Loan (Interest Only) (LVR < 70%),True,TRUE
+af70c878-0409-48bc-b5bc-44ee55722a6b,512000,4662,Aussie,IQ Basic Home Loan (Principal and Interest) (LVR < 70%),True,TRUE
+26ccde3d-1fe7-4b1c-864a-d4f09e28e6cd,344240,595,Aussie,IQ Basic Home Loan (Principal and Interest) (LVR 80%-90%),True,TRUE
+7d6ce282-d759-434d-bc3e-1844aa5f8db4,512010,1801,Aussie,IQ Basic Home Loan (Interest Only) (LVR < 70%),True,TRUE
+0ff6b50f-8d84-4256-835f-3a569f3ecdbe,160210,1961,Aussie,IQ Offset Investment Loan (Principal and Interest) (LVR 80%-90%),True,TRUE
+d2f29260-7110-4523-a5be-eae98cbc186b,160200,2164,Aussie,IQ Offset Investment Loan (Principal and Interest) (LVR 70%-80%),True,TRUE
+0819e589-c38d-415f-8741-75d2ddd5ed13,399250,2710,Aussie,IQ Offset Investment Loan (Interest Only) (LVR 70%-80%) ,True,TRUE
+cdf84ec2-d264-4090-9eae-f4b42d035ca4,358130,1805,Aussie,IQ Offset Home Loan (Principal and Interest) (LVR 90%-95%),True,TRUE
+74df4044-d7d2-4e0a-b0c3-2bf85ae22480,511910,4659,Aussie,IQ Offset Home Loan (Principal and Interest) (LVR < 70%),True,TRUE
+8d890665-95e5-409b-9415-d3d65a14165e,358120,4842,Aussie,IQ Offset Home Loan (Interest Only) (LVR 70%-80%),True,TRUE
+d3a94618-b82f-4fa9-ab18-09e4804878c5,514503,22813,Aussie,IQ Offset Investment Loan Fixed (Principal and Interest) 3 Years (LVR < 70%),False,FALSE
+6fa0b509-1f57-4afd-a746-5035719b177b,514504,22814,Aussie,IQ Offset Investment Loan Fixed (Principal and Interest) 4 Years (LVR < 70%),False,FALSE
+1457dc8f-4fc8-4b65-8bbf-13a6a33d7164,514513,27153,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 3 Years (LVR < 70%),False,FALSE
+51b3b6d8-2253-450d-923f-3782948552a0,516195,50045,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 5 Years (LVR 70%-80%),False,FALSE
+3b53c350-c5db-4990-abd4-23f60d77268e,516191,50041,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 1 Year (LVR 70%-80%),False,FALSE
+c09e6925-b718-455f-95d6-998945bee9cb,514512,27152,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 2 Years (LVR < 70%),False,FALSE
+9198cabc-9964-4cd3-b63b-bfab41fc0f22,514515,27155,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 5 Years (LVR < 70%),False,FALSE
+aa51e1fe-c909-4c41-b879-c83c3e7dbc16,516252,50022,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 2 Years (LVR 80%-95%),False,FALSE
+273e2afe-3aff-493e-8da4-18b24c953a71,516255,50025,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 5 Years (LVR 80%-95%),False,FALSE
+65dab13f-5bb0-4d19-8e70-c8de048ffdc5,524734,15384,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 4 Years (LVR 70%-80%),False,FALSE
+41d556db-9da4-4899-a90d-465b658a8964,516253,50023,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 3 Years (LVR 80%-95%),False,FALSE
+94c7c743-1b37-4fa1-afe3-95414f5bb033,524732,15382,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 2 Years (LVR 70%-80%),False,FALSE
+41293459-bb40-4006-a09c-152f4f360660,516242,50032,Aussie,IQ Offset Home Loan Fixed (Interest Only) 2 Years (LVR 70%-80%),False,FALSE
+55e2b08c-0e09-4502-80fd-34068ff2b49d,516241,50031,Aussie,IQ Offset Home Loan Fixed (Interest Only) 1 Year (LVR 70%-80%),False,FALSE
+b65f224c-276c-4fb5-94c5-adcb14c7f006,514493,30433,Aussie,IQ Offset Home Loan Fixed (Interest Only) 3 Years (LVR < 70%),False,FALSE
+dafbacd2-2aa1-4fb9-821f-ac1a3686904a,524751,18631,Aussie,IQ Basic Investment Loan Fixed (Principal and Interest) 1 Year (LVR 80%-95%),True,FALSE
+a9ae51c0-3364-476c-b774-807f0de94070,524744,18634,Aussie,IQ Basic Investment Loan Fixed (Principal and Interest) 4 Years (LVR 70%-80%),True,FALSE
+f02b5736-2aa9-4987-ba43-a6fb10a896bb,516153,50013,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 3 Years (LVR 70%-80%),True,FALSE
+13705bec-0f58-48a5-a922-7d971f73016d,516154,50014,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 4 Years (LVR 70%-80%),True,FALSE
+842cc8bc-8c73-4644-b80a-c27dbd88c59e,516151,50011,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 1 Year (LVR 70%-80%),True,FALSE
+3c22700d-5611-410c-aeb5-f97269b934e6,406502,27052,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 2 Years (LVR < 70%),True,FALSE
+a4c3fd23-c34e-46f0-a81b-faa919a93b73,406504,27054,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 4 Years (LVR < 70%),True,FALSE
+c9e889e8-aaa0-4913-86b5-22b99fc44b5b,516183,49983,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 3 Years (LVR 80%-95%),True,FALSE
+c721a6fc-1427-452a-823b-18fc54394a9d,524725,1765,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 5 Years (LVR 70%-80%),True,FALSE
+a574a587-2e4e-4f40-881a-4d31b2cda0db,516184,49984,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 4 Years (LVR 80%-95%),True,FALSE
+8379ca3e-d99c-46c4-a33c-79dbdac59d22,524724,1764,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 4 Years (LVR 70%-80%),True,FALSE
+fd383b31-fb8b-409f-8409-feb3b2acf4a9,524722,1762,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 2 Years (LVR 70%-80%),True,FALSE
+37a615a3-3315-4563-b71c-992a33ddaaf2,516174,49994,Aussie,IQ Basic Home Loan Fixed (Interest Only) 4 Years (LVR 70%-80%),True,FALSE
+dab13f78-b159-447f-b32c-cb8b4aa4541c,516175,49995,Aussie,IQ Basic Home Loan Fixed (Interest Only) 5 Years (LVR 70%-80%),True,FALSE
+dcd326da-0ac9-4583-ac82-266582c9f3c1,406493,27043,Aussie,IQ Basic Home Loan Fixed (Interest Only) 3 Years (LVR < 70%),True,FALSE
+055982bb-5c35-4521-adc7-3ac840d6b1e9,406491,27041,Aussie,IQ Basic Home Loan Fixed (Interest Only) 1 Year (LVR < 70%),True,FALSE
+dd2ddc2c-3857-46d8-ac7c-13f9daa71c80,406492,27042,Aussie,IQ Basic Home Loan Fixed (Interest Only) 2 Years (LVR < 70%),True,FALSE
+03a48949-4e4f-48c2-8ddc-c3d04dfd9ce1,219610,943,Bank of Melbourne,Standard Variable Home Loan (Principal and Interest),True,TRUE
+698dee9b-333b-4c35-8548-13df0f11bfe5,211454,20124,Bank of Melbourne,Fixed Rate Investment Loan (Principal and Interest) 4 Years,True,TRUE
+87c964d3-ea65-4bfc-8761-7bb55dede289,211455,20125,Bank of Melbourne,Fixed Rate Investment Loan (Principal and Interest) 5 Years,True,TRUE
+12d07344-3b0c-4b1c-9ced-b70b5d222517,443760,3648,Bank of Melbourne,Basic Investment Loan (Principal and Interest),True,TRUE
+c11904aa-44ab-48bf-a627-579eedf1ceb5,211530,3647,Bank of Melbourne,Basic Home Loan (Principal and Interest),True,TRUE
+9c8ec7d9-6029-4930-a629-ee5ad642cc75,400260,2367,BankSA,Standard Variable Investment Loan (Principal and Interest),True,TRUE
+426e2639-24ed-4333-b4a6-bef2a4ce38e7,220553,20083,BankSA,Fixed Rate Investment Loan (Principal and Interest) 3 Years,True,TRUE
+a3cd7119-3f4a-4c1a-8418-71ddfb3b36d1,220552,20082,BankSA,Fixed Rate Investment Loan (Principal and Interest) 2 Years,True,TRUE
+1beb7813-8188-4eda-a529-e845da4fb9fe,220554,20084,BankSA,Fixed Rate Investment Loan (Principal and Interest) 4 Years,True,TRUE
+8a157583-8e80-4787-8005-1bf6bdecf284,443740,2001,BankSA,Basic Investment Loan (Principal and Interest) (New Customer),True,TRUE
+cd14ddab-5de0-4163-8638-3c779687d238,443750,28,BankSA,Basic Home Loan (Principal and Interest) (New Customer),True,TRUE
+4fc8bf34-0bb5-4871-81c2-c9519730f565,23540,2816,BankVic,Standard Variable Investment Loan,True,TRUE
+a7784a4a-3fa4-49c2-8df8-54ab04d2c5a0,240350,1494,BankVic,Offset Variable Home Loan,True,TRUE
+d8354146-32b7-404c-a146-b37ffdca0649,413230,2879,Bankwest,Mortgage Shredder Investment Loan (Principal and Interest),True,TRUE
+536cd0d7-a371-49ba-adf1-c9cf03f1695c,427860,3384,Bendigo & Adelaide Bank,Connect Package Investment Loan (Principal and Interest) ($500k+),True,TRUE
+228bec23-0067-4d7c-a19a-c172c184f822,427892,42532,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 2 Years (Principal and Interest),True,TRUE
+aa1ac81b-f672-47a9-9fea-649b13c3cf84,427891,42531,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 1 Year (Principal and Interest),True,TRUE
+e704a137-c7dd-4fc9-ac9d-23b0024617c7,427894,42534,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 4 Years (Principal and Interest),True,TRUE
+d07a29a2-2e18-4dcd-825a-60b1eae7ebe4,427872,42512,Bendigo & Adelaide Bank,Connect Package Home Loan Fixed 2 Years (Principal and Interest),True,TRUE
+1622ac55-04a3-4efe-925e-2239dcdab0c3,427873,42513,Bendigo & Adelaide Bank,Connect Package Home Loan Fixed 3 Years (Principal and Interest),True,TRUE
+222af6e4-252a-4fb9-9987-159a9ed78a32,524340,1814,Beyond Bank Australia,Special Low Variable Rate Home Loan (LVR < 80%),True,TRUE
+daf778ba-be96-4974-866f-01a0d469ca92,447790,1887,Beyond Bank Australia,Total Home Loan Package Variable Investment Loan ($500k+),True,TRUE
+9444b1a6-e83b-4e35-a668-54e1512b22ca,447765,36165,Beyond Bank Australia,Total Home Loan Package Investment Loan Fixed 5 Years,True,TRUE
+77822d99-354f-4871-9db4-1c525473e872,447764,36164,Beyond Bank Australia,Total Home Loan Package Investment Loan Fixed 4 Years,True,TRUE
+b070ea07-04da-4160-8c44-c389d1994633,447730,302,Beyond Bank Australia,Standard Variable Rate Investment Loan,True,TRUE
+1827a929-75e4-4ff0-99a9-552e00318ddb,447802,34912,Beyond Bank Australia,Pinnacle Plus Package Investment Loan Fixed 2 Years,True,TRUE
+8e545944-def8-40e0-9a1c-2d305faafda9,447804,34914,Beyond Bank Australia,Pinnacle Plus Package Investment Loan Fixed 4 Years,True,TRUE
+4f841ac0-5ffc-4513-8a80-01b4520c1264,378661,36151,Beyond Bank Australia,Total Home Loan Package Home Loan Fixed 1 Year (LVR < 90%),True,TRUE
+603510c3-3119-4411-882f-ee84381521bd,378664,36154,Beyond Bank Australia,Total Home Loan Package Home Loan Fixed 4 Years (LVR < 90%),True,TRUE
+45d7110a-1ae2-4d2a-bdaf-4315a7dad97a,378665,36155,Beyond Bank Australia,Total Home Loan Package Home Loan Fixed 5 Years (LVR < 90%),True,TRUE
+38f66aea-0bba-4c33-a525-6af6bc825d75,19960,3478,Beyond Bank Australia,Standard Variable Rate Home Loan (LVR < 90%),True,TRUE
+15e38aaf-81e3-4411-9882-ce1a7041acf8,22692,34902,Beyond Bank Australia,Pinnacle Plus Package Home Loan Fixed 2 Years (LVR < 90%),True,TRUE
+5f3fe60e-eb77-4637-a226-47f102533c3b,22695,34905,Beyond Bank Australia,Pinnacle Plus Package Home Loan Fixed 5 Years (LVR < 90%),True,TRUE
+66adbbd0-934c-436b-9814-7f6fee9d921a,22694,34904,Beyond Bank Australia,Pinnacle Plus Package Home Loan Fixed 4 Years (LVR < 90%),True,TRUE
+a05dc3f8-2d18-4d83-8613-be3d557d88bb,21943,34853,Beyond Bank Australia,Fixed Rate Home Loan 3 Years (LVR < 90%),True,TRUE
+d619bc24-ddfa-4d01-8ba3-9db1ba9dffe2,21941,34851,Beyond Bank Australia,Fixed Rate Home Loan 1 Year (LVR < 90%),True,TRUE
+6512f188-fed6-47f8-b6fd-0b793af9bc43,24260,3477,Beyond Bank Australia,Basic Variable Home Loan (LVR < 90%),True,TRUE
+5c4f3721-8e41-4f31-bb1a-7e374533f83a,471333,22533,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (New Customer) 3 Years,False,FALSE
+22baeaba-4f87-40a9-b8a6-4a889525497d,451503,22503,Bank of Queensland,Standard Fixed Rate Investment Loan (New Customer) 3 Years,False,FALSE
+6b75c925-ce16-485d-a423-9596444387d7,471343,18923,Bank of Queensland,Privileges Package Fixed Rate Home Loan (New Customer) 3 Years,False,FALSE
+2a04d443-7cd7-4e8d-a88e-790470f4cbfa,17010,42,Bank of Queensland,Standard Variable Rate Home Loan (Principal and Interest),True,TRUE
+7b3cbff5-f99e-466f-a401-a3222bc22949,397265,22525,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 5 Years,False,FALSE
+80543fd1-6cdd-4d97-86e7-465197c4ef9e,397263,22523,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 3 Years,False,FALSE
+48c096a5-6d95-4a5a-a047-29fc8a1ea863,437543,18613,Bank of Queensland,Standard Fixed Rate Home Loan (New Customer) 3 Years,False,FALSE
+b171b240-2f50-467d-a33c-c3f0d28f6e55,20781,441,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+d3cf75ad-bef5-4ad6-9951-2980bcd40079,20784,444,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 4 Years,False,FALSE
+199bed92-c7f7-4e5b-a1e4-bd8fb47ee0d6,397280,2243,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Principal and Interest) ($1m+),True,TRUE
+27f4d7b7-2135-424c-a595-b82b57af0845,23110,49,Bank of Queensland,Privileges Package Variable Rate Home Loan (Principal and Interest) ($150k-$250k),True,TRUE
+970185ad-1423-484f-8725-ae31cf962ee9,397532,22572,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 2 Years,False,FALSE
+b596ad59-873f-4189-a609-968ef92cc697,397531,22571,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 1 Year,False,FALSE
+9fc4be93-5790-420d-9dae-c76de433a412,217321,2211,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+3154416e-abcf-46a8-a743-de81a982a914,428150,3203,Bank of Queensland,Line of Credit Investment Loan,False,FALSE
+d06ae262-63a2-497b-bd19-917f095627a8,397240,2245,Bank of Queensland,Economy Investment Loan (Principal and Interest),True,TRUE
+498f9623-bf3e-40be-a1c9-edcb45722755,402990,3004,Bank of Queensland,Clear Path Variable Rate Investment Loan (Principal and Interest),True,TRUE
+7c11b437-bd08-4a7a-b064-12dfb5e82392,423120,1396,Bank of Queensland,Clear Path Line of Credit Investment Loan,False,FALSE
+afc1aff9-5c05-4dd0-aea1-70f9649c1759,21000,179,Citi,Standard Variable Home Loan,True,TRUE
+21ddce2d-4752-47ca-8b49-8e9cee38a26e,407083,35833,Citi,Mortgage Plus Fixed Investment Loan 3 Years (Principal and Interest) (LVR < 80%) ,True,FALSE
+c65ccc05-6816-49cf-8425-0209653e2f3a,290681,35791,Citi,Mortgage Plus Fixed Home Loan 1 Year,True,FALSE
+7d3f3ca3-94f2-41d4-ad69-9ca2dc7489c4,290683,35793,Citi,Mortgage Plus Fixed Home Loan 3 Years,True,FALSE
+f3807952-3c7a-472a-ac64-568a890de2bd,499752,42152,Citi,Fixed Investment Loan 2 Years (Principal and Interest) (LVR < 80%),False,FALSE
+49cb0a29-e606-414c-ab01-5ca6f472013a,21012,42122,Citi,Fixed Home Loan 2 Years,False,FALSE
+b148f200-5a35-458e-a938-99ffc7760889,21011,42121,Citi,Fixed Home Loan 1 Year,False,FALSE
+bfa602fb-4579-4dd6-90ae-a60008cd44cb,24320,3103,Citi,Basic Variable Home Loan (LVR < 80%),True,TRUE
+644de7e2-9538-4513-b0db-466dedfb3e30,19491,36011,Community First Credit Union,Fixed Rate Home Loan (Principal and Interest) 1 Year,True,TRUE
+a7953bdc-29de-4f87-aee4-78eb06c99d33,17350,1748,Community First Credit Union,Basic Variable Home Loan (Principal and Interest) (LVR < 80%),True,TRUE
+d0a60e44-0141-49de-89fb-213c0f922791,433845,34535,G&C Mutual Bank,Fixed Rate Investment Loan 5 Years,True,TRUE
+f71f2ef7-2310-400b-993b-46ca983cfa6b,433834,34524,G&C Mutual Bank,Fixed Rate Investment Loan 4 Years,True,TRUE
+a56f58cb-dcd3-47ec-aae1-31c97e2cfcfc,433771,34491,G&C Mutual Bank,Fixed Rate Investment Loan 1 Year,True,TRUE
+f9e2f3a7-bd0e-4104-b6f3-83ffa7fb49f8,390332,19122,G&C Mutual Bank,Fixed Rate Home Loan 2 Years,True,TRUE
+af621268-0125-4782-8705-b0dc48d56406,189611,7831,G&C Mutual Bank,Fixed Rate Home Loan 1 Year,True,TRUE
+9619631e-65ff-4b77-8331-4c260719691c,390354,19144,G&C Mutual Bank,Fixed Rate Home Loan 4 Years,True,TRUE
+7ca8ff63-0102-4846-8472-bdc5a8ad4a1e,21250,2429,Gateway Bank,Standard Variable Investment Loan,True,TRUE
+d548b588-b612-4935-bcd2-7597d09642d7,402825,24315,Gateway Bank,Premium Package Investment Loan Fixed 5 Years,False,FALSE
+10a065e7-e007-4ddf-b079-3e87fe30a60b,402822,24312,Gateway Bank,Premium Package Investment Loan Fixed 2 Years (LVR < 80%),False,FALSE
+b6d00905-ffcf-405b-a360-0f1fefe2ae23,402740,2424,Gateway Bank,Premium Package Investment Loan (LVR 80%-85%),True,TRUE
+49da2d9f-e11b-4c29-bad9-bcb102df991b,282103,12713,Gateway Bank,Premium Package Home Loan Fixed 3 Year (LVR < 80%),False,FALSE
+ad39cbd3-a30f-49b4-9761-e2492d211428,282105,12715,Gateway Bank,Premium Package Home Loan Fixed 5 Years,False,FALSE
+d38bb81c-5c9f-410c-90b4-3d62b0b4ca6c,349600,1270,Gateway Bank,Premium Package Home Loan (LVR 80%-85%),True,TRUE
+1a281b30-01f2-431a-b135-b31e7aa48d7b,402790,2426,Gateway Bank,Low Rate Essentials Investment Loan (LVR < 80%),True,TRUE
+51c8f8a3-ee60-4e27-8926-351023064047,402780,2427,Gateway Bank,Low Rate Essentials Investment Loan (LVR 80%-85%),True,TRUE
+a4f73bc7-bb8c-4e44-94b3-68bfdea3cb2d,77161,16091,Homeloans,Ultra Plus Home Loan Fixed (Principal and Interest) 1 Year (LVR 80%-90%),True,TRUE
+c372a046-f97f-4058-8a15-8a1bc22105b1,77163,16093,Homeloans,Ultra Plus Home Loan Fixed (Principal and Interest) 3 Years (LVR 80%-90%),True,TRUE
+d2b4d0ae-3072-46e3-aaa7-e1a9a8f7e6ea,77165,16095,Homeloans,Ultra Plus Home Loan Fixed (Principal and Interest) 5 Years (LVR 80%-90%),True,TRUE
+7781dc3a-125c-4316-a856-10c8884c0648,87830,2509,Homeloans,"Ultra Plus Home Loan (Principal and Interest) ($200k+, LVR 80%-90%)",True,TRUE
+f8345bb0-ead3-476f-9ada-2b21f199b76c,16904,6924,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 4 Years,True,TRUE
+c7c03aa2-9357-4355-a714-279b0795be69,16905,6925,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 5 Years,True,TRUE
+fa239608-8dfb-49a4-ab10-aed2c9be59e1,16901,6921,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 1 Year,True,TRUE
+0e39f961-b51b-4343-b041-94c4a172f35d,483870,4146,Homestar Finance,"Variable Rate Investment Loan (Interest Only) (Amounts <$750k, LVR <70%)",True,TRUE
+dfdfd0b5-4ac2-450c-b0bf-dd1c01991e68,483895,41605,Homestar Finance,Fixed Rate Investment Loan (Interest Only) 5 Years,False,FALSE
+5a705896-7a8e-43fc-907f-3ce43720966b,483894,41604,Homestar Finance,Fixed Rate Investment Loan (Interest Only) 4 Years ,False,FALSE
+2996468d-3a07-4878-b8d1-ff416fcf1187,483450,4142,Homestar Finance,"Variable Rate Home Loan (Interest Only) (Amounts < $750k, LVR < 70%)",True,TRUE
+77297c3a-a0e9-44db-994c-ec4514cd0cf5,483884,41564,Homestar Finance,Fixed Rate Investment Loan (Principal and Interest) 4 Years,False,FALSE
+d6f4cd36-e0a0-46c0-a6f9-1e7d8df2ec23,483885,41565,Homestar Finance,Fixed Rate Investment Loan (Principal and Interest) 5 Years,False,FALSE
+c672f6e9-6d13-48af-b304-cfb32a79ee03,483465,41505,Homestar Finance,Fixed Rate Home Loan (Principal and Interest) 5 Years,False,FALSE
+ddcab18b-bc47-4a64-af31-2b5e9276e45b,483462,41502,Homestar Finance,Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+b5674972-2a49-46ae-a108-87b8ab9bb0be,483464,41504,Homestar Finance,Fixed Rate Home Loan (Principal and Interest) 4 Years,False,FALSE
+60fa3a7f-b0bc-4f74-a7f5-27e22e8d76c2,483475,41535,Homestar Finance,Fixed Rate Home Loan (Interest Only) 5 Years,False,FALSE
+dc07a2ea-127f-4810-9c40-d07ef506d9fd,483473,41553,Homestar Finance,Fixed Rate Home Loan (Interest Only) 3 Years,False,FALSE
+6eab47cb-0fc1-439f-b8e4-a6f74c242db2,215761,30661,HSBC,Premier Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+b41443a4-598d-4d0d-a268-6027907acf1d,215763,30663,HSBC,Premier Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+05daf4d6-ac99-479e-80da-6bc7d5f8bb5a,215260,264,HSBC,Home Smart Home Loan,True,TRUE
+7d357e1d-5f78-40f2-88b6-d35c9edd7287,19305,16125,HSBC,Fixed Rate Home Loan (Principal and Interest) 5 Years,False,FALSE
+a97dca57-4ef8-45b3-bb20-c55328f55bf7,19302,16122,HSBC,Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+dae1d393-e9da-43a6-92bf-21c5b495c776,19303,16123,HSBC,Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+2d392f97-120d-48d0-ba74-3ca997358961,177530,2435,Hunter United,Package Home Loan,True,TRUE
+707fd94a-1076-4089-bdbf-54cb2c5da4ed,200722,24372,Hunter United,Fixed Rate Home Loan 2 Years,False,FALSE
+596a499d-136b-4142-9a27-f6a23a82b0fd,483580,4124,Illawarra Credit Union,2 Year Introductory Variable Home Loan,True,TRUE
+ab4e828f-b354-45b4-ad68-f89a1b973e52,417800,2775,Illawarra Credit Union,Variable Lite Investment Loan (Principal and Interest),True,TRUE
+54b2a856-67db-4cdc-a536-1f9919c3f66f,417973,27763,Illawarra Credit Union,Fixed Lite Investment Loan (Principal and Interest) 3 Years,True,TRUE
+124f45c9-a866-4d07-b054-042e74feaf4f,417971,27761,Illawarra Credit Union,Fixed Lite Investment Loan (Principal and Interest) 1 Year,True,TRUE
+77c4264d-31fd-46d9-a50d-9746a6dd2dbc,417863,27793,Illawarra Credit Union,Fixed Investment Loan (Principal and Interest) 3 Years,True,TRUE
+953034e4-0b91-4c69-a78e-48117661ea53,417861,27791,Illawarra Credit Union,Fixed Investment Loan (Principal and Interest) 1 Year,True,TRUE
+8e855e49-906c-4336-9c59-54a1d6511c3c,294800,1520,Illawarra Credit Union,Variable Home Loan (Principal and Interest) ($250k+),True,TRUE
+d7f06533-c422-47e2-a597-d5137621a3a4,418022,8132,Illawarra Credit Union,Fixed Lite Home Loan 2 Years,True,TRUE
+f2d47851-39d0-45cc-b7e5-b85d07c6be34,418023,8133,Illawarra Credit Union,Fixed Lite Home Loan 3 Years,True,TRUE
+5261436f-1de3-4880-a9c8-b52ff1243879,21872,15212,Illawarra Credit Union,Fixed Home Loan 2 Years,True,TRUE
+f890edcb-1508-4d3b-9502-32aa97e02c6c,489770,2230,Commonwealth Bank of Australia,3 Year Special Economiser Investment Loan (Principal and Interest),True,TRUE
+743cbad2-0b62-47a1-8afd-4b78cbeb6134,208534,1334,Commonwealth Bank of Australia,Wealth Package Fixed Rate Home Loan 4 Years,False,TRUE
+183f6449-ff4e-4968-b0fd-616a4c631df1,208531,1331,Commonwealth Bank of Australia,Wealth Package Fixed Rate Home Loan 1 Year,False,TRUE
+2c7a5c77-7e8e-43a3-995c-bd98fbd468c4,489810,2238,Commonwealth Bank of Australia,No Fee Variable Rate Investment Loan (Principal and Interest),True,TRUE
+98a38da7-a995-448f-982d-72370e40939e,489760,2229,Commonwealth Bank of Australia,Introductory 12 Month Discounted Variable Investment Loan (Principal and Interest),True,TRUE
+c03d6f2c-b14c-449a-81fd-59e4716607dd,489740,2207,Commonwealth Bank of Australia,Introductory 1 Year Guaranteed Rate Investment Loan (Principal and Interest),True,TRUE
+ccdde1c4-2ca4-4280-8bf3-e4bc93a8cec9,489792,21052,Commonwealth Bank of Australia,Fixed Rate Investment Loan 2 Years,False,FALSE
+b82238fe-a858-433d-8c16-fabf70989d3c,489797,21057,Commonwealth Bank of Australia,Fixed Rate Investment Loan 7 Years,False,FALSE
+e82f11de-c41f-4b4e-8d35-76c0c79b4292,489793,21053,Commonwealth Bank of Australia,Fixed Rate Investment Loan 3 Years,False,FALSE
+af51498c-8caa-4320-82d3-9f847820152f,20627,1307,Commonwealth Bank of Australia,Fixed Rate Home Loan 7 Years,False,FALSE
+008e50da-215f-40b5-b2e5-630eb908eac0,20622,1302,Commonwealth Bank of Australia,Fixed Rate Home Loan 2 Years,False,FALSE
+c4e499fc-1ad3-475d-a7c8-7c284f713b69,20623,1303,Commonwealth Bank of Australia,Fixed Rate Home Loan 3 Years,False,FALSE
+63e93516-b9f7-4ed6-b70e-03abe901adab,489800,2237,Commonwealth Bank of Australia,Economiser Investment Loan (Principal and Interest),True,TRUE
+3f4e9183-9bff-4f03-8cda-d03035396ccf,450015,36825,ME Bank,Member Package Flexible Investment Loan Fixed (Principal and Interest) 5 Years,False,FALSE
+e489b0b4-af59-4f60-8fd3-98190fc7d2b0,450011,36821,ME Bank,Member Package Flexible Investment Loan Fixed (Principal and Interest) 1 Year,False,FALSE
+08677034-5882-4a5c-911c-cb61dc65263d,450013,36823,ME Bank,Member Package Flexible Investment Loan Fixed (Principal and Interest) 3 Years,False,FALSE
+9445df8a-0343-41ff-a7f1-6ad5e6a17079,450080,3660,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($150k-$400k, LVR 80%-90%)",True,TRUE
+e8b9bbec-3108-40cc-93ac-7a7f08aaed11,450130,3666,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($700k+, LVR 80%-90%)",True,TRUE
+9ed2aff9-2a8a-4176-a4c7-6e1328b1a60f,450000,3659,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($150k-$400k, LVR < 80%)",True,TRUE
+0701f49a-3103-48a3-92bf-cece7cadb62f,406040,4590,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) (Amounts < $150k, LVR < 80%)",True,TRUE
+e596da78-72f9-4987-a791-c54b796abbab,450371,36851,ME Bank,Member Package Flexible Home Loan Fixed (Principal and Interest) 1 Year (LVR < 90%),False,FALSE
+a60f0feb-8bbf-43f4-bdc2-61d19d861071,450377,36857,ME Bank,Member Package Flexible Home Loan Fixed (Principal and Interest) 7 Years (LVR < 90%),False,FALSE
+a9c67626-dde1-4898-a44e-e53811cb695b,450570,3373,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($400k-$700k, LVR 90%-95%)",True,TRUE
+cb78adf6-accf-42ef-842f-c19dde9189dc,450500,3658,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($150k-$400k, LVR 90%-95%)",True,TRUE
+cddd567e-49aa-4644-9a12-82d0ac9de952,450290,3662,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($150k-$400k, LVR < 80%)",True,TRUE
+faad6e3b-86ef-4533-a7ad-d66f45d506ec,450470,3663,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($700k+, LVR 80%-90%)",True,TRUE
+07483d6c-adc1-4078-94fd-698475aa20e3,375280,4296,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) (Amounts < $150k, LVR < 80%)",True,TRUE
+bed7ce13-2669-43f2-96c1-1d43cb6d5352,425635,45925,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 5 Years ,False,FALSE
+d1c4f19e-6e8f-4837-8e69-02d2a13bb9e6,425632,45922,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 2 Years,False,FALSE
+ba5763bb-7ea2-400f-a57f-c8153eeab7b0,406020,2642,ME Bank,Flexible Investment Loan (Principal and Interest) (LVR < 80%),True,TRUE
+f101f74f-25c4-4c25-9e89-0a5349e9787c,425645,45915,ME Bank,Flexible Home Loan Fixed 5 Years (LVR < 90%),False,FALSE
+381e0822-7c5c-4bef-ae3f-0b2bc2bf14cf,425647,45917,ME Bank,Flexible Home Loan Fixed 7 Years (LVR < 90%),False,FALSE
+5eea389c-f57f-4305-83e9-17ababd7531f,425642,45912,ME Bank,Flexible Home Loan Fixed 2 Years (LVR < 90%),False,FALSE
+a29149e9-de52-410d-8582-ae6930385c55,425644,45914,ME Bank,Flexible Home Loan Fixed 4 Years (LVR < 90%),False,FALSE
+35930710-7d25-44ef-9801-698ffed2ace5,375250,1857,ME Bank,Flexible Home Loan (LVR < 80%),True,TRUE
+051cdb6d-a4be-4eee-ae31-0c0433e1bd9d,25360,3779,Liberty Financial,Liberty Star Home Loan (LVR 80%-95%),True,TRUE
+5a72cb08-1466-4ce2-8808-5bebcdf29a55,413750,1287,Liberty Financial,Liberty Sharp Home Loan (LVR 60%-70%),True,TRUE
+99c1ef35-362b-409d-a58a-21f542c9c855,410693,21393,Macquarie Bank,Basic Investment Loan Fixed (Principal and Interest) 3 Years,False,TRUE
+01002b82-6210-41df-8f6f-4fefefde91f0,410695,21395,Macquarie Bank,Basic Investment Loan Fixed (Principal and Interest) 5 Years,False,TRUE
+91699aa9-3638-4abb-9151-05cf7af75a36,410740,3458,Macquarie Bank,"Basic Home Loan (Principal and Interest) ($750k+, LVR 70%-80%)",True,TRUE
+e30fe322-effc-4af0-ad6c-1bcc35ea3a6f,167580,5014,Macquarie Credit Union,First Home Buyer's Home Loan,True,TRUE
+3989e9cb-6989-4b2f-abe9-776dad9ed31e,422943,27673,Mortgage House,Advantage Fixed Investment Loan 3 Years,True,TRUE
+4bb084de-edbd-414e-8b1a-e4bc010b6242,422945,27675,Mortgage House,Advantage Fixed Investment Loan 5 Years,True,TRUE
+4cf4cccc-a2f0-4bb0-aae3-d3c089925844,487020,4801,Mortgage House,Advantage Investment Loan Special,True,TRUE
+5d7f96ea-fcaf-45d8-bda6-49f6025a4751,55700,297,MyState,Standard Variable Home Loan (Principal and Interest),True,TRUE
+e9c534e6-7457-484c-9608-bd76aa7e60bb,296390,1312,MyState,Special Residential Home Loan (Principal and Interest) (LVR < 80%),True,TRUE
+b729ec0e-b437-446b-bfde-4aa057b953c8,405842,23312,MyState,Fixed Investment Loan (Principal and Interest) 2 Years,False,FALSE
+433b3109-b146-4c89-86fa-97ce3eb9396e,405843,23313,MyState,Fixed Investment Loan (Principal and Interest) 3 Years,False,FALSE
+ca1740a0-96de-4692-8600-e4e9c5e71d4b,316205,14775,MyState,Fixed Home Loan (Principal and Interest) 5 Years (LVR < 80%),False,FALSE
+b36aaba3-e56b-49c4-91a1-879d5b9e0c1f,316201,14771,MyState,Fixed Home Loan (Principal and Interest) 1 Year (LVR < 80%),False,FALSE
+1cdf153e-25ed-48d4-a4c3-5202443a17bb,55752,2992,MyState,Fixed Home Loan (Principal and Interest) 2 Years (LVR 80%-95%),False,FALSE
+c1b252fd-f360-455b-bd52-d100c5af86ee,516050,4867,Newcastle Permanent,Premium Plus Package Variable Rate Investment Loan (Principal and Interest) (Amounts < $500k),True,TRUE
+d0da99f8-c62f-4525-82a2-8043cb104bac,516070,4869,Newcastle Permanent,Premium Plus Package Variable Rate Investment Loan (Principal and Interest) ($750k-$900k),True,TRUE
+3a952535-8e64-4083-9133-b72dd96ae556,516020,2076,Newcastle Permanent,Real Option Investment Loan (Principal and Interest),True,TRUE
+e8eaab23-a522-4314-b6b5-b8d2e84edaab,208820,1035,Newcastle Permanent,Real Deal Variable Home Loan (Principal and Interest) (Introductory),True,TRUE
+0e70bef6-570a-4974-b03f-7c8e681498fa,229800,334,Newcastle Permanent,Premium Variable Home Loan (Principal and Interest),True,TRUE
+16ea47d1-8b3f-4942-8eef-26cbf69a4ad8,350530,4862,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan Special (Principal and Interest) (LVR < 80%),True,TRUE
+90dae3d1-c454-4a9b-bf8e-1c414e7afacf,21530,4598,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan (Principal and Interest) ($500k-$750k),True,TRUE
+3824c41b-07de-478b-9783-62c70d1fedd5,201710,4602,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan (Principal and Interest) ($900k+),True,TRUE
+f090731e-bee0-4eb7-bcd8-7a5ffa09c3ed,362601,20771,Newcastle Permanent,Fixed Rate Investment Loan (Principal and Interest) 1 Year,False,FALSE
+cd49d4f0-13dc-4fd6-acbd-33426def2045,362607,20777,Newcastle Permanent,Fixed Rate Investment Loan (Principal and Interest) 7 Years,False,FALSE
+0c67e5aa-002a-4c93-b446-0a0c672c5183,362603,20773,Newcastle Permanent,Fixed Rate Investment Loan (Principal and Interest) 3 Years,False,FALSE
+8d51b450-56ed-4a21-8e31-d67bfbd2c6b4,21191,3311,Newcastle Permanent,Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+a766dbc2-4984-4ea0-a567-be6873150e22,21193,3313,Newcastle Permanent,Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+3238b5f0-0e69-422d-9d34-e8491918cc80,21195,3315,Newcastle Permanent,Fixed Rate Home Loan (Principal and Interest) 5 Years,False,FALSE
+ecfe8066-7654-477c-98c4-672d89f5154f,211910,33110,Newcastle Permanent,Fixed Rate Home Loan (Principal and Interest) 10 Years,False,FALSE
+61e68a26-c563-48e0-b513-327b7ffadad5,362420,1821,People's Choice Credit Union,Basic Variable Home Loan (Principal and Interest) (New Customer) (LVR < 80%),True,TRUE
+de61b68c-2c8f-4a8a-83cc-328dfefcdacc,407700,2783,People's Choice Credit Union,Package Variable Investment Loan (Principal and Interest) (New Customer),True,TRUE
+1759144d-ab58-46ae-bde1-b6e124b8f6d7,350480,1435,People's Choice Credit Union,Package Variable Home Loan (Principal and Interest) (New Customer) (LVR < 80%),True,TRUE
+b3fbae05-7783-411d-8bef-f34c52f66f4c,405143,25383,People's Choice Credit Union,Package Fixed Investment Loan (Principal and Interest) 3 Years,False,FALSE
+e78e9c85-adbf-4c62-80d1-844fb42d0f3a,405144,25384,People's Choice Credit Union,Package Fixed Investment Loan (Principal and Interest) 4 Years,False,FALSE
+a3580480-90f4-4816-bd3e-db428636578a,405155,12505,People's Choice Credit Union,Package Fixed Home Loan (Principal and Interest) 5 Years,False,FALSE
+6baa725a-5709-4ec3-aed5-4e7147313f0c,405151,12501,People's Choice Credit Union,Package Fixed Home Loan (Principal and Interest) 1 Year,False,FALSE
+39e06708-79bb-44ef-81fc-e6e297c4feca,405153,12503,People's Choice Credit Union,Package Fixed Home Loan (Principal and Interest) 3 Years,False,FALSE
+3466e13b-6c89-4fe1-8658-98c0b8c7844b,405123,24893,People's Choice Credit Union,Fixed Rate Investment Loan (Principal and Interest) 3 Years,False,FALSE
+8f1eaa57-c710-4aa8-b703-50a5b5f00dd1,405124,24894,People's Choice Credit Union,Fixed Rate Investment Loan (Principal and Interest) 4 Years,False,FALSE
+3cb85a0f-106b-4b78-b8d1-9c5673290cc7,405121,24891,People's Choice Credit Union,Fixed Rate Investment Loan (Principal and Interest) 1 Year ,False,FALSE
+e84595ff-a3bb-4566-83d0-c225857beec0,19402,8722,People's Choice Credit Union,Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+cf771773-899e-4e83-b3f6-2990b0c9b34f,19403,8723,People's Choice Credit Union,Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+ea756a7f-443f-4fb5-8e29-59db69d89364,431755,34455,QBANK,Fixed Rate Investment Loan 5 Years,True,TRUE
+115fc082-09e4-4f2a-9a22-dd5749cc292d,431751,34451,QBANK,Fixed Rate Investment Loan 1 Year,True,TRUE
+4ce3bc4d-6edf-457a-b2d0-593cf56cbc9e,431752,34452,QBANK,Fixed Rate Investment Loan 2 Years,True,TRUE
+d73fb772-34ff-4fa6-9176-4f5a35d5e00a,431720,3443,QBANK,Classic Plus Package Investment Loan (QLD only) ($100k-$250k),True,TRUE
+39001593-5fda-4115-8409-e82244e0c484,431710,3442,QBANK,Classic Investment Loan,True,TRUE
+20e309cd-3215-45be-a4c7-157f16888f40,312344,7904,QBANK,Fixed Rate Home Loan 4 Years (QLD only),True,TRUE
+93d9a1f2-f832-4322-a9a7-cf713d3f5e91,312343,7903,QBANK,Fixed Rate Home Loan 3 Years (QLD only),True,TRUE
+d3e2090b-8cb2-45ac-9df4-70f191534c8d,470030,3992,QBANK,Classic Investment Loan Special Offer (New Customer) (LVR < 80%),True,TRUE
+a9020ec9-4079-4035-8ec2-2576be35cd96,312360,1845,QBANK,Classic Home Loan Special Offer (QLD only) (New Customer) (LVR < 80%),True,TRUE
+9719f961-e484-42cc-ac61-fd6b8052f58b,433520,792,QBANK,Classic Home Loan (QLD only),True,TRUE
+e58163e0-8449-4200-9c95-236e9f4b46a4,430190,3367,RAMS,Full Feature Investment Loan (Principal and Interest),True,TRUE
+bac1f4f5-93b2-4e8b-9e6b-281785fdc1d0,324740,1417,RAMS,"Value Advantage Package Full Feature Loan (Principal and Interest) ($250k-$500k, LVR 80%-95%)",True,TRUE
+3d47d1ca-4827-48bd-96d6-289fcaafb84b,74460,986,RAMS,Line of Credit,True,TRUE
+3998ea96-7f34-4fbb-8627-5715b01aa000,70694,9854,RAMS,Home Loan Fixed (Principal and Interest) 4 Years,True,TRUE
+b7d1dab2-a250-44f8-845d-c35edccd8279,70691,9851,RAMS,Home Loan Fixed (Principal and Interest) 1 Year,True,TRUE
+4a1ce717-2d2d-47e3-9a62-dc9305978c83,70695,9855,RAMS,Home Loan Fixed (Principal and Interest) 5 Years,True,TRUE
+db772c30-4963-4586-886a-2ac079f2958e,261650,1110,RESI Mortgage Corp,Flexi Options Home Loan (LVR 80%-95%),True,TRUE
+6e496d9c-aca2-4ccd-ac6c-3b4927ebd95e,17391,42701,Endeavour Mutual Bank,1 Year Fixed Home Loan,False,TRUE
+98fc9694-8baf-4422-b101-bc9733a308e1,19570,4271,Endeavour Mutual Bank,Variable Home Loan,True,TRUE
+3bd8fa66-904f-4ada-8cc9-0d1ce0c69938,17392,42702,Endeavour Mutual Bank,2 Year Fixed Home Loan,True,TRUE
+5cbe1bc8-fa15-439a-b222-def728167394,73800,579,St.George Bank,Advantage Package Portfolio Loan ($100k-$150k),False,FALSE
+8b0fc4da-6bf0-4d37-a396-be41d338a5af,222970,3651,St.George Bank,Basic Home Loan (Principal and Interest),True,TRUE
+75ae39ca-4b8c-4620-95a6-2c121e3426df,399930,3652,St.George Bank,Basic Investment Loan (Principal and Interest),True,TRUE
+68210b84-18f8-4dbe-a1db-03b06b1b2420,219160,222,St.George Bank,Standard Variable Home Loan (Principal and Interest),True,TRUE
+d38143e0-1f2d-42be-8120-aa1bde809688,472302,3872,Suncorp Bank,Home Package Plus Personal Fixed (Principal and Interest) 2 Years,False,FALSE
+bd1e0b07-85d9-4837-9eb4-48503444385e,472291,25401,Suncorp Bank,Home Package Plus Investment Fixed (Principal and Interest) 1 Year ,False,FALSE
+48edabd2-d18f-48eb-b223-00c7da66bc23,472292,25402,Suncorp Bank,Home Package Plus Investment Fixed (Principal and Interest) 2 Years ,False,FALSE
+7892d878-7f8d-4fb9-bdaa-d71edfee2eb3,506880,4764,Suncorp Bank,"Home Package Plus Access Equity Line of Credit Special ($150k+, LVR < 90%)",False,FALSE
+f5e6d44f-3aec-48a0-9f18-2d85b6400b0d,472281,24871,Suncorp Bank,Fixed Investment Loan (Principal and Interest) 1 Year,False,FALSE
+193cd772-a595-4622-80f2-5c73a8f35c25,472283,24873,Suncorp Bank,Fixed Investment Loan (Principal and Interest) 3 Years,False,FALSE
+38ab8d2a-4fe8-421b-b5c3-c407b79e1a3c,54931,16621,Suncorp Bank,Fixed Home Loan (Principal and Interest) 1 Year,False,FALSE
+24f6b1da-7961-4b30-ba9f-1a26b47994a2,54933,16623,Suncorp Bank,Fixed Home Loan (Principal and Interest) 3 Years,False,FALSE
+a138739f-c823-4d93-b027-2dd76c515f72,19730,205,Suncorp Bank,Access Equity Line of Credit,False,FALSE
+34b77ad7-73ad-439e-a7f2-de4162a38741,498280,3718,Teachers Mutual Bank,Interest Only Investment Loan,True,TRUE
+e4cd6324-e29d-42da-bf95-3d3a459e3080,492141,28551,Teachers Mutual Bank,Fixed Investment Loan (Principal and Interest) 1 Year,False,FALSE
+33540923-f231-4980-8c73-8f5197981950,492143,28553,Teachers Mutual Bank,Fixed Investment Loan (Principal and Interest) 3 Years,False,FALSE
+996fcfcb-2b80-450d-968b-5fea194ec61e,24700,609,Teachers Mutual Bank,Interest Only Home Loan,True,TRUE
+5f8c80ff-04b8-4546-97c8-ffc0f9f4d53c,22915,6075,Teachers Mutual Bank,Fixed Home Loan (Principal and Interest) 5 Years,False,FALSE
+6bae4450-6579-4565-9ade-b352f9779f5d,22911,6071,Teachers Mutual Bank,Fixed Home Loan (Principal and Interest) 1 Year,False,FALSE
+517a21aa-0aa8-4a6b-b488-fc681cd4cc99,22912,6072,Teachers Mutual Bank,Fixed Home Loan (Principal and Interest) 2 Years,False,FALSE
+842d9918-a5c1-4f98-8287-131e203c2d1e,167510,4089,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR < 60%)",True,TRUE
+9ed356d2-7666-4298-a190-1749606c7622,476140,4081,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 60%-80%)",True,TRUE
+555cc2b5-0f7d-4858-aec1-c5333278b97c,476230,4084,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 60%-80%)",True,TRUE
+ed1831b6-9617-431e-bac6-f3bf3af3d523,476210,4075,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 80%-90%)",True,TRUE
+0e962ef2-cdd3-4aa3-a2e8-3fe3bed11a3a,476170,4082,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 60%-80%)",True,TRUE
+e19a66a0-fce0-44fa-9fff-8d5d9dbae62f,476240,4076,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 80%-90%)",True,TRUE
+33194f07-7fee-441e-b4ab-98405dc8af4a,412910,2856,Teachers Mutual Bank,Classic Home Loan,True,TRUE
+df2003e8-9898-429f-8cda-18e98ff3570c,445400,4236,The Rock Building Society,Standard Variable Investment Loan (Principal and Interest),True,TRUE
+84a1ad22-1826-4226-b59e-8ed326797464,455712,23292,The Rock Building Society,Fixed Rate Investment Loan 2 Years (Principal and Interest) (LVR < 80%),True,TRUE
+03767a5d-ad2b-4075-a906-93d9193a65ed,455715,23295,The Rock Building Society,Fixed Rate Investment Loan 5 Years (Principal and Interest) (LVR < 80%),True,TRUE
+c40517e7-a426-4b08-b431-130a3bd2ee98,18973,14103,The Rock Building Society,Fixed Rate Home Loan 3 Years (Principal and Interest) (LVR < 90%),True,TRUE
+d4af7190-f8aa-4d3c-a251-0a1d94b5caa5,18971,7351,The Rock Building Society,Fixed Rate Home Loan 1 Year (Principal and Interest) (LVR < 80%),True,TRUE
+7a0b9c85-6da1-4678-9cb4-f61f1667c43c,18975,7355,The Rock Building Society,Fixed Rate Home Loan 5 Years (Principal and Interest) (LVR < 80%),True,TRUE
+c77db0af-45ef-4dbe-a51e-f347bdf5bfad,316043,51653,The Rock Building Society,Fixed Rate Home Loan 3 Years (Principal and Interest) (LVR 90%-95%),True,TRUE
+5be4195c-683e-4ad1-8563-a945440947a4,435900,2334,The Rock Building Society,Essentials Investment Loan (Principal and Interest) (LVR < 80%),True,TRUE
+955a0b3b-7056-4e93-bc49-fbae4f781baf,274520,1315,The Rock Building Society,Essentials Home Loan (Principal and Interest) (LVR 90%-95%),True,TRUE
+d54aca95-a9d1-4627-ac47-209f6d1ae791,399741,28571,UniBank,Fixed Investment Loan 1 Year,False,FALSE
+79cace4e-ae49-4e50-a1f6-6a932d23dff7,399745,28575,UniBank,Fixed Investment Loan 5 Years,False,FALSE
+7123c1ee-9b2c-4652-a2e4-89c9817ead04,399743,28573,UniBank,Fixed Investment Loan 3 Years,False,FALSE
+d8cb9dd8-1b0f-45db-afcc-7d4adda5fa82,395110,2440,UniBank,Flexi Choice Home Loan,True,TRUE
+05182630-f6f7-44ae-9e3d-15f9e349a92a,395102,24422,UniBank,Fixed Home Loan (Principal and Interest) 2 Years,False,FALSE
+ebef0181-bdba-4ca0-ac65-21cbda0c125a,395103,24423,UniBank,Fixed Home Loan (Principal and Interest) 3 Years,False,FALSE
+5dea4565-0d48-448f-af33-9481772410fe,476480,4093,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR < 60%)",True,TRUE
+cb97d6e7-9a1a-4da4-b2c1-cf957f748232,476660,4096,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR < 60%)",True,TRUE
+acd53350-ff62-4331-a2b2-e8564c4e06e7,476620,4087,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 60%-80%)",True,TRUE
+a5999a69-4743-484c-8c09-cdf9637893fb,395060,2445,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 90%-95%)",True,TRUE
+fe824748-09eb-4408-9163-d1d2a26474df,476580,4078,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 80%-90%)",True,TRUE
+40f39d31-4e1e-494a-bd92-33c5621cec22,476500,4085,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 60%-80%)",True,TRUE
+7c4d5fef-cbd8-4053-b214-46ca182e70dd,395070,2444,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 90%-95%)",True,TRUE
+11202eba-fd64-4826-8031-7133b7c17440,395050,2441,UniBank,My First Home Loan,True,TRUE
+85ca99c4-11fd-4510-85f9-45a78e3ec5c1,409580,496,Bank First,Standard Variable Home Loan (LVR < 80%),True,TRUE
+6043d526-09f2-4b45-8890-ab813cb1e5c0,409553,27353,Bank First,Fixed Standard Investment Loan 3 Years (LVR < 80%),True,TRUE
+dfb439e8-6fff-4361-90b5-b9922ac52853,409554,27354,Bank First,Fixed Standard Investment Loan 4 Years (LVR < 80%),True,TRUE
+f65f015b-3834-4012-8c24-ee2fc6b291c8,409551,27351,Bank First,Fixed Standard Investment Loan 1 Year (LVR < 80%),True,TRUE
+60abf7a3-997c-481a-9b64-0266b109f42f,409622,9142,Bank First,Fixed Standard Home Loan 2 Years (LVR < 80%),True,TRUE
+fc769f74-6b99-421c-8808-f421639ecf14,409623,9143,Bank First,Fixed Standard Home Loan 3 Years (LVR < 80%),True,TRUE
+6a8e7926-8f54-45c6-9737-fb956984d5de,409635,29865,Bank First,Fixed Standard Home Loan 5 Years (LVR 80%-95%),True,TRUE
+31afb7eb-135a-47a9-a518-d6ec8b0ef014,409624,9144,Bank First,Fixed Standard Home Loan 4 Years (LVR < 80%),True,TRUE
+578a1b75-01d1-4828-a14f-597d6bd5fbdc,409633,29863,Bank First,Fixed Standard Home Loan 3 Years (LVR 80%-95%),True,TRUE
+1dae7b80-6970-4ad9-adb2-2c2e5e023783,412122,27322,Bank First,Fixed Complete Investment Loan 2 Years (LVR < 80%),True,TRUE
+4ecbe445-5308-4951-b1e6-98581b754b81,412124,27324,Bank First,Fixed Complete Investment Loan 4 Years (LVR < 80%),True,TRUE
+729c9870-e72d-4508-ae2f-d8ba5c438e85,412125,27325,Bank First,Fixed Complete Investment Loan 5 Years (LVR < 80%),True,TRUE
+8ba3ade3-53d1-4c10-94a3-cdcde606b371,412092,29902,Bank First,Fixed Complete Home Loan 2 Years (LVR 80%-95%),True,TRUE
+d87382fa-26d6-425c-b68d-025843b1245b,412182,8922,Bank First,Fixed Complete Home Loan 2 Years (LVR < 80%),True,TRUE
+a9d15181-5c68-4c2a-9eac-7dbfab05340c,412184,8924,Bank First,Fixed Complete Home Loan 4 Years (LVR < 80%),True,TRUE
+70f5c2c5-f344-48dd-a262-a66212ed490e,412091,29901,Bank First,Fixed Complete Home Loan 1 Year (LVR 80%-95%),True,TRUE
+9b3679fa-d6e5-43c7-a983-3a47765d2a5a,412093,29903,Bank First,Fixed Complete Home Loan 3 Years (LVR 80%-95%),True,TRUE
+b1e187ac-615d-4e94-b27c-531f3edb2aa1,411725,29965,Bank First,Premier Package Investment Loan Fixed 5 Years (LVR < 80%),True,TRUE
+9e32871f-da1e-4599-a5f5-ae71e93b3340,411723,29963,Bank First,Premier Package Investment Loan Fixed 3 Years (LVR < 80%),True,TRUE
+1aa6adaf-b45c-4b47-aeaa-fa49c9ce8adc,410961,29951,Bank First,Premier Package Home Loan Fixed 1 Year (LVR 80%-95%),True,TRUE
+4ac34bf9-caf3-43a9-9ce6-27f9a804c81c,411782,29932,Bank First,Premier Package Home Loan Fixed 2 Years (LVR < 80%),True,TRUE
+b3e63584-3fe9-43c6-8c2f-fbf8ead43d03,411781,29931,Bank First,Premier Package Home Loan Fixed 1 Year (LVR < 80%),True,TRUE
+97f96295-895c-459d-8e52-80184ad275eb,411783,29933,Bank First,Premier Package Home Loan Fixed 3 Years (LVR < 80%),True,TRUE
+4be88976-445a-47ff-a0eb-4297487c85be,410964,29954,Bank First,Premier Package Home Loan Fixed 4 Years (LVR 80%-95%),True,TRUE
+d2354351-c9d0-4a92-b096-8a60ae6ab99d,411740,1881,Bank First,Premier Package Home Loan (LVR < 80%),True,TRUE
+e15b0d4b-c395-40f5-b3d8-55b187a0196b,412160,2728,Bank First,Complete Investment Loan (LVR < 80%),True,TRUE
+07f8ff25-d492-4fa8-bce1-0645f15035b6,412140,495,Bank First,Complete Home Loan (LVR < 80%),True,TRUE
+d63b6ea1-e225-4875-9e54-908c0bdd5b6b,458450,3759,Westpac,Flexi First Option Home Loan (Interest Only),True,TRUE
+8c82c2da-85dc-410e-8adc-df8342e5b24c,25150,3744,Westpac,Rocket Investment Loan (Interest Only),True,TRUE
+69d5ed08-e483-4de9-834b-095fd2edbdfa,221050,88,Westpac,Rocket Investment Loan (Principal and Interest),True,TRUE
+be77675c-4438-487f-a664-6e0618d4db42,130940,2112,Westpac,Flexi First Option Investment Loan (Principal and Interest),True,TRUE
+74707ba8-3634-4ab1-a809-5d35a8b31d6b,19793,873,Westpac,Fixed Rate Investment Loan (Principal and Interest) 3 Years,True,TRUE
+2598e125-30e8-481b-817b-48ba8dfc47d2,197910,8710,Westpac,Fixed Rate Investment Loan (Principal and Interest) 10 Years,True,TRUE
+ff78c84e-7842-49f6-96f9-64e620ca1317,19791,871,Westpac,Fixed Rate Investment Loan (Principal and Interest) 1 Year,True,TRUE
+c796dd01-db06-4ad1-a85c-7ffae2654d25,19795,875,Westpac,Fixed Rate Investment Loan (Principal and Interest) 5 Years,True,TRUE
+a0385388-272d-4b69-85d5-b2f1f1028a44,19374,844,Westpac,Fixed Options Home Loan (Principal and Interest) 4 Years,True,TRUE
+19ffbda6-48be-4b43-b96e-5a93e0d2bba1,19372,842,Westpac,Fixed Options Home Loan (Principal and Interest) 2 Years,True,TRUE
+a9f1ad43-37e8-4649-8810-bb7d994f42cd,19373,843,Westpac,Fixed Options Home Loan (Principal and Interest) 3 Years,True,TRUE
+8f70ae99-e8a6-4235-823a-7ecfa4aec4c7,487672,40092,Bank of us,FlexiDiscount Home Loan Fixed 2 Years (LVR 90%-95%),True,TRUE
+d3976e64-e153-41ba-9b7d-888428f4528d,487673,40093,Bank of us,FlexiDiscount Home Loan Fixed 3 Years (LVR 90%-95%),True,TRUE
+853af021-9508-4794-80c9-78109239f562,55042,42562,Bank of us,FlexiDiscount Home Loan Fixed 2 Years (LVR 80%-90%),True,TRUE
+e81f7683-c4ed-48ae-ac1c-98c0ffccd4b3,512170,4255,Bank of us,FlexiDiscount Home Loan (LVR 90%-95%),True,TRUE
+4558b943-92de-4e46-a0af-5b209aa37938,227070,1827,Bank of us,FlexiDiscount Home Loan (LVR < 80%),True,TRUE
+ebf59220-730c-49c9-8690-987848cd800d,18902,42602,Bank of us,FlexiChoice Investment Loan Fixed 2 Years (LVR 80%-90%),True,TRUE
+aacd5d2b-8d11-46b1-ab3d-bbe2fc8b3c95,18901,42601,Bank of us,FlexiChoice Investment Loan Fixed 1 Year (LVR 80%-90%),True,TRUE
+37c260dd-d956-4b8a-a4bd-122423ed434b,473522,48812,Bank of us,FlexiChoice Investment Loan Fixed 2 Years (LVR < 80%),True,TRUE
+0e477f0a-e770-4345-a246-9ac0582afade,419470,4258,Bank of us,FlexiChoice Investment Loan (LVR 80%-90%),True,TRUE
+366fa7b2-91dc-410a-9179-35d99a9161d8,16870,4880,Bank of us,FlexiChoice Investment Loan (LVR < 80%),True,TRUE
+d7938211-ca60-412b-aefe-581f6643d0b8,512130,3036,Bank of us,Topline Investment Loan (LVR 80%-90%),True,TRUE
+e787e1a0-ce7a-4051-a9cd-b1e1a41f382e,512120,806,Bank of us,Topline Home Loan (LVR 80%-90%),True,TRUE
+f58ab863-2416-4f9e-8845-a051f10aac5a,18670,4878,Bank of us,Topline Home Loan (LVR < 80%),True,TRUE
+7e04224b-360e-4147-8064-f7b404b4a64f,424611,35481,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 1 Year (LVR 90%-95%),False,FALSE
+2582321d-e955-428e-bedf-c01c74c8d6be,424614,35484,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 4 Years (LVR 90%-95%),False,FALSE
+5540df9b-8ecd-455d-9611-6287b1f56295,424612,35482,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 2 Years (LVR 90%-95%),False,FALSE
+6d680d13-6897-4984-99db-3085ab27887e,424613,35483,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 3 Years (LVR 90%-95%),False,FALSE
+7385c512-c835-446f-81d1-5e224bd78241,424422,35402,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 2 Years (LVR < 90%),False,FALSE
+b0f5276b-d700-4bab-b319-595cc6bf50b9,424050,3519,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($75k-$500k, LVR 80%-90%)",True,TRUE
+0731c51c-2af8-4eff-8425-6cda63c96cff,424060,3520,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($500k-$750k, LVR 80%-90%)",True,TRUE
+e7594754-c037-4ed1-998d-1dab8bb2964e,424090,3523,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($500k-$750k, LVR 90%-95%)",True,TRUE
+77238f1b-4307-4a26-920c-e77389d49fd7,424020,3463,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($75k-$500k, LVR < 80%)",True,TRUE
+454aa947-c0a9-4877-93b4-a51cd632c9f9,424160,3530,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($750k+, LVR 80%-90%)",True,TRUE
+53422cbc-336f-4cd3-91c7-4589e76fcacd,424140,3528,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($75k-$500k, LVR 80%-90%)",True,TRUE
+a428c1ce-6d23-4488-9384-ade561d3fd41,424150,3529,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($500k-$750k, LVR 80%-90%)",True,TRUE
+7a7a9b45-5335-4a1f-a833-39ed3c92ff53,424754,35414,Virgin Money,Reward Me Investment Loan Fixed (Principal and Interest) 4 Years ,False,FALSE
+5b40b0d4-34e3-4acb-be51-723e9d798bdc,424755,35415,Virgin Money,Reward Me Investment Loan Fixed (Principal and Interest) 5 Years,False,FALSE
+a0b4e6b0-eace-4120-b09e-ea1f4a6a0b04,424751,35471,Virgin Money,Reward Me Investment Loan Fixed (Principal and Interest) 1 Year,False,FALSE
+90ce476f-c61c-4e4a-9f49-7c28b3e3c8b0,22772,2582,Bank Australia,Premium Home Loan Fixed 2 Years (LVR < 80%),True,TRUE
+60eebe83-3b8c-4c85-8828-ae47f7d4a7da,22773,2583,Bank Australia,Premium Home Loan Fixed 3 Years (LVR < 80%),True,TRUE
+e3aa149b-d08c-4511-9eae-550b6d1cd9f4,20220,255,Bank Australia,Premium Home Loan,True,TRUE
+93983754-6dd0-4c0c-af06-c9263cb9ee4c,511351,28711,Bank Australia,Package Premium Investment Loan Fixed 1 Year (Principal and Interest),True,TRUE
+58212d43-29b5-4247-a8b2-488d648706c7,511352,28712,Bank Australia,Package Premium Investment Loan Fixed 2 Years (Principal and Interest),True,TRUE
+510b26d5-386c-42ca-9d71-9b15d474f7fa,419530,2865,Bank Australia,Package Premium Investment Loan (Principal and Interest) ($700k+),True,TRUE
+c8ae2303-bc09-4c9d-b39c-2466cd68506f,479363,23463,Bank Australia,Package Premium Home Loan Fixed 3 Years (LVR < 80%),True,TRUE
+20ecc12e-9038-4bb3-b0fe-218f0b9749e6,479365,23465,Bank Australia,Package Premium Home Loan Fixed 5 Years (LVR < 80%),True,TRUE
+ba125005-a7dd-4ec5-951e-0a94d52b689f,479411,37321,Bank Australia,Package Premium Home Loan Fixed 1 Year (LVR 80%-95%),True,TRUE
+73d1ea3e-5e25-423e-9656-cb990c36f0ed,479413,37323,Bank Australia,Package Premium Home Loan Fixed 3 Years (LVR 80%-95%),True,TRUE
+5450e1ed-ca07-41e5-81b6-7b04c5aeda4d,479350,1373,Bank Australia,"Package Premium Home Loan ($400k-$700k, LVR < 80%)",True,TRUE
+8d24e9a3-1f8d-48ea-a46d-e80fc858862f,479370,1375,Bank Australia,"Package Premium Home Loan ($700k+, LVR < 80%)",True,TRUE
+daafa611-a1ef-44db-9059-60e1975ca429,21960,3727,Bank Australia,"Package Premium Home Loan ($100k-$400k, LVR 80%-95%)",True,TRUE
+d5cb59bc-85e8-44ed-9a7a-efbc54e934ec,398600,1514,Bank Australia,Basic Home Loan (LVR < 80%),True,TRUE
+c7bdfcd9-e6c8-42aa-ad1a-887251124829,489850,4273,Commonwealth Bank of Australia,Introductory 12 Month Discounted Variable Investment Loan (Interest Only),True,TRUE
+be194371-6683-4465-81cb-2335746ead02,492940,4347,State Custodians,Low Rate Home Loan with Offset (Principal and Interest) (LVR 80%-90%),True,TRUE
+dcda95fe-e4eb-4843-8666-7119f3e930f8,492960,4349,State Custodians,Low Rate Investment Loan with Offset (Principal and Interest) (LVR < 80%),True,TRUE
+be4b4e83-5134-4b29-9e54-3628a90ddb35,492980,4351,State Custodians,Low Rate Investment Loan with Offset (Principal and Interest) (LVR 90%-95%),True,TRUE
+f170d28f-56dd-4065-b44e-4467aad5eec5,508070,4766,loans.com.au,Smart Loan Offset Package (Principal and Interest) (Packaged with Owner Occupier Loan),True,TRUE
+45e2751e-6c7e-4117-9ee2-bba5f54a931b,20100,4397,Bank Australia,Basic Investment Loan (Interest Only),False,TRUE
+5ad05f3b-7f69-4f12-993b-8331604032ac,494910,4401,Bank Australia,Package Premium Investment Loan (Interest Only) ($400k-$700k),True,TRUE
+c9e6c367-cfaa-4a0f-a274-a09d252d151a,494920,4402,Bank Australia,Package Premium Investment Loan (Interest Only) ($700k+),True,TRUE
+1ea3b756-7517-4c5f-9739-03a32e6cfc51,511342,44132,Bank Australia,Package Premium Investment Loan Fixed 2 Years (Interest Only),True,TRUE
+4a8a1d83-5fd9-493f-81d9-b295e33b271e,511345,44135,Bank Australia,Package Premium Investment Loan Fixed 5 Years (Interest Only),True,TRUE
+d8d396cb-ffe1-4ec5-8f2b-195ebe210355,489701,43061,Commonwealth Bank of Australia,Fixed Rate Home Loan (Interest Only) 1 Year,False,FALSE
+e3050b10-6385-4ad8-89a1-6a7cb5acece4,489703,43063,Commonwealth Bank of Australia,Fixed Rate Home Loan (Interest Only) 3 Years,False,FALSE
+621ae58c-efca-4262-9b03-c7e4b6cc8c59,489705,43065,Commonwealth Bank of Australia,Fixed Rate Home Loan (Interest Only) 5 Years,False,FALSE
+7dc80ea6-09ee-42d1-a7d6-3f5d4f6c5eb8,489881,42761,Commonwealth Bank of Australia,Fixed Rate Investment Loan (Interest Only) 1 Year,False,FALSE
+5a7e1219-b38e-48f6-b4fa-5427e449659e,489883,42763,Commonwealth Bank of Australia,Fixed Rate Investment Loan (Interest Only) 3 Years,False,FALSE
+b4af5e0c-701d-47f5-afbf-810b95b11aea,489885,42765,Commonwealth Bank of Australia,Fixed Rate Investment Loan (Interest Only) 5 Years,False,FALSE
+ba0b4045-8730-4b43-b955-521890f8def5,457341,37421,Westpac,Fixed Options Home Loan (Interest Only) 1 Year,True,TRUE
+b623d36c-b28f-4166-b37a-2dc94909b15b,457343,37423,Westpac,Fixed Options Home Loan (Interest Only) 3 Years,True,TRUE
+0c6b2118-ec7f-4aaf-b1a0-2aaac88a3277,457345,37425,Westpac,Fixed Options Home Loan (Interest Only) 5 Years,True,TRUE
+09049693-4f55-47a1-8406-9dff2ea19b34,501050,4324,ANZ,Breakfree Package Variable Home Loan (Interest Only) ($150k-$250k),True,TRUE
+0a79c2d1-5cc9-411a-9abf-dfb120f81821,497461,43411,ANZ,Breakfree Package Fixed Rate Investment Loan (Interest Only) 1 Year,False,FALSE
+2ad5e2e1-6e93-4642-b0d5-9fad6c567f07,497463,43413,ANZ,Breakfree Package Fixed Rate Investment Loan (Interest Only) 3 Years,False,FALSE
+0f176ce0-7a70-4cab-9042-39dca198cf4a,497465,43415,ANZ,Breakfree Package Fixed Rate Investment Loan (Interest Only) 5 Years,False,FALSE
+48be13f9-7282-41f7-88f1-d7ac5261a8fa,4974610,434110,ANZ,Breakfree Package Fixed Rate Investment Loan (Interest Only) 10 Years,False,FALSE
+6f090c4a-a241-456f-92c4-ff47494f6663,501080,4328,ANZ,Breakfree Package Variable Investment Loan (Interest Only) ($150k-$250k),True,TRUE
+7dcc84b4-8cc5-454c-a652-ab5660aa3e92,497471,43191,ANZ,Fixed Rate Investment Loan (Interest Only) 1 Year,False,FALSE
+5bf47d73-0049-4d9b-8f29-1a075fbd0a70,497473,43193,ANZ,Fixed Rate Investment Loan (Interest Only) 3 Years,False,FALSE
+9041d379-ffe0-4938-a9a7-8591ca3453dc,497475,43195,ANZ,Fixed Rate Investment Loan (Interest Only) 5 Years,False,FALSE
+13446022-0b9d-49ad-a035-b2b96abcb522,4974710,431910,ANZ,Fixed Rate Investment Loan (Interest Only) 10 Years,False,FALSE
+ca95637c-f4c6-452c-9e80-c7376dd5c05e,497422,43182,ANZ,Fixed Rate Home Loan (Interest Only) 2 Years,False,FALSE
+7346270d-53d8-40ea-b7c0-32d02ea98a52,497424,43184,ANZ,Fixed Rate Home Loan (Interest Only) 4 Years,False,FALSE
+7aa52e09-17af-4b22-a129-6ad80f1a8725,497427,43187,ANZ,Fixed Rate Home Loan (Interest Only) 7 Years,False,FALSE
+8527c6f8-151c-471c-a8ea-190e80cf7e6d,497412,43362,ANZ,Breakfree Package Fixed Rate Home Loan (Interest Only) 2 Years,False,FALSE
+e2e2e888-1dc4-4677-a6db-0997889a372a,497414,43364,ANZ,Breakfree Package Fixed Rate Home Loan (Interest Only) 4 Years,False,FALSE
+375b579c-96d1-4880-af8d-39de0625bb5e,497417,43367,ANZ,Breakfree Package Fixed Rate Home Loan (Interest Only) 7 Years,False,FALSE
+511e9b60-b107-4046-87e3-720357f7f02b,489680,4307,Commonwealth Bank of Australia,3 Year Special Economiser Home Loan (Interest Only),True,TRUE
+c1a1d2e2-bc4b-4fbd-b6ce-97ead05838c0,489710,4314,Commonwealth Bank of Australia,Economiser Home Loan (Interest Only),True,TRUE
+5e841ee8-e65e-4de5-9a0d-996fb993a427,489720,4315,Commonwealth Bank of Australia,No Fee Variable Rate Home Loan (Interest Only),True,TRUE
+54a8f2f2-4cdd-41eb-bc32-badf0c68d9db,489670,4303,Commonwealth Bank of Australia,Introductory 12 Month Discounted Variable Home Loan (Interest Only),True,TRUE
+f69025b8-4aed-4983-9c51-4dcae25b313e,21521,45261,Arab Bank Australia,Fixed Rate Investment Loan 1 Year,False,FALSE
+ac45531e-9e9e-4a74-86fb-3c7d88b43741,21523,45263,Arab Bank Australia,Fixed Rate Investment Loan 3 Years,False,FALSE
+8f09ebc8-a72c-410c-9fc4-e914f0ad44a2,21525,45265,Arab Bank Australia,Fixed Rate Investment Loan 5 Years,False,FALSE
+9576e21a-32d2-49cf-a22d-cb81412d1506,499600,4564,P&N Bank,Simple Home Loan,True,TRUE
+e2c37b82-cd5a-455b-81bc-756ca285d4b2,24732,44552,Teachers Mutual Bank,Fixed Home Loan (Interest Only) 2 Years,False,FALSE
+fff9c3b0-9da0-4cc6-ad01-624560d57ec6,24734,44554,Teachers Mutual Bank,Fixed Home Loan (Interest Only) 4 Years,False,FALSE
+163ba3d3-b5a6-4a4b-9ba4-faccae60035f,513381,44891,MyState,Fixed Home Loan (Interest Only) 1 Year (LVR < 80%),False,FALSE
+eecfae39-eace-44cf-9c12-ee5ef0b8e60b,513383,44893,MyState,Fixed Home Loan (Interest Only) 3 Years (LVR < 80%),False,FALSE
+4c5aab8e-9847-4271-bf37-2141930e7fc7,501260,4639,ING,"Mortgage Simplifier Home Loan (Interest Only) (Amounts < $150k, LVR <80%)",True,TRUE
+3328a6f6-5361-4f2b-9a52-a4712e5f4a53,505210,4686,ING,Mortgage Simplifier Investment Loan (Interest Only) (Amounts < $150k),True,TRUE
+63fc9bbf-6dbd-4ff3-8a90-7a19d1517ddb,505250,4688,ING,Orange Advantage Investment Loan (Interest Only) (Amounts < $150k),True,TRUE
+a7150057-2943-4610-9a73-6618e1848cc4,507150,4544,Bank of Queensland,Clear Path Variable Rate Home Loan (Interest Only),True,TRUE
+8edc1ca5-4e6b-47bb-9057-a7ad4f2e1cb4,507160,4545,Bank of Queensland,Clear Path Variable Rate Investment Loan (Interest Only),True,TRUE
+237a8ccd-7d09-4ba5-b996-eb350b59067e,507200,4546,Bank of Queensland,First-Start Home Loan (Interest Only),True,TRUE
+aef9fb71-aea9-44f9-aea6-a9955b814c70,507221,45561,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 1 Year,False,FALSE
+81fadd22-7ec9-4d2c-81bd-26abfc364b7f,507223,45563,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 3 Years,False,FALSE
+e203e36a-b981-49a0-8535-0e48151ad558,507225,45565,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 5 Years,False,FALSE
+f8ce2fd9-adfc-468c-9ade-2c368cf8ad03,501030,4649,P&N Bank,& Investor Loan (Principal and Interest),True,TRUE
+314f8990-3522-4766-a550-829a51fcf505,506050,4720,Bendigo & Adelaide Bank,Connect Package Investment Loan (Interest Only) ($500k+),True,TRUE
+f1ccf184-81d8-4c35-89b3-3bb738510188,505984,47254,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 4 Years (Interest Only),True,TRUE
+74f8ab5b-f140-41ad-ad6a-ad791152fc0c,505981,47251,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 1 Year (Interest Only),True,TRUE
+982e2093-c5ed-4089-9966-90031918d84a,505671,40551,MOVE - People Driven Banking,Lockit Investment Loan 1 Year ,False,FALSE
+5b01807e-648f-4a3e-8521-83a4a2eb4de0,523995,44485,Adelaide Bank,SmartFix Investment Loan (Interest Only) 5 Years,True,TRUE
+0730470b-2d4a-443c-9137-41bee451010c,523993,44483,Adelaide Bank,SmartFix Investment Loan (Interest Only) 3 Years,True,TRUE
+10ebdc08-48c6-459a-b7b5-75b954b9c044,523992,44482,Adelaide Bank,SmartFix Investment Loan (Interest Only) 2 Years,True,TRUE
+fabeb267-c23c-49a6-955f-ab4e5137756f,500611,47621,Adelaide Bank,SmartSaver Fixed Investment Loan (Principal and Interest) 1 Year,True,TRUE
+79a17af3-5e50-464c-a9c4-3573bd65cc58,500613,47623,Adelaide Bank,SmartSaver Fixed Investment Loan (Principal and Interest) 3 Years,True,TRUE
+265b9e74-8c17-48c9-845c-fe29437e2971,500615,47625,Adelaide Bank,SmartSaver Fixed Investment Loan (Principal and Interest) 5 Years,True,TRUE
+46dde217-3054-4a22-a601-03f7bba9010d,500592,47602,Adelaide Bank,SmartSaver Fixed Home Loan (Principal and Interest) 2 Years,True,TRUE
+31e7a03c-312f-46e7-9c7a-b4c9b6981504,500594,47604,Adelaide Bank,SmartSaver Fixed Home Loan (Principal and Interest) 4 Years,True,TRUE
+b80a5d0c-723c-4031-9ff9-93f8df9060b1,515112,44812,QBANK,Fixed Rate Investment Loan (New Customer) 2 Years (LVR < 80%),True,TRUE
+f7417458-f3db-466a-a9a7-b68a1c586438,510280,4811,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($150k-$250k) (LVR<80%),True,TRUE
+22db63d4-d14e-4135-824a-f488b002debf,510262,48142,Heritage Bank,Fixed Rate Investment Loan (Interest Only) 2 Years ,True,TRUE
+02ab1e0b-81a4-4a50-ad91-1eb8c03405a7,510265,48145,Heritage Bank,Fixed Rate Investment Loan (Interest Only) 5 Years ,True,TRUE
+0ebf5586-ccfe-4c07-a1e2-0f4b5e9d93ad,507510,4549,Bank of Queensland,Privileges Package Variable Rate Home Loan (Interest Only) ($150k-$250k) ,True,TRUE
+ce524600-ad4b-407a-9ebf-0d062baa0e21,507550,4550,Bank of Queensland,Privileges Package Variable Rate Home Loan (Interest Only) ($250k-$1m) ,True,TRUE
+6c72677c-a82b-454f-9626-374d8e02f1cb,507240,4554,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Interest Only) ($1m+) ,True,TRUE
+17546166-cdf6-458c-8898-e2f064815495,507275,45625,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 5 Years ,False,FALSE
+e7e5866c-ab88-46b4-a767-9d0d914a46df,507271,45621,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 1 Year,False,FALSE
+08063e51-ca7d-4bcd-8a0b-6977f583ae54,507273,45623,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 3 Years ,False,FALSE
+915f64a6-3c76-42c1-a27f-bf12e7adcbea,507574,45584,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 4 Years ,False,FALSE
+2bc2752b-7d35-41a4-8c43-358b0937a372,507571,45581,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 1 Year ,False,FALSE
+8d3d7dab-e32a-422c-abc7-56ad0a5762c1,512411,49331,HSBC,Fixed Rate Home Loan (Interest Only) 1 Year,False,FALSE
+1f675427-575f-4e02-ae72-d4a2fdca272f,512412,49332,HSBC,Fixed Rate Home Loan (Interest Only) 2 Years,False,FALSE
+224f0c37-10ca-4196-be59-5daf263849d1,393662,49502,RACQ Bank,Fixed Rate Home Loan (QLD only) 2 Years,False,FALSE
+852fce0c-6792-4887-976c-d5ca6f8e95c3,393665,49505,RACQ Bank,Fixed Rate Home Loan (QLD only) 5 Years,False,FALSE
+435e5141-f204-41ec-8847-d018972efc1d,291362,49582,RACQ Bank,Choices Fixed Home Loan (QLD only) 2 Years,False,FALSE
+8c92366f-41a8-4fc8-9860-c22a981db07d,291365,49585,RACQ Bank,Choices Fixed Home Loan (QLD only) 5 Years,False,FALSE
+8a2ae488-cb46-47bb-bd2a-40edc17d753e,339150,4953,RACQ Bank,Choices Mortgage Breaker Home Loan (QLD only) ($250k-$500k),True,TRUE
+cd6702b2-dc34-441e-9096-24d4e33156f8,125410,4948,RACQ Bank,Mortgage Breaker Home Loan (QLD only),True,TRUE
+7ab12325-ea6a-45ef-8242-3b851c8639a6,218661,49511,RACQ Bank,Fixed Rate Investment Loan (QLD only) 1 Year,False,FALSE
+723993d7-243a-4292-bb40-15db350f0b69,218663,49513,RACQ Bank,Fixed Rate Investment Loan (QLD only) 3 Years,False,FALSE
+4197d32f-b153-437a-9338-a952d2382bbf,398331,49621,RACQ Bank,Choices Fixed Investment Loan (QLD only) 1 Year ($250k-$500k),False,FALSE
+70dc7e43-c16a-4110-adb9-ea400bcc55a9,398342,49632,RACQ Bank,Choices Fixed Investment Loan (QLD only) 2 Years ($500k+),False,FALSE
+baa45977-adff-4b40-8a92-0bc120f3f885,398343,49633,RACQ Bank,Choices Fixed Investment Loan (QLD only) 3 Years ($500k+),False,FALSE
+d7c84752-4fff-4789-9580-825cd7a5d222,409170,4964,RACQ Bank,Mortgage Saver Special Home Loan (QLD only),True,TRUE
+6c95dd3e-4e01-4995-ade7-8567f2b4f8f3,515595,42095,Illawarra Credit Union,Fixed Home Loan 5 Years (Interest Only),True,TRUE
+23364a76-045b-4b7f-9921-3dbc5db584f8,515591,42091,Illawarra Credit Union,Fixed Home Loan 1 Year (Interest Only),True,TRUE
+42efef61-21d0-440b-8cd8-84a016e0fcb1,515605,42055,Illawarra Credit Union,Fixed Lite Home Loan 5 Years (Interest Only),True,TRUE
+eccb862b-f2a9-47ff-bfea-638d5e03f2a0,515602,42052,Illawarra Credit Union,Fixed Lite Home Loan 2 Years (Interest Only),True,TRUE
+93fea306-1dda-4cb7-8cbd-22407310d47f,515732,49872,Newcastle Permanent,Premium Plus Package Fixed Rate Home Loan (Principal and Interest) 2 Years,True,TRUE
+05161c03-a8c6-4e03-8f3c-5f35efa3816d,515734,49874,Newcastle Permanent,Premium Plus Package Fixed Rate Home Loan (Principal and Interest) 4 Years,True,TRUE
+95eaf77c-c4d7-45f9-b682-a1c89f8e55ed,515737,49877,Newcastle Permanent,Premium Plus Package Fixed Rate Home Loan (Principal and Interest) 7 Years,True,TRUE
+8b90ed78-56fc-4a72-87b5-c0caa6b092f8,5157410,498810,Newcastle Permanent,Premium Plus Package Fixed Rate Investment Loan (Principal and Interest) 10 Years,True,TRUE
+fe5c2db7-743c-4f6e-9f2d-bf798b8ad0db,515744,49884,Newcastle Permanent,Premium Plus Package Fixed Rate Investment Loan (Principal and Interest) 4 Years,True,TRUE
+d8601ece-cd1d-4da5-a390-eceb191eb8a3,515742,49882,Newcastle Permanent,Premium Plus Package Fixed Rate Investment Loan (Principal and Interest) 2 Years,True,TRUE
+3f440ecb-2537-414a-a01a-c8c3e880f199,514670,4946,The Rock Building Society,Basic Variable Investment Loan (Principal and Interest) (LVR <80%) ,False,TRUE
+975bd489-65ac-494e-83b3-f9571a5ebe94,517102,50302,Suncorp Bank,Fixed Home Loan (Interest Only) 2 Years,False,FALSE
+dfa4b816-a49f-4e88-a1c5-d5dcae5ca8df,517105,50305,Suncorp Bank,Fixed Home Loan (Interest Only) 5 Years,False,FALSE
+cdd7b241-3cea-4fad-b521-5d34c1dff157,517095,50315,Suncorp Bank,Fixed Investment Loan (Interest Only) 5 Years,False,FALSE
+f61a2c3e-af82-422d-9947-4329bbfcaeb9,517092,50312,Suncorp Bank,Fixed Investment Loan (Interest Only) 2 Years,False,FALSE
+6f5619a5-0ceb-4e51-9f04-7a8f90390c22,517205,50345,Suncorp Bank,Home Package Plus Personal Fixed (Interest Only) 5 Years,False,FALSE
+072e8fce-c100-4529-870e-7e23e7039cca,517202,50342,Suncorp Bank,Home Package Plus Personal Fixed (Interest Only) 2 Years,False,FALSE
+dfd7f66b-f098-407c-a6b3-028f1e996b93,517125,50355,Suncorp Bank,Home Package Plus Investment Fixed (Interest Only) 5 Years,False,FALSE
+e938c1a1-4ec3-44a2-b2f9-0482e9d29d1a,517123,50353,Suncorp Bank,Home Package Plus Investment Fixed (Interest Only) 3 Years,False,FALSE
+e2b7c3b1-e0a7-45f6-b190-aacb6a2eef05,512451,49341,HSBC,Premier Fixed Rate Home Loan (Interest Only) 1 Year,False,FALSE
+8f5ce821-f000-4cf2-97d1-d4596d7a985f,512453,49343,HSBC,Premier Fixed Rate Home Loan (Interest Only) 3 Years,False,FALSE
+5b81db45-dadd-4963-8fb2-06a77e46bc73,512455,49345,HSBC,Premier Fixed Rate Home Loan (Interest Only) 5 Years,False,FALSE
+5e324ae1-ccd7-4c94-977b-4b4e4f664e72,395151,44581,UniBank,Fixed Home Loan 1 Year (Interest Only),False,FALSE
+7cc8a3e4-a26e-47a6-b26f-3bb1cfc85be1,395155,44585,UniBank,Fixed Home Loan 5 Years (Interest Only),False,FALSE
+4f2582c7-fcac-4015-97b6-1d4363707c78,400632,44592,UniBank,Fixed Investment Loan 2 Years (Interest Only),False,FALSE
+b59aa0ed-e041-4452-bce0-1a4f7303f8ee,400631,44591,UniBank,Fixed Investment Loan 1 Year (Interest Only),False,FALSE
+7eaeea2f-ec50-4a3c-905c-f1ee4f3329a7,400633,44593,UniBank,Fixed Investment Loan 3 Years (Interest Only),False,FALSE
+a51b8920-a5ce-46d4-9197-e552965cf814,55300,3605,Community First Credit Union,Accelerator Package Home Loan (Principal and Interest) (Amounts < $250k) (New Customer),True,TRUE
+23b8f584-be41-4bc9-a6ee-4975c0934a62,523964,44474,Adelaide Bank,SmartFix Home Loan (Interest Only) 4 Years,True,TRUE
+e90fc2d8-9fa6-4053-ab87-cf374403034a,523962,44472,Adelaide Bank,SmartFix Home Loan (Interest Only) 2 Years,True,TRUE
+6eed0a5f-93a4-4aaf-9926-46f41e14d293,524020,4449,Adelaide Bank,SmartFit Home Loan (Interest Only) (LVR < 90%),True,TRUE
+b855428c-a814-40c2-8611-5ad22a3e603c,523970,4452,Adelaide Bank,SmartSaver Home Loan (Interest Only) (LVR < 90%),True,TRUE
+6d9260ad-e25e-473b-b1f2-3b03a901b035,524005,47635,Adelaide Bank,SmartSaver Fixed Investment Loan (Interest Only) 5 Years,True,TRUE
+6ee1eb18-7a33-4953-b603-128736055139,524003,47633,Adelaide Bank,SmartSaver Fixed Investment Loan (Interest Only) 3 Years,True,TRUE
+74977f87-b471-405a-95ed-bf94c621c972,524001,47631,Adelaide Bank,SmartSaver Fixed Investment Loan (Interest Only) 1 Year,True,TRUE
+79c78a59-fdd2-4f49-9b52-05284b5b27a2,218730,1301,MyState,Special Residential Home Loan (Principal and Interest) (LVR 90%-95%),True,TRUE
+69f229f6-c2e2-4259-bf95-9f4224ede7a5,392123,20253,Greater Bank,"Ultimate Fixed Home Loan 3 Years (New Customers) (NSW, ACT & QLD only)",True,TRUE
+b59af4d1-ebb3-4016-8e0e-432fe6031219,392122,20252,Greater Bank,"Ultimate Fixed Home Loan 2 Years (New Customers) (NSW, ACT & QLD only)",True,TRUE
+c1aa794c-630f-4257-8224-3609882cbfe0,392121,20251,Greater Bank,"Ultimate Fixed Home Loan 1 Year (New Customers) (NSW, ACT & QLD only)",True,TRUE
+56d05ee6-6082-47df-9b9b-495c1d3dd7fa,392074,20234,Greater Bank,"Great Rate Fixed Home Loan 4 Years (New Customers) (NSW, ACT & QLD only) ",True,TRUE
+8656e609-94bb-4640-8209-598d38bdea6e,392072,20232,Greater Bank,"Great Rate Fixed Home Loan 2 Years (New Customers) (NSW, ACT & QLD only) ",True,TRUE
+1b99581b-366f-4a40-92cc-1e5aaed81256,392075,20235,Greater Bank,"Great Rate Fixed Home Loan 5 Years (New Customers) (NSW, ACT & QLD only) ",True,TRUE
+2323787b-9459-4df2-94f2-a439e0b365f6,449882,26742,Greater Bank,"Ultimate Fixed Investment Loan (Principal and Interest) 2 Years (NSW, ACT & QLD only)",True,TRUE
+7d539d55-b685-4676-b6c5-91a0541e031c,449884,26744,Greater Bank,"Ultimate Fixed Investment Loan (Principal and Interest) 4 Years (NSW, ACT & QLD only)",True,TRUE
+4a68c139-21c3-4dcf-97c1-8fff4800ac84,449870,2676,Greater Bank,"Ultimate Variable Investment Loan (Principal and Interest) (NSW, ACT & QLD only)",True,TRUE
+afdddcfe-9479-4f14-9374-4b9a10669c3e,286552,8392,Greater Bank,"Ultimate Fixed Home Loan 2 Years (NSW, ACT & QLD only)",True,TRUE
+cebd44dc-a759-4d56-88b7-f97feeb4f4c0,286555,8395,Greater Bank,"Ultimate Fixed Home Loan 5 Years (NSW, ACT & QLD only)",True,TRUE
+9b967838-4db3-46bb-8c8f-4b3002862d5f,196280,837,Greater Bank,"Ultimate Variable Home Loan (NSW, ACT & QLD only)",True,TRUE
+4106df7f-82c1-41f6-9914-36f53b967728,449903,26713,Greater Bank,"Great Rate Fixed Investment Loan (Principal and Interest) 3 Years (NSW, ACT & QLD only)",True,TRUE
+73035c45-b9fa-45ff-bff7-1d22c0a83c5d,449904,26714,Greater Bank,"Great Rate Fixed Investment Loan (Principal and Interest) 4 Years (NSW, ACT & QLD only)",True,TRUE
+5f4aa1fb-2b20-4170-bcf6-15361f8c5316,449890,2669,Greater Bank,"Great Rate Variable Investment Loan (Principal and Interest) (NSW, ACT & QLD only)",True,TRUE
+b717fc3a-3843-4926-83b9-688b8494e19d,134262,5452,Greater Bank,"Great Rate Fixed Home Loan 2 Years (NSW, ACT & QLD only)",True,TRUE
+6dcafd09-b831-4186-a60b-5d9bd4d172d0,134264,5454,Greater Bank,"Great Rate Fixed Home Loan 4 Years (NSW, ACT & QLD only)",True,TRUE
+b8f5259b-b858-4378-9c7e-bd9595ec75fa,131410,544,Greater Bank,"Great Rate Variable Home Loan (NSW, ACT & QLD only)",True,TRUE
+8d8a9044-b55f-4ecc-bb95-2d148484d5d7,18550,774,SCU,Standard Variable Rate Home Loan,True,TRUE
+9332b634-2def-4def-94b7-640a6e4c5dd6,81480,776,SCU,Pro Pack Home Loan ($150k-$250k),True,TRUE
+8600d1c8-822c-41b3-b6c8-85ae9a7b8f86,25112,7792,SCU,Fixed Rate Home Loan 2 Years,True,TRUE
+60dee609-0783-4a47-ba29-3628dbe5d26d,25115,7795,SCU,Fixed Rate Home Loan 5 Years,True,TRUE
+66228caa-8639-42b2-a70a-2846e8c88bf7,428650,3337,NAB,Base Variable Investment Loan (Interest Only),True,TRUE
+f16786d2-7cdd-497a-9aa5-e7f888e69505,428880,3332,NAB,Tailored Investment Loan (Interest Only),True,TRUE
+f4df4dee-67f0-48ef-b52b-25cfb4c0e1cd,428860,2216,NAB,Tailored Home Loan (Interest Only),True,TRUE
+1a4f382b-abfd-4153-b753-789ad4987c3f,177220,3645,NAB,Portfolio Facility ($500k-$1m),False,FALSE
+5b4403df-d0e1-4fda-9a4d-108bdb12be1e,177230,3644,NAB,Portfolio Facility ($250k-$500k),False,FALSE
+7695777b-fbbf-43b8-b6e7-947b890cb08f,428710,3343,NAB,Choice Package Tailored Investment Loan (Principal and Interest) (Amounts < $250k),True,TRUE
+74680964-e030-44e3-940b-dfd54b23f153,428730,3344,NAB,Choice Package Tailored Investment Loan (Principal and Interest) ($250k-$750k),True,TRUE
+74cb5b19-4c2a-45e9-a344-5902c3c206ec,428810,3333,NAB,Choice Package Tailored Investment Loan (Interest Only) (Amounts < $250k),True,TRUE
+e5b7d39e-3989-48d4-8bb8-ab92a2bf2498,344790,1681,NAB,Choice Package Tailored Home Loan (Principal and Interest) ($750k+),True,TRUE
+570bcb4a-c42d-4839-8fda-7e0823d8735c,290010,1289,NAB,Choice Package Tailored Home Loan (Principal and Interest) ($250k-$750k),True,TRUE
+5e08eb38-a122-4313-b50a-e69994648de6,428790,2222,NAB,Choice Package Tailored Home Loan (Interest Only) ($250k-$750k),True,TRUE
+b91bf8f4-58ba-4595-9e7b-87e461134ea3,505990,153,NAB,Choice Package Flexiplus Mortgage,False,FALSE
+2bc312a8-a6ca-472b-af95-2fae9643acc6,428630,2215,NAB,Base Variable Home Loan (Interest Only),True,TRUE
+5ad79be5-1abd-436c-897d-03105c82d551,398240,2231,ANZ,Standard Variable Investment Loan (Principal and Interest),True,TRUE
+4a6f4326-7625-416e-bcf6-d52635effce2,393905,20975,ANZ,Fixed Rate Investment Loan (Principal and Interest) 5 Years ,False,FALSE
+c5e32da8-b1cd-4a36-b86a-cbcfa1eb6de4,393904,20974,ANZ,Fixed Rate Investment Loan (Principal and Interest) 4 Years  ,False,FALSE
+a24119d2-b0dd-4378-93f6-a69502bd8959,3939010,209710,ANZ,Fixed Rate Investment Loan (Principal and Interest) 10 Years,False,FALSE
+da87e95b-0857-4717-b2cb-37feb6085a1b,393901,20971,ANZ,Fixed Rate Investment Loan (Principal and Interest) 1 Year,False,FALSE
+196d2882-0ff1-499d-a8a8-f2e84ff94b53,17134,1034,ANZ,Fixed Rate Home Loan (Principal and Interest) 4 Years,False,FALSE
+cc917de0-7f54-4618-80e5-a946da4f286d,17137,1037,ANZ,Fixed Rate Home Loan (Principal and Interest) 7 Years,False,FALSE
+e755c1b1-4b75-4340-a2f9-fd3484c1053e,501110,2236,ANZ,Breakfree Package Variable Investment Loan (Principal and Interest) ($150k-$250k),True,TRUE
+a42b8752-1bd8-4156-88fa-9217a970583d,108650,109,ANZ,Breakfree Package Variable Home Loan (Principal and Interest) ($150k-$250k),True,TRUE
+d0f10046-5acc-40c8-bbb8-2d2b76dff17d,394573,18123,ANZ,Breakfree Package Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+e1a70c74-3562-4138-9401-e597c8243e03,394572,18122,ANZ,Breakfree Package Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+50005d8c-4945-4376-b81d-32eb17a0e817,3945710,181210,ANZ,Breakfree Package Fixed Rate Home Loan (Principal and Interest) 10 Years,False,FALSE
+339c5e30-2c53-45fc-bf1b-b99620ec435e,432240,5012,Qudos Bank,Low Cost Investment Loan (LVR 80%-90%),True,TRUE
+7dad36b7-aa1c-4807-9f03-9baa3a92e6a3,200440,633,Qudos Bank,Low Cost Home Loan (LVR < 80%),True,TRUE
+bf03bcc1-7b37-48ce-aa38-20f08c501dcb,427021,31111,Qudos Bank,Fixed Rate Investment Loan 1 Year,False,FALSE
+c2a1ade5-2d50-4e61-9a64-5c6fe9b312f4,427025,31115,Qudos Bank,Fixed Rate Investment Loan 5 Years,False,FALSE
+1e68af87-9baa-4245-9ca5-9abca49c07f6,427024,31114,Qudos Bank,Fixed Rate Investment Loan 4 Years,False,FALSE
+fd6c71d3-de6e-489f-a03a-5e78672f6767,200333,6273,Qudos Bank,Fixed Rate Home Loan 3 Years,False,FALSE
+a07dc9c1-1fcd-4096-82b7-8c17e6aa2b12,200331,6271,Qudos Bank,Fixed Rate Home Loan 1 Year,False,FALSE
+37132cba-d5cc-48b9-abf0-e9f2ac4aed61,266030,4048,MOVE - People Driven Banking,Wealth Builder Loan,True,TRUE
+e98946a6-c35c-4d3b-bbcf-50e2777808d3,17340,4041,MOVE - People Driven Banking,Standard Variable Rate Home Loan,True,TRUE
+19a14d2f-ce7e-4881-a702-82c3083745b7,17020,1093,MOVE - People Driven Banking,Economy Home Loan,True,TRUE
+18b07d97-5d90-45d0-8256-407921d36848,521020,1354,UBank,Discount Offer Variable Home Loan (Amounts < $200k),True,TRUE
+31700bf0-73be-4c2a-be03-0dad8e17ef7c,424015,22285,UBank,Inv UHomeLoan Fixed 5 Years,False,FALSE
+aeedbb2a-85f7-4ceb-a678-3ce5ce9ade0f,197671,8351,UBank,UHomeLoan Fixed (Principal and Interest) 1 Year,False,FALSE
+24a8a983-b0fe-45ef-a957-8f857616934d,197675,8355,UBank,UHomeLoan Fixed (Principal and Interest) 5 Years,False,FALSE
+5d0728d5-4043-4557-9c1f-a62dbea062c1,528841,22261,UBank,UHomeLoan Fixed (Interest Only) 1 Year,False,FALSE
+e3bfb263-2cc7-4aa3-b527-223bebb01446,403240,2492,Adelaide Bank,SmartSaver Investment Loan (Principal and Interest) (LVR < 90%),True,TRUE
+a1531a97-f167-4dcf-9c3f-95baf68ad99d,203740,17,Adelaide Bank,SmartSaver Home Loan (Principal and Interest) (LVR < 90%),True,TRUE
+b238daee-8628-42ba-a541-2c4d5971693e,403152,24942,Adelaide Bank,SmartFix Investment Loan (Principal and Interest) 2 Years,True,TRUE
+b3c4961d-d729-49c6-a943-24c530b4a444,403154,24944,Adelaide Bank,SmartFix Investment Loan (Principal and Interest) 4 Years,True,TRUE
+e5bc2d75-9b46-479f-8459-49a7bb5237f6,25104,3964,Adelaide Bank,SmartFix Home Loan (Principal and Interest) 4 Years,True,TRUE
+36fb8193-6d1e-443c-b7dc-25ee2a06bfe6,25102,3962,Adelaide Bank,SmartFix Home Loan (Principal and Interest) 2 Years,True,TRUE
+80a082f2-4b86-49ce-8160-87c3da75e2a0,25103,3963,Adelaide Bank,SmartFix Home Loan (Principal and Interest) 3 Years,True,TRUE
+6ee69fe3-1a2a-490f-807e-31655e85c5bb,24780,1387,Adelaide Bank,SmartFit Home Loan (Principal and Interest) (LVR < 90%),True,TRUE
+612b7322-a601-49ed-b1cf-18245a82cc10,463641,38081,Bank of Sydney,Expect More Home Loan Package Fixed 1 Year,False,FALSE
+9273fafe-fcd4-49ae-8e08-a4d2c4222b0c,463645,38085,Bank of Sydney,Expect More Home Loan Package Fixed 5 Years,False,FALSE
+8dcde4af-5da2-4781-ada4-ae061a6021d8,348540,1652,Bananacoast Community Credit Union,OMG Home Loan (Principal and Interest),True,TRUE
+8a5f8119-e525-4dfd-9984-91f3e812a4ac,485320,2348,Bananacoast Community Credit Union,Standard Variable Investment Loan (Principal and Interest),True,TRUE
+5482dd29-443c-4600-b541-fff6fed3d5ac,485275,23515,Bananacoast Community Credit Union,Fixed Investment Loan (Principal and Interest) 5 Years,False,FALSE
+ebee88ba-55f9-49ea-a4dd-19a26ee60b91,485271,23511,Bananacoast Community Credit Union,Fixed Investment Loan (Principal and Interest) 1 Year,False,FALSE
+1d9eae95-4191-43db-a801-e62b039b1485,485273,23513,Bananacoast Community Credit Union,Fixed Investment Loan (Principal and Interest) 3 Years,False,FALSE
+a61b3cd9-f634-46ed-b6ef-f7362545e4f1,17720,740,Bananacoast Community Credit Union,Standard Variable Home Loan (Principal and Interest),True,TRUE
+0bac4516-35b4-4fad-9bc1-4d4da8a26cd7,485284,7414,Bananacoast Community Credit Union,Fixed Home Loan (Principal and Interest) 4 Years,False,FALSE
+90db857e-95a4-4fa5-af4d-ff4c7fd37a84,485282,7412,Bananacoast Community Credit Union,Fixed Home Loan (Principal and Interest) 2 Years,False,FALSE
+c259c00b-1463-4edb-97bc-eb123b7afb6c,75900,40,Heritage Bank,Standard Variable Home Loan,True,TRUE
+83d87e7c-ab6a-445a-ae1e-82fcc8064709,393460,2064,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($150k-$250k) (LVR<80%),True,TRUE
+2d847a68-853c-45f6-8d6a-4492edb43cbf,393480,2066,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($700k+) (LVR <80%),True,TRUE
+28da0624-ada5-450c-81d5-3edff1586516,18810,1903,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR<80%),True,TRUE
+90cc5c12-6106-44b8-a346-6094cb53b281,388610,1907,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR<80%),True,TRUE
+713a9618-4362-4136-a2c9-9b652c7b201a,513230,4889,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR 90%-95%) ,True,TRUE
+e6c63ebf-d7bb-40c4-903d-a964c337c2a4,513250,4890,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR 90%-95%),True,TRUE
+da82b581-d2e5-4c91-9264-f6fc6300850c,513270,4891,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR 90%-95%) ,True,TRUE
+a3955be2-0817-4ce3-b0ef-018bfad9561a,388550,1908,Heritage Bank,Home Advantage Living Equity Home Loan ($250k-$700k),True,FALSE
+38cf8cb8-fb5f-4a44-aaed-523bf2a35034,18192,19092,Heritage Bank,Home Advantage Fixed Home Loan 2 Years,True,TRUE
+3fa85654-9e97-4ef9-b56b-3cb4395a0573,18193,19093,Heritage Bank,Home Advantage Fixed Home Loan 3 Years,True,TRUE
+571d8386-0827-4b4e-8ec5-69847bfcdf35,18181,331,Heritage Bank,Fixed Rate Home Loan 1 Year,True,TRUE
+6f7b1eb8-0e8e-4314-80ae-2f02ac892adf,449683,36533,ING,Orange Advantage Home Loan Fixed 3 Years,False,FALSE
+c2d57540-93db-4e99-a145-1c0b2804cce9,449682,36532,ING,Orange Advantage Home Loan Fixed 2 Years,False,FALSE
+01545b0d-da26-45fe-9af8-a94354c7c557,422920,3125,ING,Orange Advantage Investment Loan (Principal and Interest) (Amounts < $150k),True,TRUE
+9056fbe9-af8e-4f10-80dd-81081a29a583,155300,486,ING,"Orange Advantage Home Loan (Principal and Interest) ($150k-$500k, LVR 90%-95%)",True,TRUE
+932ec4d2-e9f5-4422-ba6e-c00847b208e2,374620,4822,ING,"Orange Advantage Home Loan (Principal and Interest) ($500k-$1m, LVR < 80%)",True,TRUE
+ad8a20cd-6149-4696-8529-6758d3ed6fcc,259320,1683,ING,"Orange Advantage Home Loan (Principal and Interest) ($150k-$500k, LVR < 80%) ",True,TRUE
+4f233ec4-a223-4ce9-a123-d57be0bf68e2,501230,4637,ING,Orange Advantage Home Loan (Interest Only) (Amounts < $150k),True,TRUE
+752421e8-2944-4efb-88b9-df483230c470,501240,4967,ING,"Orange Advantage Home Loan (Interest Only) ($500k-$1m, LVR<80%) ",True,TRUE
+c40a07de-ed76-47db-9a33-489252978b65,394090,3467,ING,Mortgage Simplifier Investment Loan (Principal and Interest) (Amounts < $150k),True,TRUE
+a6479019-38e7-4ef4-8b42-0b4ff3ec91e2,442250,2095,ING,"Mortgage Simplifier Investment Loan (Principal and Interest) ($150k-$500k, LVR < 80%)",True,TRUE
+78e55ab2-17f9-40e3-9139-f7854d6860d8,163580,245,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($150k-$500k, LVR 90%-95%) ",True,TRUE
+086b1d66-313d-4dc6-adec-779a3cd9197c,515290,4969,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($1m+, LVR <80%) ",True,TRUE
+780d9a64-978a-4fd3-b56f-46049a3c8677,394054,21164,ING,Fixed Rate Investment Loan 4 Years,False,FALSE
+537ab8b6-660a-40b2-993d-8524ab627b41,394052,21162,ING,Fixed Rate Investment Loan 2 Years,False,FALSE
+e9e26c94-9e41-4015-9f3c-59c692b5b9e3,23634,11754,ING,Fixed Rate Home Loan 4 Years,False,FALSE
+01fad54f-aea1-49d5-847a-0898e2e9f7d3,23635,11755,ING,Fixed Rate Home Loan 5 Years,False,FALSE
+fcee8202-0a21-4832-b637-cac3291b89ab,23632,11752,ING,Fixed Rate Home Loan 2 Years,False,FALSE
+ad12595d-0e65-4ec4-a3f9-4b0d94d5c04e,307630,546,P&N Bank,Smooth Home Loan (LVR 80%-90%),True,TRUE
+bc885971-45e1-42b0-a750-954ff2769eb5,307653,5493,P&N Bank,Fixed Rate Home Loan 3 Years (LVR < 80%),False,FALSE
+ba90db5e-2cff-45af-8606-fd7def9514ef,23242,14402,P&N Bank,Fixed Rate Home Loan 2 Years (LVR 80%-95%),False,FALSE
+55aa2bb9-62a7-4a24-a22d-064411097602,23245,14405,P&N Bank,Fixed Rate Home Loan 5 Years (LVR 80%-95%),False,FALSE
+0cabc8a6-d5f3-4a60-b1a0-76780c89ad62,23243,14403,P&N Bank,Fixed Rate Home Loan 3 Years (LVR 80%-95%),False,FALSE
+236ff803-3bfa-4a5d-8de9-e7a8fd050483,23241,14401,P&N Bank,Fixed Rate Home Loan 1 Year (LVR 80%-95%),False,FALSE
+a9b567e8-d392-477a-b199-ef1445de6890,22020,547,P&N Bank,EasyPay Home Loan,True,TRUE
+dbf9236d-e933-4623-885c-ee1c1f81baef,269480,803,Australian Military Bank,Variable Offset Home Loan,True,TRUE
+a05d8d21-440f-4f9c-a530-ffdc77270139,344210,805,Australian Military Bank,Investment Home Loan (LVR < 80%),True,TRUE
+730f4a5a-bcd5-4998-bb4b-0e8186b8472c,343480,4181,AMP Bank,Professional Package Investment Loan (Interest Only) ($750k+),True,TRUE
+98c1cab6-c550-41cc-8f74-8f98c35d7e16,20333,41843,AMP Bank,Professional Package Home Loan Fixed (Interest Only) 3 Years,True,FALSE
+4b405b74-1be0-4ce4-8d69-30711b9e2025,20332,41842,AMP Bank,Professional Package Home Loan Fixed (Interest Only) 2 Years,True,FALSE
+7494a832-eb12-42ce-8c75-e367037e0142,394600,4178,AMP Bank,Professional Package Home Loan (Interest Only) ($750k+),True,TRUE
+f172644c-d169-4566-8d4d-b018fed7fa1c,265240,4186,AMP Bank,Introductory Classic Home Loan (Interest Only),True,TRUE
+f914689f-3c26-4065-aa97-949905fa9af2,484580,4182,AMP Bank,Classic Variable Home Loan (Interest Only),True,TRUE
+2345a47a-74a0-45df-8a7f-9d3d5d09607f,484602,41742,AMP Bank,Classic Fixed Home Loan (Interest Only) 2 Years,False,FALSE
+f3295b0a-fc4f-456b-851d-57f7ef149332,484453,41893,AMP Bank,Basic Fixed Rate Investment Loan (Interest Only) 3 Years,False,FALSE
+4e41e054-f2ec-488b-bc63-30b0dea9d7dd,484451,41891,AMP Bank,Basic Fixed Rate Investment Loan (Interest Only) 1 Year,False,FALSE
+415afd7c-1f81-402a-977d-9825f39a6832,484461,41881,AMP Bank,Basic Fixed Rate Home Loan (Interest Only) 1 Year,False,FALSE
+9d2efef1-2ab6-401c-ae30-03c4144d6bef,484463,41883,AMP Bank,Basic Fixed Rate Home Loan (Interest Only) 3 Years,False,FALSE
+26446021-61be-40d0-96ec-9c9d357831fe,484510,2928,AMP Bank,Professional Package Investment Loan (Principal and Interest) ($750k+),True,TRUE
+dd6c85e7-82df-4cc7-9a34-444029e63556,484483,743,AMP Bank,Professional Package Home Loan Fixed (Principal and Interest) 3 Years,True,FALSE
+1fb610fb-8e69-4266-bbdc-d4a1fa287dc2,484540,1758,AMP Bank,Professional Package Home Loan (Principal and Interest) ($750k+),True,TRUE
+eee72542-8617-49fa-800c-487f2f169b0b,484560,218,AMP Bank,Introductory Classic Home Loan (Principal and Interest),True,TRUE
+21b149a3-8ced-488f-a591-309706ea61db,210690,3954,AMP Bank,Essential Home Loan ($100k+),True,TRUE
+0a4c4bb6-987e-44f1-be4d-b313e1ae5839,484570,2942,AMP Bank,Classic Variable Investment Loan (Principal and Interest),True,TRUE
+d203d819-7f8c-4eb0-99df-315939223800,224975,655,AMP Bank,Classic Fixed Home Loan (Principal and Interest) 5 Years,False,FALSE
+a68c3596-da22-46bd-9eb2-494dd4a0bbe0,414453,29233,AMP Bank,Basic Fixed Rate Investment Loan (Principal and Interest) 3 Years,False,FALSE
+77b3efd5-8cf7-46f3-bdac-fb53ea7d03bf,414455,29235,AMP Bank,Basic Fixed Rate Investment Loan (Principal and Interest) 5 Years,False,FALSE
+4d7be6a7-8aff-4431-8d6e-fa7ae6312d3d,187791,6941,AMP Bank,Basic Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+baea6a71-7999-46c0-861a-424c411ebfaf,187793,6943,AMP Bank,Basic Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+60ae713b-6966-4b0b-a3b0-597e0ffbcbe5,19970,361,Arab Bank Australia,The Basics Home Loan,True,TRUE
+1df14734-973b-42f7-ac43-3bc437d21f05,479420,3418,Arab Bank Australia,HeadStart Loan,True,TRUE
+1ef09dbf-c752-4244-ba42-82477dea8888,498571,3621,Arab Bank Australia,Fixed Rate Home Loan 1 Year,False,FALSE
+3ebd2a32-9ace-4e49-b171-0506f1556fb8,325700,1386,Arab Bank Australia,Essentials Home Loan,True,TRUE
+ff9b0184-d073-423e-86c5-00d8cda73888,389890,1971,Aussie,"Select Standard Variable Investment Loan (Principal and Interest) ($500k+, LVR < 80%)",True,TRUE
+b3b6b475-d16f-41aa-b711-96f0c8d7a3ca,359240,1530,Aussie,"Select Standard Variable Home Loan (Principal and Interest) ($500k+, LVR 90%-95%)",True,TRUE
+e4497865-bc22-4111-bfb7-fa34bdefffa4,359220,1655,Aussie,"Select Standard Variable Home Loan (Principal and Interest) ($500k+, LVR < 80%)",True,TRUE
+1c8035e4-0431-4cf8-8141-48d52c5e2d02,390131,22801,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 1 Year,False,FALSE
+71b79449-1a63-40d6-bb83-9cde67c142f0,390134,22804,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 4 Years,False,FALSE
+06f02433-0042-4d42-ac5c-023fd03655c4,238994,15404,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 4 Years,False,FALSE
+be0b896f-249f-4b7f-a45b-a87a2f663cb9,238992,15402,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 2 Years,False,FALSE
+8d29cf78-d4ec-47fe-ad78-29ea3ddf9987,238993,15403,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 3 Years,False,FALSE
+53a9a593-763b-487b-aa6f-8a9fd7570136,389680,3974,Aussie,Select Line of Credit Investment Loan (LVR 80%-90%),True,TRUE
+064ee125-940a-485c-b84a-6cd276203115,359400,3969,Aussie,Select Line of Credit Home Loan (LVR < 80%),True,TRUE
+6b4b5b72-52a0-49b5-98c9-b86aed832160,529490,1964,Aussie,"Select Basic Investment Loan (Principal and Interest) ($500k+, LVR < 80%)",True,TRUE
+1bdaa849-b388-4148-af0f-a11ac5ea1803,529500,1656,Aussie,"Select Basic Home Loan (Principal and Interest) ($500k+, LVR < 80%)",True,TRUE
+4489ae5a-840c-4adf-8015-2b98187fe00c,390112,22792,Aussie,Select Basic Investment Loan Fixed (Principal and Interest) 2 Years,False,FALSE
+259f69d6-54f4-47a9-820b-3533fa029de8,390113,22793,Aussie,Select Basic Investment Loan Fixed (Principal and Interest) 3 Years,False,FALSE
+d9c64c91-7724-4d1b-9d40-d803b212c5bb,237813,28523,Aussie,Select Basic Home Loan Fixed (Principal and Interest) 3 Years (LVR 80%-95%),False,FALSE
+7c13b5f8-80bd-4946-a6de-ee04290a428f,237814,28524,Aussie,Select Basic Home Loan Fixed (Principal and Interest) 4 Years (LVR 80%-95%),False,FALSE
+033cc03f-4256-4039-80f4-ac23138fe4b6,237815,28525,Aussie,Select Basic Home Loan Fixed (Principal and Interest) 5 Years (LVR 80%-95%),False,FALSE
+5136c408-5818-4c7b-bfae-97ca4c639599,396850,1959,Aussie,IQ Basic Investment Loan (Principal and Interest) (LVR 80%-90%),True,TRUE
+d1349a0e-d55a-4f12-83da-f451467bf54d,396800,2160,Aussie,IQ Basic Investment Loan (Principal and Interest) (LVR 70%-80%) ,True,TRUE
+0ada22c5-ed30-4300-ae02-a762dc7bbbf5,396890,2706,Aussie,IQ Basic Investment Loan (Interest Only) (LVR 70%-80%),True,TRUE
+fa5f047b-1463-4bed-9203-bd6e68257bf8,396810,2158,Aussie,IQ Basic Home Loan (Principal and Interest) (LVR 70%-80%),True,TRUE
+f560d514-127a-4001-a948-dcfcc8c3a96a,358060,1802,Aussie,IQ Basic Home Loan (Principal and Interest) (LVR 90%-95%),True,TRUE
+5f9d8585-1fd3-4f46-a7e5-a04ca845e108,396790,4663,Aussie,IQ Basic Home Loan (Interest Only) (LVR 70%-80%),True,TRUE
+ed4c16f8-a229-44e7-b7d5-da2935e3983c,511920,4661,Aussie,IQ Offset Investment Loan (Principal and Interest) (LVR < 70%),True,TRUE
+1b1eb16c-3b70-4017-ae5f-558270ed4c33,511890,4660,Aussie,IQ Offset Investment Loan (Interest Only) (LVR < 70%),True,TRUE
+96c4dc22-ed2d-4530-8910-627cbfddc9e9,160190,1804,Aussie,IQ Offset Home Loan (Principal and Interest) (LVR 80%-90%),True,TRUE
+dede576e-1f54-4169-a9df-51e8a909acf9,160180,1208,Aussie,IQ Offset Home Loan (Principal and Interest) (LVR 70%- 80%),True,TRUE
+c9b4da1a-b305-40d6-9ef7-292df7db1527,511950,2162,Aussie,IQ Offset Home Loan (Interest Only) (LVR < 70%),True,TRUE
+b126ef85-38a2-43bd-9b43-a387f75b249c,514505,22815,Aussie,IQ Offset Investment Loan Fixed (Principal and Interest) 5 Years (LVR < 70%),False,FALSE
+afcdb3a9-7c5e-418b-ae5b-c6df13ad47a6,514502,22812,Aussie,IQ Offset Investment Loan Fixed (Principal and Interest) 2 Years (LVR < 70%),False,FALSE
+0ae06bb4-628d-40ac-b6dc-8b4959adb7ce,514501,22811,Aussie,IQ Offset Investment Loan Fixed (Principal and Interest) 1 Year (LVR < 70%),False,FALSE
+2c9106e1-5c76-446f-a140-34abbf4e2351,516192,50042,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 2 Years (LVR 70%-80%),False,FALSE
+76da9e72-c74b-466b-9fc7-c8760ceb29b0,516194,50044,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 4 Years (LVR 70%-80%),False,FALSE
+d90c0d88-0791-466a-8be3-23b38163d9ca,514511,27151,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 1 Year (LVR < 70%),False,FALSE
+28473e1f-0240-4c00-b899-366213bd1fa6,514514,27154,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 4 Years (LVR < 70%),False,FALSE
+04eeb26a-e3ef-45ad-aef3-01ed648d9b6d,516193,50043,Aussie,IQ Offset Investment Loan Fixed (Interest Only) 3 Years (LVR 70%-80%),False,FALSE
+1bf00f79-7964-4b0e-b20c-7e1ee8d0a7df,516254,50024,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 4 Years (LVR 80%-95%),False,FALSE
+b992911f-87a6-403b-8bf3-055fef30272e,516251,50021,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 1 Year (LVR 80%-95%),False,FALSE
+84ef254d-413f-4573-84f5-daa5ddb9a6b6,524733,15383,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 3 Years (LVR 70%-80%),False,FALSE
+181b78bc-2f0f-49f5-b2b2-8758538e8d48,524735,15385,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 5 Years (LVR 70%-80%),False,FALSE
+a2c09bde-685f-49fa-992f-760027948b46,524731,15381,Aussie,IQ Offset Home Loan Fixed (Principal and Interest) 1 Year (LVR 70%-80%),False,FALSE
+b685d426-eddd-462e-ac26-de14631dcc81,516245,50035,Aussie,IQ Offset Home Loan Fixed (Interest Only) 5 Years (LVR 70%-80%),False,FALSE
+c9c80ba0-dfcd-4ece-84f7-54e63156497b,516243,50033,Aussie,IQ Offset Home Loan Fixed (Interest Only) 3 Years (LVR 70%-80%),False,FALSE
+74edad01-cef5-4f02-84a0-5a841a9b029c,516244,50034,Aussie,IQ Offset Home Loan Fixed (Interest Only) 4 Years (LVR 70%-80%),False,FALSE
+aa8a8763-8b14-4be8-b879-ff11b21a9bea,514492,30432,Aussie,IQ Offset Home Loan Fixed (Interest Only) 2 Years (LVR < 70%),False,FALSE
+ac621266-a118-4f2d-846c-2ff8804c90b0,514491,30431,Aussie,IQ Offset Home Loan Fixed (Interest Only) 1 Year (LVR < 70%),False,FALSE
+b516724b-2f63-4c55-9210-22bdfd1bc0e4,524745,18635,Aussie,IQ Basic Investment Loan Fixed (Principal and Interest) 5 Years (LVR 70%-80%),True,FALSE
+87b148e6-645b-4cb0-ae4b-fff0f161cfc9,524743,18633,Aussie,IQ Basic Investment Loan Fixed (Principal and Interest) 3 Years (LVR 70%-80%),True,FALSE
+04c4ffa9-1b2a-489e-a1be-2d3d1eafd10f,524742,18632,Aussie,IQ Basic Investment Loan Fixed (Principal and Interest) 2 Years (LVR 70%-80%),True,FALSE
+c5ec324f-aba2-4515-a2ef-605d81570cda,516155,50015,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 5 Years (LVR 70%-80%),True,FALSE
+e9923e53-19af-43f3-bdb8-b1e729df5d73,516152,50012,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 2 Years (LVR 70%-80%),True,FALSE
+85f0a03c-6fd5-4734-8edc-ea562d406e1e,406501,27051,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 1 Year (LVR < 70%),True,FALSE
+d112e504-2645-4aac-9f22-c39d8e1f2001,406503,27053,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 3 Years (LVR < 70%),True,FALSE
+d3982acc-d1a0-4dfc-814d-51909a234757,406505,27055,Aussie,IQ Basic Investment Loan Fixed (Interest Only) 5 Years (LVR < 70%),True,FALSE
+070835f6-acf4-49e8-8dea-541ff053bd67,516181,49981,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 1 Year (LVR 80%-95%),True,FALSE
+dfbcea91-c7b3-4984-9741-5dd041723502,516185,49985,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 5 Years (LVR 80%-95%),True,FALSE
+95137377-c946-4328-a523-964fd8607f68,516182,49982,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 2 Years (LVR 80%-95%),True,FALSE
+64d759fd-3b3c-472f-b328-2cad13f38beb,524721,1761,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 1 Year (LVR 70%-80%),True,FALSE
+967ec5bf-25c3-4b73-a840-ef54311c9cf6,524723,1763,Aussie,IQ Basic Home Loan Fixed (Principal and Interest) 3 Years (LVR 70%-80%),True,FALSE
+284b4997-de59-4223-ac07-1fabd18f8084,516173,49993,Aussie,IQ Basic Home Loan Fixed (Interest Only) 3 Years (LVR 70%-80%),True,FALSE
+983d2d0b-8826-462c-af51-e54416d4c272,516171,49991,Aussie,IQ Basic Home Loan Fixed (Interest Only) 1 Year (LVR 70%-80%),True,FALSE
+303f87d3-7262-41d1-ade9-56c72d0303a7,516172,49992,Aussie,IQ Basic Home Loan Fixed (Interest Only) 2 Years (LVR 70%-80%),True,FALSE
+9f9381bf-dd8f-4f67-a8fc-51d9157feaf4,406494,27044,Aussie,IQ Basic Home Loan Fixed (Interest Only) 4 Years (LVR < 70%),True,FALSE
+991df4d9-7f37-4dba-9913-10ad63c5bb2b,406495,27045,Aussie,IQ Basic Home Loan Fixed (Interest Only) 5 Years (LVR < 70%),True,FALSE
+66f80e0b-9e5c-4f75-90d3-0cb4fd388422,400040,2361,Bank of Melbourne,Standard Variable Investment Loan (Principal and Interest),True,TRUE
+69758d72-3325-40ad-9383-76edfc90c66b,211452,20122,Bank of Melbourne,Fixed Rate Investment Loan (Principal and Interest) 2 Years,True,TRUE
+f512b39f-ee87-47f8-80c0-0d20953d8a70,211453,20123,Bank of Melbourne,Fixed Rate Investment Loan (Principal and Interest) 3 Years,True,TRUE
+1b905688-f3ef-40f4-a28a-69cc196f9755,211451,20121,Bank of Melbourne,Fixed Rate Investment Loan (Principal and Interest) 1 Year,True,TRUE
+3efe7018-eb81-40ff-b434-859c311dcd2c,400030,2002,Bank of Melbourne,Basic Investment Loan (Principal and Interest) (New Customer),True,TRUE
+2159908d-af8c-4939-a939-250ab32716fd,443770,944,Bank of Melbourne,Basic Home Loan (Principal and Interest) (New Customer),True,TRUE
+ead23768-5106-4b8e-836c-3f950489aee2,19130,25,BankSA,Standard Variable Home Loan (Principal and Interest),True,TRUE
+619ebfcb-88d9-4488-875a-887045b53bc7,220551,20081,BankSA,Fixed Rate Investment Loan (Principal and Interest) 1 Year,True,TRUE
+7bfb9acd-fdd0-442b-808e-ce616907fc84,220555,20085,BankSA,Fixed Rate Investment Loan (Principal and Interest) 5 Years,True,TRUE
+74eb5033-2e24-4ff5-9aa5-a2589fd20dfd,400140,3650,BankSA,Basic Investment Loan (Principal and Interest),True,TRUE
+192fc9ce-1cff-4a1f-9710-6ee9b098f0cc,220390,3649,BankSA,Basic Home Loan (Principal and Interest),True,TRUE
+b99573f9-220d-4089-a45b-d30acae0af23,461060,616,BankVic,Introductory Variable Home Loan 2 Years,True,TRUE
+f1622df3-0252-42b5-97d4-3296b24365f7,19440,116,Bankwest,Mortgage Shredder Home Loan (Principal and Interest),True,TRUE
+72f87824-ff47-43b8-8d35-f9fdb9bfdcca,427895,42535,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 5 Years (Principal and Interest),True,TRUE
+8a9a325f-eab6-4095-ac1c-8c1560034e32,427893,42533,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 3 Years (Principal and Interest),True,TRUE
+3145a165-cb6a-4026-b228-a37e9e9e1337,427874,42514,Bendigo & Adelaide Bank,Connect Package Home Loan Fixed 4 Years (Principal and Interest),True,TRUE
+13699913-d2ef-4db3-aa02-a1832e75fa26,427871,42511,Bendigo & Adelaide Bank,Connect Package Home Loan Fixed 1 Year (Principal and Interest),True,TRUE
+77962a21-3cc8-44e0-9513-b0eb9a4e7544,427875,42515,Bendigo & Adelaide Bank,Connect Package Home Loan Fixed 5 Years (Principal and Interest),True,TRUE
+8e45b753-d15c-4c08-ba30-6281f5d5f55b,428030,3387,Bendigo & Adelaide Bank,Basic Home Loan (Principal and Interest),True,TRUE
+80279e13-6ae9-4662-adb7-18910cb8a15e,18730,156,Bendigo & Adelaide Bank,Home Equity Home Loan,False,FALSE
+e32b6591-2339-4deb-a8a6-41416e8055ad,447780,2815,Beyond Bank Australia,Total Home Loan Package Variable Investment Loan ($50k-$300k),True,TRUE
+884a60c8-80e9-4da0-8641-504425fffc12,447762,36162,Beyond Bank Australia,Total Home Loan Package Investment Loan Fixed 2 Years,True,TRUE
+d92fb819-3bb9-46c3-a098-e16703d0b97c,447763,36163,Beyond Bank Australia,Total Home Loan Package Investment Loan Fixed 3 Years,True,TRUE
+f9630735-1a52-4286-8fc5-2256c584b088,447761,36161,Beyond Bank Australia,Total Home Loan Package Investment Loan Fixed 1 Year,True,TRUE
+862c795b-f26e-46f5-9c41-19c46d94273d,447810,301,Beyond Bank Australia,Pinnacle Plus Package Variable Investment Loan (Principal and Interest) ($200k-$300k),True,TRUE
+13f99e3f-fc64-44c3-a5b0-d5b08be572e9,447801,34911,Beyond Bank Australia,Pinnacle Plus Package Investment Loan Fixed 1 Year,True,TRUE
+53b8c960-ead7-4e9a-9bb8-f60a924942b5,447805,34915,Beyond Bank Australia,Pinnacle Plus Package Investment Loan Fixed 5 Years,True,TRUE
+3e369fb8-8352-455f-ae58-8b2e3df09652,447803,34913,Beyond Bank Australia,Pinnacle Plus Package Investment Loan Fixed 3 Years,True,TRUE
+8028736e-f5c8-4b3d-a899-b58dee6d304d,447740,636,Beyond Bank Australia,Basic Variable Investment Loan,True,TRUE
+72ca8013-1857-41cb-88ba-b5ad4bcaed1f,517700,3484,Beyond Bank Australia,"Total Home Loan Package Variable Home Loan ($500k+, LVR < 90%)",True,TRUE
+0e3bd103-7412-4b37-a1d8-64fe4c259bf1,517670,3482,Beyond Bank Australia,"Total Home Loan Package Variable Home Loan ($50k-$300k, LVR < 90%)",True,TRUE
+0bcedbbb-25e8-471c-b57f-3e47dd3c3c21,378663,36153,Beyond Bank Australia,Total Home Loan Package Home Loan Fixed 3 Years (LVR < 90%),True,TRUE
+8d57d985-63a6-4d9a-b909-8379f54ed81e,378662,36152,Beyond Bank Australia,Total Home Loan Package Home Loan Fixed 2 Years (LVR < 90%),True,TRUE
+5895b97b-e3c4-43ad-8456-6553a4f98689,22691,34901,Beyond Bank Australia,Pinnacle Plus Package Home Loan Fixed 1 Year (LVR < 90%),True,TRUE
+078891b9-dc28-492a-bee4-1f7d701c5cd8,22693,34903,Beyond Bank Australia,Pinnacle Plus Package Home Loan Fixed 3 Years (LVR < 90%),True,TRUE
+23730fb3-ff09-44f9-b1ac-ccffd1fe5360,21945,34855,Beyond Bank Australia,Fixed Rate Home Loan 5 Years (LVR < 90%),True,TRUE
+b30b0a58-65d3-41c5-9eb8-21dfa6c85cc4,21942,34852,Beyond Bank Australia,Fixed Rate Home Loan 2 Years (LVR < 90%),True,TRUE
+ec626bcb-2f10-4e0c-b89d-264cbef793b0,21944,34854,Beyond Bank Australia,Fixed Rate Home Loan 4 Years (LVR < 90%),True,TRUE
+5826ec5a-cb6a-49b7-b22d-9fe770103d19,507392,22502,Bank of Queensland,Standard Fixed Rate Investment Loan (New Customer) 2 Years,False,FALSE
+52ed4802-3e34-49ed-9c20-9b2e84cdd4bb,23100,48,Bank of Queensland,Line of Credit Home Loan,False,FALSE
+9dd3a5ff-125c-4a63-a1e7-d49d3230fe97,507422,18922,Bank of Queensland,Privileges Package Fixed Rate Home Loan (New Customer) 2 Years,False,FALSE
+a39313c6-66fa-4101-b3eb-46b741e2fc1f,397370,2244,Bank of Queensland,Standard Variable Rate Investment Loan (Principal and Interest),True,TRUE
+44959693-5d5a-49b2-a000-32f06a214984,397262,22522,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 2 Years,False,FALSE
+4cda1d2e-2635-4fed-97b8-0446f6b71660,397261,22521,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 1 Year,False,FALSE
+cbdf53c1-765f-4058-93f4-1e09022c875b,397264,22524,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 4 Years,False,FALSE
+aba579d3-17cc-4b6f-88be-bb9c00e9ced6,507412,18612,Bank of Queensland,Standard Fixed Rate Home Loan (New Customer) 2 Years,False,FALSE
+3adddddd-cb72-405d-99a6-a7441b8e4a2c,20785,445,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 5 Years,False,FALSE
+3568a533-08f3-40a1-8b4e-c385d219e60c,20782,442,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+363c7d87-d980-4e02-a35a-6f35602c341a,20783,443,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+1340c07b-8d36-4723-84f8-d3d0957f9d67,397540,2242,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Principal and Interest) ($250k-$1m),True,TRUE
+c140007e-d981-464f-bf4a-d3db0c395d36,16760,41,Bank of Queensland,Privileges Package Variable Rate Home Loan (Principal and Interest) ($1m+),True,TRUE
+4c1081d2-07ab-48bf-952d-fd9c94b3eaa9,23120,50,Bank of Queensland,Privileges Package Variable Rate Home Loan (Principal and Interest) ($250k-$1m),True,TRUE
+81d7e187-cc92-482c-a00b-26a4b4629688,397533,22573,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 3 Years,False,FALSE
+ef67815e-4737-4da1-9a2e-b08f383699ac,397535,22575,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 5 Years,False,FALSE
+30f42b70-a960-4561-a8c4-937208e80d8b,397534,22574,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 4 Years,False,FALSE
+15832308-2438-44d6-8b1e-74dd686eff00,217323,2213,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+03918d46-16eb-485e-acb5-f9111dd0cfc2,139020,3398,Bank of Queensland,First-Start Home Loan (Principal and Interest),True,TRUE
+c6e37103-a924-4ed9-8a90-4d26e6227bc7,20470,43,Bank of Queensland,Economy Home Loan (Principal and Interest),True,TRUE
+d84210ea-e52e-40f4-8a3e-2386d2772e18,323450,1379,Bank of Queensland,Clear Path Variable Rate Home Loan (Principal and Interest),True,TRUE
+f1e1c0b9-60f3-456b-ad98-7138a35fd907,327180,3205,Bank of Queensland,Clear Path Line of Credit Home Loan,False,FALSE
+adb36459-7033-4b0e-893f-bcb342707851,407130,2756,Citi,Standard Variable Investment Loan (Principal and Interest),True,TRUE
+81b7a442-c5a2-48c6-853b-50ccdfb311b0,407085,35835,Citi,Mortgage Plus Fixed Investment Loan 5 Years (Principal and Interest) (LVR < 80%) ,True,FALSE
+d85334fd-d2d5-47da-87f6-0eba2f35189c,407082,35832,Citi,Mortgage Plus Fixed Investment Loan 2 Years (Principal and Interest) (LVR < 80%) ,True,FALSE
+c76717f0-7e43-4187-8af5-61fa9f63ec52,290685,35795,Citi,Mortgage Plus Fixed Home Loan 5 Years,True,FALSE
+a931496a-c36a-4c4a-97c1-3b4b4c2b094d,290682,35792,Citi,Mortgage Plus Fixed Home Loan 2 Years,True,FALSE
+45c06709-02a5-412a-8d65-ce3256ee58e7,499755,42155,Citi,Fixed Investment Loan 5 Years (Principal and Interest) (LVR < 80%),False,FALSE
+6489c28a-a83d-4be8-86ec-3c9922fad5be,499753,42153,Citi,Fixed Investment Loan 3 Years (Principal and Interest) (LVR < 80%),False,FALSE
+0cc05c41-3cde-4812-8adb-47dbe66dce07,21015,42125,Citi,Fixed Home Loan 5 Years,False,FALSE
+cac14950-fc85-4d6a-b861-b97b1f2c1f2f,21013,42123,Citi,Fixed Home Loan 3 Years,False,FALSE
+e11623bd-f542-4bb8-8af5-56a342b49410,406770,3127,Citi,Basic Variable Investment Loan (Principal and Interest) (LVR < 80%),True,TRUE
+2e45706c-0b37-4712-95f4-c37ada10253f,21030,3604,Community First Credit Union,Standard Variable Home Loan,True,TRUE
+f6891af9-7cb2-4ad7-94b1-5222d6fc8f25,19493,36013,Community First Credit Union,Fixed Rate Home Loan (Principal and Interest) 3 Years,True,TRUE
+3fa3a9dd-d77c-4fb7-8ef3-24bb0dc6e4a7,19492,36012,Community First Credit Union,Fixed Rate Home Loan (Principal and Interest) 2 Years,True,TRUE
+58505193-596e-437b-a81d-760127885af4,469510,3447,G&C Mutual Bank,Standard Variable Investment Loan,True,TRUE
+e615803a-b41d-47ef-9fe0-b16c611c6fcc,433812,34502,G&C Mutual Bank,Fixed Rate Investment Loan 2 Years,True,TRUE
+78fe02bd-75ff-4127-9451-23f87957fce2,189620,784,G&C Mutual Bank,Standard Variable Home Loan,True,TRUE
+5ec3dffe-9154-47c9-b21a-ece27b7a25cc,390365,19155,G&C Mutual Bank,Fixed Rate Home Loan 5 Years,True,TRUE
+02fbaf70-282c-4cae-8a75-5d4ae785f188,21410,772,Gateway Bank,Standard Variable Home Loan,True,TRUE
+67476a76-e235-4089-a584-579f3b0c8ff9,402823,24313,Gateway Bank,Premium Package Investment Loan Fixed 3 Years (LVR < 80%),False,FALSE
+79306b8a-e77d-470e-b798-8a9abefb03e8,402821,24311,Gateway Bank,Premium Package Investment Loan Fixed 1 Year (LVR < 80%),False,FALSE
+62b9384c-a60c-4681-933f-80c38e31d5e1,402850,2423,Gateway Bank,Premium Package Investment Loan (LVR < 80%),True,TRUE
+eb98554d-e619-49ef-b35a-2612987c2d4f,282102,12712,Gateway Bank,Premium Package Home Loan Fixed 2 Years,False,FALSE
+d7e0ca9b-30a5-4115-b74a-24c449eff124,282101,12711,Gateway Bank,Premium Package Home Loan Fixed 1 Year,False,FALSE
+9b4bb4bd-f2f7-46dd-93af-6a83e7e191be,349610,1699,Gateway Bank,Premium Package Home Loan (LVR 85%-95%),True,TRUE
+19520890-74c9-44ce-b3ae-133db5467041,402810,2428,Gateway Bank,Low Rate Essentials Investment Loan (LVR 85%-95%),True,TRUE
+904a1588-3309-4c48-be7b-a0c8c99fcd45,349650,1700,Gateway Bank,Low Rate Essentials Home Loan (LVR 85%-95%),True,TRUE
+9f24ee22-758a-4ac2-a68a-24af3cd96652,349630,932,Gateway Bank,Low Rate Essentials Home Loan (LVR 80%-85%),True,TRUE
+cb6337f0-25a4-45f0-a3f7-c3588a557b4e,77162,16092,Homeloans,Ultra Plus Home Loan Fixed (Principal and Interest) 2 Years (LVR 80%-90%),True,TRUE
+19d0a688-9959-4ee7-8084-53b4286f30c3,77164,16094,Homeloans,Ultra Plus Home Loan Fixed (Principal and Interest) 4 Years (LVR 80%-90%),True,TRUE
+7eecf609-9450-4bde-a615-4dc9c26df735,16902,6922,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 2 Years,True,TRUE
+c1b72ec1-3631-4d39-9716-0acad142650f,16903,6923,Homeloans,MoniPower Home Loan Fixed (Principal and Interest) 3 Years,True,TRUE
+4d1b1f2b-1888-4618-8092-21fb2264379f,18330,1829,Homeloans,MoniPower Home Loan (Principal and Interest) (LVR < 80%),True,TRUE
+5a545739-b8ac-48d9-adc3-56bd9b0bdcaa,483891,41601,Homestar Finance,Fixed Rate Investment Loan (Interest Only) 1 Year,False,FALSE
+80b117bb-bcf7-4292-83fd-aaa904a71a85,483892,41602,Homestar Finance,Fixed Rate Investment Loan (Interest Only) 2 Years,False,FALSE
+e92fc21c-78de-428f-868a-1f3ab588165f,483893,41593,Homestar Finance,Fixed Rate Investment Loan (Interest Only) 3 Years ,False,FALSE
+832e629e-440b-45e3-802a-6603d4c1e2d5,483440,428,Homestar Finance,"Variable Rate Home Loan (Principal and Interest) (Amounts < $750k, LVR < 70%)",True,TRUE
+b7327b47-9cdb-4ddf-b016-842cf0937761,483860,4144,Homestar Finance,"Variable Rate Investment Loan (Principal and Interest) (Amounts < $750k, LVR 70%-80%)",True,TRUE
+19860ed1-1e70-4c80-9304-cd4db167d62a,483883,20553,Homestar Finance,Fixed Rate Investment Loan (Principal and Interest) 3 Years,False,FALSE
+dad60434-f4e5-4745-91ae-8ecb5c00f0df,483881,41561,Homestar Finance,Fixed Rate Investment Loan (Principal and Interest) 1 Year,False,FALSE
+b9cdfe6d-05cf-4674-bb52-aa04936bbe58,483882,41562,Homestar Finance,Fixed Rate Investment Loan (Principal and Interest) 2 Years,False,FALSE
+b8c48124-258c-4885-adf8-e869d455da45,483463,42263,Homestar Finance,Fixed Rate Home Loan (Principal and Interest) 3 Years,False,FALSE
+6eccc9fd-06db-410c-909b-ce560c5954f3,483461,41501,Homestar Finance,Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+9836faac-2959-4a04-84b0-6577b549072f,483471,41531,Homestar Finance,Fixed Rate Home Loan (Interest Only) 1 Year,False,FALSE
+8c176326-516a-402f-bbee-dc418ac0bcb8,483472,41532,Homestar Finance,Fixed Rate Home Loan (Interest Only) 2 Years ,False,FALSE
+69545bd4-46a7-46cf-b35a-5883554c905c,483474,41534,Homestar Finance,Fixed Rate Home Loan (Interest Only) 4 Years,False,FALSE
+11bceefa-3b41-4099-a23e-14f4712c1b50,357700,266,HSBC,Home Value Home Loan (Principal and Interest),True,TRUE
+20cfc6e1-aa8c-415a-9564-8a5b1ac21edb,16780,260,HSBC,Standard Variable Rate Home Loan,True,TRUE
+7707bbc6-5928-430c-bdbc-76b542ef83d9,217850,3063,HSBC,Premier Home Smart Home Loan,True,TRUE
+49ab7ff7-d638-4ae5-b981-a73b3c35cb29,215762,30662,HSBC,Premier Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+3fa5d6b0-f1ad-44a7-962d-f31f517e3bd4,215765,30665,HSBC,Premier Fixed Rate Home Loan (Principal and Interest) 5 Years,False,FALSE
+1722ebdc-3002-4210-91fb-2689034a1886,215764,30664,HSBC,Premier Fixed Rate Home Loan (Principal and Interest) 4 Years,False,FALSE
+986bb283-5edb-4ff1-8b2f-b581ae9ed707,19304,16124,HSBC,Fixed Rate Home Loan (Principal and Interest) 4 Years,False,FALSE
+79732b90-be78-401c-87f5-2f9d33663d46,19301,16121,HSBC,Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+f61f0691-9673-4351-9ccc-895fc7ed2ff7,177520,2438,Hunter United,Basic Variable Home Loan,True,TRUE
+70f14a0e-600f-4fa1-8093-baad67eed73a,417790,2778,Illawarra Credit Union,Variable Investment Loan (Principal and Interest) ($250k+),True,TRUE
+05366842-f1ce-4415-8dee-9f5dcdc9006a,417972,27762,Illawarra Credit Union,Fixed Lite Investment Loan (Principal and Interest) 2 Years,True,TRUE
+0b5c9494-1bc9-4bfd-a4d5-656adf8d11fd,417862,27792,Illawarra Credit Union,Fixed Investment Loan (Principal and Interest) 2 Years,True,TRUE
+c8d5cf78-9e86-4c40-aa8a-4b6b7a0f5601,21350,812,Illawarra Credit Union,Variable Lite Home Loan (Principal and Interest),True,TRUE
+bbc9b06c-074f-4101-8de7-2ad07e30fffc,418021,8131,Illawarra Credit Union,Fixed Lite Home Loan 1 Year,True,TRUE
+b95a914f-c5a9-43c0-b335-e91d4cf8ba36,21871,15211,Illawarra Credit Union,Fixed Home Loan 1 Year,True,TRUE
+b8b33afd-9e9d-4511-b7a9-55ef0426c43d,21873,15213,Illawarra Credit Union,Fixed Home Loan 3 Years,True,TRUE
+5f17968a-0c5c-4ff6-8319-bb2966ac1db5,208532,1332,Commonwealth Bank of Australia,Wealth Package Fixed Rate Home Loan 2 Years,False,TRUE
+1cf66184-4f39-45c5-8c34-99fb718c8feb,197830,867,Commonwealth Bank of Australia,No Fee Variable Rate Home Loan (Principal and Interest),True,TRUE
+b83ccfed-0fba-4b87-95fe-302725315c64,18120,126,Commonwealth Bank of Australia,Introductory 12 Month Discounted Variable Home Loan (Principal and Interest),True,TRUE
+31de895d-4f7e-464f-b708-05c5482f5c42,19410,127,Commonwealth Bank of Australia,Introductory 1 Year Guaranteed Rate Home Loan (Principal and Interest),True,TRUE
+b022cd54-04b3-4f51-8004-507d592a86e1,489791,21051,Commonwealth Bank of Australia,Fixed Rate Investment Loan 1 Year,False,FALSE
+6e399f9f-32d9-4b4c-83c9-337038e14e63,489795,21055,Commonwealth Bank of Australia,Fixed Rate Investment Loan 5 Years,False,FALSE
+8d6ed129-854c-4e7c-af73-00f87a85569a,489794,21054,Commonwealth Bank of Australia,Fixed Rate Investment Loan 4 Years,False,FALSE
+319b5a3e-8898-4b1a-bfac-0a448247a466,20625,1305,Commonwealth Bank of Australia,Fixed Rate Home Loan 5 Years,False,FALSE
+1aee081c-d009-483d-99c1-3800e417d96d,20624,1304,Commonwealth Bank of Australia,Fixed Rate Home Loan 4 Years,False,FALSE
+04f39af4-df0e-4a9b-a7c1-f9e377c5fc7e,20570,494,Commonwealth Bank of Australia,Economiser Home Loan (Principal and Interest),True,TRUE
+d6880cad-df88-495c-94e8-f2143a46e721,23780,132,Commonwealth Bank of Australia,3 Year Special Economiser Home Loan (Principal and Interest),True,TRUE
+13a563d7-0511-4de5-bb37-405469eb272b,450014,36824,ME Bank,Member Package Flexible Investment Loan Fixed (Principal and Interest) 4 Years,False,FALSE
+ff6b884e-f6a0-4aa7-9c2f-64af696de435,450012,36822,ME Bank,Member Package Flexible Investment Loan Fixed (Principal and Interest) 2 Years,False,FALSE
+b341583d-8300-4495-8660-7958a7cc91ff,450017,36827,ME Bank,Member Package Flexible Investment Loan Fixed (Principal and Interest) 7 Years,False,FALSE
+f2f2d3cf-1f10-4869-8e68-c69d6916a1a2,450100,3160,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($400k-$700k, LVR 80%-90%)",True,TRUE
+1c8f66ae-1b4f-4f3b-a301-e9e31535ea63,425570,4297,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) (Amounts < $150k, LVR 80%-90%)",True,TRUE
+9c00b15f-634d-4274-a947-a76797fbb95d,450060,3665,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($700k+, LVR < 80%)",True,TRUE
+bd7fc1ce-360f-43df-abe6-c8cf4aef4505,450020,2072,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($400k-$700k, LVR < 80%)",True,TRUE
+6043485e-ea32-483c-8db0-39e6600caf8d,450373,36853,ME Bank,Member Package Flexible Home Loan Fixed (Principal and Interest) 3 Years (LVR < 90%),False,FALSE
+7447b039-7b18-45c7-9709-12c5d224b79c,450375,36855,ME Bank,Member Package Flexible Home Loan Fixed (Principal and Interest) 5 Years (LVR < 90%),False,FALSE
+d8a0c0b8-8b6e-42fb-97ec-e5131b12aa9c,450374,36854,ME Bank,Member Package Flexible Home Loan Fixed (Principal and Interest) 4 Years (LVR < 90%),False,FALSE
+acefc07f-b047-46d9-8ee7-c11dfa11f496,450372,36852,ME Bank,Member Package Flexible Home Loan Fixed (Principal and Interest) 2 Years (LVR < 90%),False,FALSE
+c879a032-0f05-4e4a-b5f7-1756fd533716,450380,3674,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($700k+, LVR < 80%)",True,TRUE
+315de39d-3e0e-4c51-a194-c012754b1f64,450590,3664,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($700k+, LVR 90%-95%)",True,TRUE
+0ea7a840-9c6a-413a-a5f3-3c195cb7b8d2,450350,1859,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($400k-$700k, LVR < 80%)",True,TRUE
+2d676918-c18c-4005-bdd0-c36ed46107b5,450410,3657,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($150k-$400k, LVR 80%-90%)",True,TRUE
+1c1b2b7a-c848-42db-988c-4cf45f23ffb1,431130,3656,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) (Amounts < $150k, LVR 90%-95%)",True,TRUE
+04fc5362-32f2-49ab-b1b8-3f3a180ee2c8,425580,4589,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) (Amounts < $150k, LVR 80%-90%)",True,TRUE
+7ccc940c-ed0e-4b09-8c33-2a770f2f3aa8,425631,45921,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 1 Year,False,FALSE
+89d04c00-d965-4bdf-b64e-0c004a9b80a3,425634,45924,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 4 Years,False,FALSE
+b7d7d98b-ac84-4692-9fac-4656fdccd2ff,425637,45927,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 7 Years,False,FALSE
+c41d830b-5b0f-44c6-9d46-4a09908ad227,425633,45923,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 3 Years,False,FALSE
+0d0b8c1f-a86b-4a60-ab37-a78a4160de4d,425540,3158,ME Bank,Flexible Investment Loan (Principal and Interest) (LVR 80%-90%),True,TRUE
+7cd95e3b-44bd-4563-9ad5-71f5144325d9,425641,45911,ME Bank,Flexible Home Loan Fixed 1 Year (LVR < 90%),False,FALSE
+b24fcb6b-1978-4be8-a0df-c47ca48d97f6,425643,45913,ME Bank,Flexible Home Loan Fixed 3 Years (LVR < 90%),False,FALSE
+0892d875-fb48-400f-965f-9f8358dac430,425560,3157,ME Bank,Flexible Home Loan (LVR 80%-95%),True,TRUE
+a8795d98-6406-4d23-9297-c971de21a941,375240,1856,ME Bank,Basic Home Loan (LVR < 80%),True,TRUE
+d11b531a-db91-4015-a39b-795f44e42c55,413720,3778,Liberty Financial,Liberty Star Home Loan (LVR 70%-80%),True,TRUE
+d504801e-5ba2-45b3-b682-0db684dd2b2c,413730,3777,Liberty Financial,Liberty Star Home Loan (LVR 60%-70%),True,TRUE
+c4708901-0e38-478c-88c0-bb20775e5f6f,218900,1955,Liberty Financial,Liberty Sharp Home Loan (LVR 80%-95%),True,TRUE
+bfd428cb-82e8-47f4-8261-d9e3d2300cd1,413740,1064,Liberty Financial,Liberty Sharp Home Loan (LVR 70%-80%),True,TRUE
+da697164-5b3e-4a44-90d3-ebeee9426d2d,413860,3770,Liberty Financial,Liberty Free Home Loan (LVR 70%-80%),True,TRUE
+8a07235e-07e7-4480-bc63-dcab362ec9e4,468410,4765,loans.com.au,Essentials Investment Loan (Purchase) (Interest Only),True,TRUE
+4204f25a-247b-4d95-8168-43c081e9372d,529950,3826,loans.com.au,Essentials Home Loan (Purchase) (Interest Only),True,TRUE
+b928aed3-075f-4308-b242-3c66db122f85,508030,4118,loans.com.au,Essentials Investment Loan (Purchase) (Principal and Interest),True,TRUE
+6384fd04-2717-4a9b-af04-3752db5c741c,410692,21392,Macquarie Bank,Basic Investment Loan Fixed (Principal and Interest) 2 Years,False,TRUE
+72612b55-ff0d-4f90-9f9b-0f8bbd517011,344880,2126,Macquarie Bank,"Basic Investment Loan (Principal and Interest) ($750k+, LVR 70%-80%)",True,TRUE
+ad4b5117-5c93-44bb-a9f6-579e7ea43a8b,347720,2119,Macquarie Bank,"Offset Package Investment Loan (Principal and Interest) ($750k+, LVR 70%-80%)",True,TRUE
+6da9c4cb-b92f-43e2-a919-1f9b44a84cfb,347820,3457,Macquarie Bank,"Offset Package Home Loan (Principal and Interest) ($750k+, LVR < 80%)",True,TRUE
+488e6ef6-6c0c-4921-b5c8-bd81c5dcf746,137770,4070,Macquarie Credit Union,Standard Variable Home Loan,True,TRUE
+906710a2-4a03-4b35-b9a8-df0b1d8ac40a,167570,4068,Macquarie Credit Union,Basic Low Rate Home Loan,True,TRUE
+83eb4101-3bc7-45e8-8b0e-676b20a6e369,515340,4113,Mortgage House, Advantage Home Loan (PAYG Special Cat 1) (LVR 70%-80%) ,True,TRUE
+4cced22b-5438-46d7-a927-3df64198e937,405880,2323,MyState,Special Residential Investment Loan (Principal and Interest),True,TRUE
+15971097-2ba4-4f72-b06f-1d002e5726f6,405845,23315,MyState,Fixed Investment Loan (Principal and Interest) 5 Years,False,FALSE
+079e2686-a4c6-4f58-b76f-74c6564f481d,405841,23311,MyState,Fixed Investment Loan (Principal and Interest) 1 Year,False,FALSE
+adb88b36-41dc-4cc7-aaca-4327b652a0a0,55755,2995,MyState,Fixed Home Loan (Principal and Interest) 5 Years (LVR 80%-95%),False,FALSE
+8d601f9a-15de-45ce-8d92-568253c0ae41,316202,14772,MyState,Fixed Home Loan (Principal and Interest) 2 Years (LVR < 80%),False,FALSE
+a71f2eab-59a1-4c67-b5d8-749184dcee00,55751,2991,MyState,Fixed Home Loan (Principal and Interest) 1 Year (LVR 80%-95%),False,FALSE
+a537d7c8-779e-4daa-bbc6-2393a018fc67,316203,14773,MyState,Fixed Home Loan (Principal and Interest) 3 Years (LVR < 80%),False,FALSE
+69af821d-1dd6-4e42-b9f3-5474cc011e56,55753,2993,MyState,Fixed Home Loan (Principal and Interest) 3 Years (LVR 80%-95%),False,FALSE
+23889c5e-f10d-4d9a-8d6f-0b7085dbe75c,516040,2080,Newcastle Permanent,Premium Variable Investment Loan (Principal and Interest),True,TRUE
+f7b87209-b0b6-4642-bba4-93a6d732ecd1,516060,4868,Newcastle Permanent,Premium Plus Package Variable Rate Investment Loan (Principal and Interest) ($500k-$750k),True,TRUE
+0cbcd720-7bd9-4926-b05f-6f5423f42229,516080,4870,Newcastle Permanent,Premium Plus Package Variable Rate Investment Loan (Principal and Interest) ($900k+),True,TRUE
+cb690cf2-841d-4c14-9576-10d021382ff8,229790,330,Newcastle Permanent,Real Option Home Loan (Principal and Interest),True,TRUE
+a4304f43-88e1-455b-a0a6-95298ab1d0ed,23200,2082,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan (Principal and Interest) (Amounts < $500k),True,TRUE
+cf024424-c272-4719-8648-e4bc1f4cf12c,141800,4600,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan (Principal and Interest) ($750k-$900k),True,TRUE
+33f8cb6c-025d-42f5-b74f-fac9970703a5,362604,20774,Newcastle Permanent,Fixed Rate Investment Loan (Principal and Interest) 4 Years,False,FALSE
+3be8d493-fa52-4f8a-a50c-37f1e4bb09f3,362605,20775,Newcastle Permanent,Fixed Rate Investment Loan (Principal and Interest) 5 Years,False,FALSE
+eae5e449-d95f-494b-807d-672b8dfdb83b,362602,20772,Newcastle Permanent,Fixed Rate Investment Loan (Principal and Interest) 2 Years,False,FALSE
+605f6f89-798f-422b-adc6-7d93c2069a1a,3626010,207710,Newcastle Permanent,Fixed Rate Investment Loan (Principal and Interest) 10 Years,False,FALSE
+f3b9a47f-9bc8-40e1-90ac-ba43a43af0df,21192,3312,Newcastle Permanent,Fixed Rate Home Loan (Principal and Interest) 2 Years,False,FALSE
+5ed1845f-771f-40d6-b7f3-4159c9351513,21194,3314,Newcastle Permanent,Fixed Rate Home Loan (Principal and Interest) 4 Years,False,FALSE
+fd2586a3-aad3-44f6-bf4b-00743bc2a924,21197,3317,Newcastle Permanent,Fixed Rate Home Loan (Principal and Interest) 7 Years,False,FALSE
+9c3276cc-5472-4596-848c-c4d022ef78c1,19380,878,People's Choice Credit Union,Standard Variable Home Loan (Principal and Interest),True,TRUE
+5f27bb59-e57b-48b4-aa1d-8b966e6b6926,407690,2785,People's Choice Credit Union,Package Variable Investment Loan (Principal and Interest),True,TRUE
+47dd86f1-f0e7-4dee-ac85-b02b0ccbbd99,16930,879,People's Choice Credit Union,Package Variable Home Loan (Principal and Interest) ($100k+),True,TRUE
+40c058f9-b75c-412d-ba79-209592d47e64,405141,25381,People's Choice Credit Union,Package Fixed Investment Loan (Principal and Interest) 1 Year,False,FALSE
+3e64f76e-cada-47e6-bcd5-477f097f6f33,405142,25382,People's Choice Credit Union,Package Fixed Investment Loan (Principal and Interest) 2 Years,False,FALSE
+1fb787c9-daf6-45e8-89a2-f30cab76a080,405145,25385,People's Choice Credit Union,Package Fixed Investment Loan (Principal and Interest) 5 Years,False,FALSE
+189d55ad-e8e8-47a9-a6e1-a3c2fef0fe13,405152,12502,People's Choice Credit Union,Package Fixed Home Loan (Principal and Interest) 2 Years,False,FALSE
+674208c0-d114-4df7-95f5-f4b1ffd6a755,405154,12504,People's Choice Credit Union,Package Fixed Home Loan (Principal and Interest) 4 Years,False,FALSE
+b3c3c0e4-1811-47fe-a62e-d0d8824895d2,438710,876,People's Choice Credit Union,Line of Credit,True,FALSE
+54eaf4fe-ec4d-4f16-87db-fe14523914ae,405125,24895,People's Choice Credit Union,Fixed Rate Investment Loan (Principal and Interest) 5 Years,False,FALSE
+7899961a-9313-4951-b4f0-a3dd94825616,405122,24892,People's Choice Credit Union,Fixed Rate Investment Loan (Principal and Interest) 2 Years,False,FALSE
+343b9d50-0a4f-4949-945f-d0b7386381db,19405,8725,People's Choice Credit Union,Fixed Rate Home Loan (Principal and Interest) 5 Years,False,FALSE
+aa2aca57-4bfa-45fc-8184-1ceff8aa5259,19404,8724,People's Choice Credit Union,Fixed Rate Home Loan (Principal and Interest) 4 Years,False,FALSE
+ea1ff316-f802-4c45-930e-926b106a869b,19401,8721,People's Choice Credit Union,Fixed Rate Home Loan (Principal and Interest) 1 Year,False,FALSE
+2e12ccba-ad4d-42d6-bdab-fff61f1d989d,21880,1820,People's Choice Credit Union,Basic Variable Home Loan (Principal and Interest),True,TRUE
+34b0527e-f38e-487e-aa62-7f130c78cd66,431760,3441,QBANK,Standard Variable Invesment Loan,True,TRUE
+08729b16-a2f0-4908-bed4-4f300708d31d,431754,34454,QBANK,Fixed Rate Investment Loan 4 Years,True,TRUE
+83057926-4995-4158-b1ff-6ffe745427ee,431753,34453,QBANK,Fixed Rate Investment Loan 3 Years,True,TRUE
+0b73a592-6c74-4969-91b1-a385bcd233f2,431730,3444,QBANK,Classic Plus Package Investment Loan (QLD only) ($250k+),True,TRUE
+a36e0211-0cff-4250-ac8a-04ecc8fcc49b,312350,788,QBANK,Standard Variable Home Loan (QLD only),True,TRUE
+ab464c1e-496f-4621-98cc-7d319673b0c3,312341,7901,QBANK,Fixed Rate Home Loan 1 Year (QLD only),True,TRUE
+95f358b5-7df4-4801-b7e8-bf30c89cec32,312345,7905,QBANK,Fixed Rate Home Loan 5 Years (QLD only),True,TRUE
+cee923a0-10aa-4c6d-8919-39dc22a97d6e,312342,7902,QBANK,Fixed Rate Home Loan 2 Years (QLD only),True,TRUE
+d797b007-db4f-47ea-8c3f-d6c7da9c1355,470040,3993,QBANK,Classic Investment Loan Special Offer (New Customer) (LVR 80%-95%),True,TRUE
+388924a9-d6b3-45a9-bb3e-da91334c1846,470090,3991,QBANK,Classic Home Loan Special Offer (QLD only) (New Customer) (LVR 90%-95%),True,TRUE
+ca2262f6-4fb5-44d5-a5bb-f760b00665f1,430740,3371,RAMS,"Value Advantage Package Full Feature Investment Loan (Principal and Interest) ($250k-$500k, LVR 80%-95%)",True,TRUE
+c6f8be55-5ac7-4a76-aaec-b51a3969761b,430210,3364,RAMS,"Low Rate Home Loan (Investor, Principal + Interest)",True,TRUE
+194a0297-9e44-42b3-8b77-a9dbf2241bfa,19530,984,RAMS,Low Rate Home Loan (Principal and Interest),True,TRUE
+a2ae03ea-eb56-48d6-aaca-da13012a3379,19560,987,RAMS,Full Feature Home Loan (Principal and Interest),True,TRUE
+c92ce705-b95d-4e7e-a31c-bdc8ef10fdd5,70692,9852,RAMS,Home Loan Fixed (Principal and Interest) 2 Years,True,TRUE
+fbea3dae-a9a3-486c-9979-c7ef580afa54,706910,98510,RAMS,Home Loan Fixed (Principal and Interest) 10 Years,True,TRUE
+5444e282-509f-4582-b8c0-8f41a7cd8bcb,70693,9853,RAMS,Home Loan Fixed (Principal and Interest) 3 Years,True,TRUE
+af9d15e9-802f-408b-9cc4-49dd9e8d2150,24160,1518,RESI Mortgage Corp,"Smart Pro Home Loan ($200k+, LVR 90%-95%)",True,TRUE
+e7ff9a83-4931-40b7-b4d3-9f15be44fca8,17393,42703,Endeavour Mutual Bank,3 Year Fixed Home Loan,True,TRUE
+0739d2ce-2f28-4eb0-b35b-b6f1ffea0702,443720,223,St.George Bank,Basic Home Loan (Principal and Interest) (New Customer),True,TRUE
+7b5b8022-ee4b-4439-98d4-34b94161b414,443730,2003,St.George Bank,Basic Investment Loan (Principal and Interest) (New Customer),True,TRUE
+146615a0-ab13-4b88-a5c5-c1473229786b,399950,2356,St.George Bank,Standard Variable Investment Loan (Principal and Interest),True,TRUE
+ca009635-cf53-4819-863d-f6bf60a4a2c8,483800,3701,Suncorp Bank,Personal Purpose Back to Basics Special (Principal and Interest) (LVR 90%-95%),True,FALSE
+316b7322-db95-40e4-9cf2-a9bf53883a1c,472303,3873,Suncorp Bank,Home Package Plus Personal Fixed (Principal and Interest) 3 Years,False,FALSE
+0e444058-496a-4c9f-ae30-b5eee47ce2ba,472305,3875,Suncorp Bank,Home Package Plus Personal Fixed (Principal and Interest) 5 Years,False,FALSE
+c64e7933-8955-4e09-8f2d-426216fadc0e,483791,3871,Suncorp Bank,Home Package Plus Personal Fixed Special (Principal and Interest) 1 Year,False,FALSE
+0618615b-1a8e-4e06-89bf-a77eab8a3979,472295,25405,Suncorp Bank,Home Package Plus Investment Fixed (Principal and Interest) 5 Years ,False,FALSE
+b16849ac-6a1a-4b2d-868d-b75ac8ba1bad,472293,25403,Suncorp Bank,Home Package Plus Investment Fixed (Principal and Interest) 3 Years ,False,FALSE
+a8009990-389f-47b3-8b11-0d18f305a570,472282,24872,Suncorp Bank,Fixed Investment Loan (Principal and Interest) 2 Years,False,FALSE
+a331953e-6759-400d-a4fa-a1d39c814201,472285,24875,Suncorp Bank,Fixed Investment Loan (Principal and Interest) 5 Years,False,FALSE
+d413b2ea-a312-404f-b97a-223ba9970c4a,54935,16625,Suncorp Bank,Fixed Home Loan (Principal and Interest) 5 Years,False,FALSE
+5ac234bf-35ff-407a-ab7c-4cc9660d3961,54932,16622,Suncorp Bank,Fixed Home Loan (Principal and Interest) 2 Years,False,FALSE
+2f14da07-a9d7-4bb4-ac3e-a5171ab5fd57,492145,28555,Teachers Mutual Bank,Fixed Investment Loan (Principal and Interest) 5 Years,False,FALSE
+d5da7ba5-ec1c-484b-99a7-80c326964794,492142,28552,Teachers Mutual Bank,Fixed Investment Loan (Principal and Interest) 2 Years,False,FALSE
+b4551067-955f-4245-b33f-e35655e0ffd1,492144,28554,Teachers Mutual Bank,Fixed Investment Loan (Principal and Interest) 4 Years,False,FALSE
+da39057b-949e-4ad4-a425-42de936f1bce,17970,605,Teachers Mutual Bank,Flexi Choice Home Loan,True,TRUE
+37e6cffa-03bc-4d41-b3da-58ffdb857c0d,22914,6074,Teachers Mutual Bank,Fixed Home Loan (Principal and Interest) 4 Years,False,FALSE
+9946bf01-aaff-4d2d-9122-8711bcdd20d6,22913,6073,Teachers Mutual Bank,Fixed Home Loan (Principal and Interest) 3 Years,False,FALSE
+c6fe092e-fbda-40b9-8d46-7be85de278a1,476180,4074,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 80%-90%)",True,TRUE
+84beed80-2f56-410d-9b87-702871025f99,476150,4073,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 80%-90%)",True,TRUE
+119bceb1-898d-4d92-9b28-711967a848e0,476250,1809,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 90%-95%)",True,TRUE
+c95fb207-ef41-4b56-b31c-5d81b4a72f41,476200,4083,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 60%-80%)",True,TRUE
+2047fc09-deab-4eb7-b211-5978a6198e51,358420,4092,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR < 60%)",True,TRUE
+ed34bf1e-2f19-4af9-9cff-f1f8d3c5c74e,176240,4090,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR < 60%)",True,TRUE
+655e7dbd-7aa6-4e54-a0d4-b5f8506689c2,358400,4091,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR < 60%)",True,TRUE
+78d449bd-2d37-467e-b111-a6973b755640,18440,606,Teachers Mutual Bank,My First Home Loan,True,TRUE
+9d771e89-c752-4151-a084-4c6791ef5eab,413940,729,The Rock Building Society,Standard Variable Home Loan (Principal and Interest),True,TRUE
+6ffe9819-d459-4f51-b534-41ca76fca64c,455713,23293,The Rock Building Society,Fixed Rate Investment Loan 3 Years (Principal and Interest) (LVR < 80%),True,TRUE
+984d0cbf-b7fd-412f-8b18-f28ade8f30e5,455711,23291,The Rock Building Society,Fixed Rate Investment Loan 1 Year (Principal and Interest) (LVR < 80%),True,TRUE
+3b2949dc-308b-4da3-9917-3546563d37e8,316042,14102,The Rock Building Society,Fixed Rate Home Loan 2 Years (Principal and Interest) (LVR 80%-95%),True,TRUE
+f884d201-0453-4a66-ab96-9490f3b55722,316041,14101,The Rock Building Society,Fixed Rate Home Loan 1 Year (Principal and Interest) (LVR 80%-95%),True,TRUE
+b8877d31-654c-4b7c-b3a6-1b2277d05e76,316045,14105,The Rock Building Society,Fixed Rate Home Loan 5 Years (Principal and Interest) (LVR 80%-95%),True,TRUE
+d617ad10-326e-4307-bb36-8aa1ac0c80fd,18972,7352,The Rock Building Society,Fixed Rate Home Loan 2 Years (Principal and Interest) (LVR < 80%),True,TRUE
+267f8473-70d4-47ec-a0ba-832e39e6f801,291790,1316,The Rock Building Society,Essentials Home Loan (Principal and Interest) (LVR < 80%),True,TRUE
+df1f3c2e-0df9-4dcd-a957-ceef7b86c71b,425780,3013,UniBank,Flexi Choice Investment Loan,True,TRUE
+9e917cb0-9082-4cad-a86d-fbefb37356cb,399744,28574,UniBank,Fixed Investment Loan 4 Years,False,FALSE
+5ac94df3-afc2-4981-a29a-e621f1c73acb,399742,28572,UniBank,Fixed Investment Loan 2 Years,False,FALSE
+ac7700f2-5955-4663-97c5-00c5aa1a0456,395101,24421,UniBank,Fixed Home Loan (Principal and Interest) 1 Year,False,FALSE
+85079d4c-e573-40d6-a35a-b8967eac7666,395105,24425,UniBank,Fixed Home Loan (Principal and Interest) 5 Years,False,FALSE
+0369713d-e569-45dd-8b09-b2a1d2e23c96,395104,24424,UniBank,Fixed Home Loan (Principal and Interest) 4 Years,False,FALSE
+46bc7f0f-b909-4e67-ba8b-502a9badcec5,476650,4095,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR < 60%)",True,TRUE
+f5b484b5-3bb4-4b9e-ba58-05d8fe7359ae,476590,4094,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR < 60%)",True,TRUE
+7c7bfd9c-ee68-4d08-91dd-076a74cb9928,476550,4077,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 80%-90%)",True,TRUE
+ac136892-666a-4b4c-9a3a-1548023b1304,395090,2447,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 90%-95%)",True,TRUE
+fab71ba0-823c-49f5-9375-ba5e4236b6bc,476680,4088,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 60%-80%)",True,TRUE
+7a91e349-bdfe-4a3c-b432-710cf1ec5159,476630,4079,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 80%-90%)",True,TRUE
+47c240e0-e76a-4ff2-8eaa-c758eeb8d6d3,476700,4080,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 80%-90%)",True,TRUE
+b9fc902f-bb19-4a0e-84e4-ba465e683694,476560,4086,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 60%-80%)",True,TRUE
+892829d6-1bd9-4b5f-9f12-9463343e4339,425770,2859,UniBank,Classic Home Loan,True,TRUE
+ca97cd41-af07-468e-88f5-ef17068a67b0,409600,2729,Bank First,Standard Variable Investment Loan (LVR < 80%),True,TRUE
+ed5492af-3635-451a-8850-9c382ab9a115,409590,2984,Bank First,Standard Variable Home Loan (LVR 80%-95%),True,TRUE
+0a8ba497-ac51-409b-b2c8-5ec91519652d,409552,27352,Bank First,Fixed Standard Investment Loan 2 Years (LVR < 80%),True,TRUE
+ae2ac6b4-d8fc-459b-a489-75cc701bb556,409555,27355,Bank First,Fixed Standard Investment Loan 5 Years (LVR < 80%),True,TRUE
+dbe432dc-cdaf-4559-93ac-0d88ea189f87,409632,29862,Bank First,Fixed Standard Home Loan 2 Years (LVR 80%-95%),True,TRUE
+4d0a9c68-3197-4a42-b819-4b205ef35b9d,409621,9141,Bank First,Fixed Standard Home Loan 1 Year (LVR < 80%),True,TRUE
+616125ac-68b5-4431-a082-b3d897f37a55,409625,9145,Bank First,Fixed Standard Home Loan 5 Years (LVR < 80%),True,TRUE
+57680fc2-6ae1-48b5-acaf-0c7eb9a1eaf9,409631,29861,Bank First,Fixed Standard Home Loan 1 Year (LVR 80%-95%),True,TRUE
+52f0b250-acc3-41f1-b0a1-6b33595a9f6b,409634,29864,Bank First,Fixed Standard Home Loan 4 Years (LVR 80%-95%),True,TRUE
+8c1d9f0c-6973-417f-8e1f-74765bb7c07d,412121,27321,Bank First,Fixed Complete Investment Loan 1 Year (LVR < 80%),True,TRUE
+c8c61b44-eb39-4ab5-bfde-3800c8d53eb9,412123,27323,Bank First,Fixed Complete Investment Loan 3 Years (LVR < 80%),True,TRUE
+847bcc9d-f2dc-4ead-89f3-489e55a869f3,412183,8923,Bank First,Fixed Complete Home Loan 3 Years (LVR < 80%),True,TRUE
+9acc424d-b7cf-4ace-b3fb-002c45f2617a,412181,8921,Bank First,Fixed Complete Home Loan 1 Year (LVR < 80%),True,TRUE
+b0cf0c81-5ad7-4dc4-bd41-cd8fce6e71b0,412094,29904,Bank First,Fixed Complete Home Loan 4 Years (LVR 80%-95%),True,TRUE
+fb20c63e-c246-445d-be41-315f858a00ef,412095,29905,Bank First,Fixed Complete Home Loan 5 Years (LVR 80%-95%),True,TRUE
+ceaf9b8d-72d9-4e6f-8c7e-e8bfa5b96d14,412185,8925,Bank First,Fixed Complete Home Loan 5 Years (LVR < 80%),True,TRUE
+5ac4a9a9-2a01-4844-b110-3e4237691c73,411724,29964,Bank First,Premier Package Investment Loan Fixed 4 Years (LVR < 80%),True,TRUE
+d9d044f9-1767-46ff-a558-ace43a19ff8c,411721,29961,Bank First,Premier Package Investment Loan Fixed 1 Year (LVR < 80%),True,TRUE
+8833ff1b-a5c2-418d-afb0-fff1461e7323,411722,29962,Bank First,Premier Package Investment Loan Fixed 2 Years (LVR < 80%),True,TRUE
+c1570282-5e94-426f-9352-7358379fd240,411760,2701,Bank First,Premier Package Investment Loan (LVR < 80%),True,TRUE
+92d78ca3-fa71-42c7-8da3-de6f0e493770,410962,29952,Bank First,Premier Package Home Loan Fixed 2 Years (LVR 80%-95%),True,TRUE
+788a29fa-9154-4828-aab9-81ae99422ea5,411785,29935,Bank First,Premier Package Home Loan Fixed 5 Years (LVR < 80%),True,TRUE
+bf8c8d67-9b24-424d-98e5-d62981cfcb9c,410963,29953,Bank First,Premier Package Home Loan Fixed 3 Years (LVR 80%-95%),True,TRUE
+bddaf7a1-df0b-4d7e-9b31-4fbe10f07a4c,411784,29934,Bank First,Premier Package Home Loan Fixed 4 Years (LVR < 80%),True,TRUE
+2c914273-d99c-42f6-9a63-4483c6beedc2,410965,29955,Bank First,Premier Package Home Loan Fixed 5 Years (LVR 80%-95%),True,TRUE
+88b61db0-f79f-4c1a-bdaa-0b09aa976107,411750,1786,Bank First,Premier Package Home Loan  (LVR 80%-95%),True,TRUE
+73d97d3d-5caf-4936-967c-49013c297232,412150,2988,Bank First,Complete Home Loan (LVR 80%-95%),True,TRUE
+51fd6d17-4029-4db1-9563-8d07c0ed7f83,458410,3502,Westpac,Flexi First Option Investment Loan (Interest Only),True,TRUE
+6fdd456b-e57b-47c9-875a-9f83ffe23445,17240,81,Westpac,Rocket Repay Home Loan (Principal and Interest),True,TRUE
+949123c2-e175-48ca-9be9-1f49317c9412,19792,872,Westpac,Fixed Rate Investment Loan (Principal and Interest) 2 Years,True,TRUE
+4efaf706-0baa-4635-be94-6c31569305ae,19797,877,Westpac,Fixed Rate Investment Loan (Principal and Interest) 7 Years,True,TRUE
+33dbe6ee-4ac3-4c5e-9717-11046e00b6b6,19794,874,Westpac,Fixed Rate Investment Loan (Principal and Interest) 4 Years,True,TRUE
+0f3068c2-7c72-4e83-8503-ed948e396041,19371,841,Westpac,Fixed Options Home Loan (Principal and Interest) 1 Year,True,TRUE
+0e4d94c5-6826-4fe2-9aa8-bc10d026ad50,19375,845,Westpac,Fixed Options Home Loan (Principal and Interest) 5 Years,True,TRUE
+49e14d7f-9e4e-42b9-82bb-d4b639bed849,487671,40091,Bank of us,FlexiDiscount Home Loan Fixed 1 Year (LVR 90%-95%),True,TRUE
+99c75d6c-22ac-4892-9025-b1b588edf0df,55043,42563,Bank of us,FlexiDiscount Home Loan Fixed 3 Years (LVR 80%-90%),True,TRUE
+d6b30397-2b48-4035-bf0e-80896cce59a0,55041,42561,Bank of us,FlexiDiscount Home Loan Fixed 1 Year (LVR 80%-90%),True,TRUE
+97e19866-eed0-436c-91d1-feb41c7e41d8,512160,808,Bank of us,FlexiDiscount Home Loan (LVR 80%-90%),True,TRUE
+9f38f388-8bca-43f5-9698-6efeec489efc,18903,42603,Bank of us,FlexiChoice Investment Loan Fixed 3 Years (LVR 80%-90%),True,TRUE
+c9e695ed-4137-451f-8651-b7e83a8dd776,473521,48811,Bank of us,FlexiChoice Investment Loan Fixed 1 Year (LVR < 80%),True,TRUE
+5abda03c-9f0d-4dbb-8f8c-5d69a2cde445,473523,48813,Bank of us,FlexiChoice Investment Loan Fixed 3 Years (LVR < 80%),True,TRUE
+40c6af23-67fa-4531-b63b-70dab826b6f9,419600,3040,Bank of us,FlexiChoice Investment Loan (LVR 90%-95%),True,TRUE
+49c6263f-8edb-4995-9ddf-911e7853ee71,419520,4106,Bank of us,Topline Investment Loan (LVR 90%-95%),True,TRUE
+8cac049c-6bc1-4b7e-a836-df05ca5b513d,419560,4879,Bank of us,Topline Investment Loan (LVR < 80%),True,TRUE
+191d3b9a-c054-4cf4-a3e7-d47af5ed9925,54970,4105,Bank of us,Topline Home Loan (LVR 90%-95%),True,TRUE
+ee09469f-aa89-4328-aadb-e65eb35b530d,424421,35401,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 1 Year (LVR < 90%),False,FALSE
+1ab672d2-4d23-435f-8523-b2a8ee995430,424615,35485,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 5 Years (LVR 90%-95%),False,FALSE
+fdecd75e-eb2d-4550-b777-ea79af31db32,424423,35403,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 3 Years (LVR < 90%),False,FALSE
+1c244107-eb64-478c-bb57-2c7278fedb1a,424425,35405,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 5 Years (LVR < 90%),False,FALSE
+eea56979-56ef-4cdb-8da0-1ef9c8f8cb66,424424,35404,Virgin Money,Reward Me Home Loan Fixed (Principal and Interest) 4 Years (LVR < 90%),False,FALSE
+f45bf072-fe43-4229-a7dc-b341cd39cf1a,424040,3505,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($750k+, LVR < 80%)",True,TRUE
+c115aa1a-3421-45a5-ab23-dca45bc19c06,424100,3524,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($750k+, LVR 90%-95%)",True,TRUE
+b8f3ad84-982b-4994-8c55-8ca216aea29f,424030,3504,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($500k-$750k, LVR < 80%)",True,TRUE
+49be69c1-1813-46eb-a0c6-dba5c41d5721,424070,3521,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($750k+, LVR 80%-90%)",True,TRUE
+34449648-a297-4f10-9f5d-e302a4f2c719,424080,3522,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($75k-$500k, LVR 90%-95%)",True,TRUE
+95ff922d-7e8b-4193-83fc-7c8a9f7c954e,424120,3526,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($500k-$750k, LVR < 80%)",True,TRUE
+95d10703-0221-44b7-96b7-7efd64ae88e9,424130,3527,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($750k+, LVR < 80%)",True,TRUE
+9126553f-5542-42e5-94e2-a9bdd045eee9,424753,35413,Virgin Money,Reward Me Investment Loan Fixed (Principal and Interest) 3 Years,False,FALSE
+ca0e9b7d-d8d0-465b-8c61-b2b448db8dbc,424752,35412,Virgin Money,Reward Me Investment Loan Fixed (Principal and Interest) 2 Years ,False,FALSE
+be504b4d-f66b-49c8-aafa-c14ae58bbf35,419480,3462,Bank Australia,Premium Investment Loan (Principal and Interest),True,TRUE
+6602fd56-2204-4dd9-8867-c1a6b79c9185,22771,2581,Bank Australia,Premium Home Loan Fixed 1 Year (LVR < 80%),True,TRUE
+29386353-1a2c-4311-957c-aeb714c037d6,22775,2585,Bank Australia,Premium Home Loan Fixed 5 Years (LVR < 80%),True,TRUE
+dd2e1526-cbb3-4325-98f1-5f5894e0a603,511355,28715,Bank Australia,Package Premium Investment Loan Fixed 5 Years (Principal and Interest),True,TRUE
+baf8b2ac-0994-4d0d-b4aa-d971860249bf,511353,28713,Bank Australia,Package Premium Investment Loan Fixed 3 Years (Principal and Interest),True,TRUE
+fa0340d9-6b8a-45e8-a520-6fe9d2fb91e2,419500,2863,Bank Australia,Package Premium Investment Loan (Principal and Interest) ($100k-$400k),True,TRUE
+25b82347-acb2-4c30-bfc2-60c98ed7e5ac,419510,2864,Bank Australia,Package Premium Investment Loan (Principal and Interest) ($400k-$700k),True,TRUE
+d37e7841-28a9-4b93-a20a-2f4b5c0743b4,479361,23461,Bank Australia,Package Premium Home Loan Fixed 1 Year (LVR < 80%),True,TRUE
+2c1a8b8e-65d5-4bb9-a06c-53aca53cb3cf,479362,23462,Bank Australia,Package Premium Home Loan Fixed 2 Years (LVR < 80%),True,TRUE
+01918a40-65c2-4673-bcd1-723171dd81ba,479412,37322,Bank Australia,Package Premium Home Loan Fixed 2 Years (LVR 80%-95%),True,TRUE
+f0bd2f22-ff92-4fba-8bb8-d9042ec5bc6e,479415,37325,Bank Australia,Package Premium Home Loan Fixed 5 Years (LVR 80%-95%),True,TRUE
+2a2308d2-3154-42fe-a916-6553af547921,479330,1374,Bank Australia,"Package Premium Home Loan ($100k-$400k, LVR < 80%)",True,TRUE
+3e6a7d36-f654-4084-bfd7-f2eac59b1bf1,20680,3728,Bank Australia,"Package Premium Home Loan ($400k-$700k, LVR 80%-95%)",True,TRUE
+0425ccc2-f693-41ce-ad43-c69898a4415f,238490,3729,Bank Australia,"Package Premium Home Loan ($700k+, LVR 80%-95%)",True,TRUE
+7490d82a-69dc-42b2-a0b7-40a05e3f4cee,500310,254,Bank Australia,Basic Investment Loan (Principal and Interest),True,TRUE
+26f6bf8e-b03e-44f4-8746-6a874c63332c,506560,4757,Bank Australia,Basic Home Loan Special (LVR < 80%),True,TRUE
+913d6444-15dd-4d4c-b8ce-f7946e33cee2,489860,4277,Commonwealth Bank of Australia,3 Year Special Economiser Investment Loan (Interest Only),True,TRUE
+f262249b-6746-4003-9b4d-1094f6730d29,489890,4284,Commonwealth Bank of Australia,Economiser Investment Loan (Interest Only),True,TRUE
+fd649fb0-31b5-4edf-a840-7a47b0766c67,489900,4285,Commonwealth Bank of Australia,No Fee Variable Rate Investment Loan (Interest Only),True,TRUE
+e982adbb-0fd0-4a33-8311-c1f6b6465ad3,516760,4374,Community First Credit Union,Standard Variable Home Loan (Interest Only),True,TRUE
+12a10fb6-c0b7-44a4-a34f-c6a6380ad961,516770,4366,Community First Credit Union,Basic Variable Home Loan (Interest Only) (LVR < 80%),True,TRUE
+0892aae4-b35e-4ab5-ab9f-02541a9a071e,492930,4346,State Custodians,Low Rate Home Loan with Offset (Principal and Interest) (LVR < 80%),True,TRUE
+62681318-5805-429b-82bc-3313b0d27fc6,492950,4348,State Custodians,Low Rate Home Loan with Offset (Principal and Interest) (LVR 90%-95%),True,TRUE
+cfc6a445-43ac-4035-8ad7-5daf1414e869,492970,4350,State Custodians,Low Rate Investment Loan with Offset (Principal and Interest) (LVR 80%-90%),True,TRUE
+76a8e5fd-2da1-4179-831c-986a904bee46,494850,4399,Bank Australia,Premium Investment Loan (Interest Only),True,TRUE
+0cf0df6d-7f40-4464-8a7d-eb480d123562,494900,4400,Bank Australia,Package Premium Investment Loan (Interest Only) ($100k-$400k),True,TRUE
+c527f573-45fa-4a1e-b753-e906e9ea45da,511341,44131,Bank Australia,Package Premium Investment Loan Fixed 1 Year (Interest Only),True,TRUE
+949c5573-7dd1-46d5-aa12-fe8974a3c412,511343,44133,Bank Australia,Package Premium Investment Loan Fixed 3 Years (Interest Only),True,TRUE
+27081eac-db4f-4af3-a473-eb0bc3096dbe,489702,43062,Commonwealth Bank of Australia,Fixed Rate Home Loan (Interest Only) 2 Years,False,FALSE
+f4b8d57a-ff80-4e71-bb18-b95703aedada,489704,43064,Commonwealth Bank of Australia,Fixed Rate Home Loan (Interest Only) 4 Years,False,FALSE
+220cba13-8a85-46b0-a451-0000486c85ba,489707,43067,Commonwealth Bank of Australia,Fixed Rate Home Loan (Interest Only) 7 Years,False,FALSE
+96abd73d-cc47-4413-873c-a5afbd075a4f,489882,42762,Commonwealth Bank of Australia,Fixed Rate Investment Loan (Interest Only) 2 Years,False,FALSE
+1406f2a2-a282-44b4-96cb-bcc3225ada64,489884,42764,Commonwealth Bank of Australia,Fixed Rate Investment Loan (Interest Only) 4 Years,False,FALSE
+4dab5c96-1aac-4032-8ddb-90ccd1e458fd,489887,42767,Commonwealth Bank of Australia,Fixed Rate Investment Loan (Interest Only) 7 Years,False,FALSE
+d6057405-c414-4e02-8093-fbd2ad681cc2,457342,37422,Westpac,Fixed Options Home Loan (Interest Only) 2 Years,True,TRUE
+a7243c41-7b9d-495f-8ad4-6c73131c6f05,457344,37424,Westpac,Fixed Options Home Loan (Interest Only) 4 Years,True,TRUE
+1e697d2d-d952-4513-b1da-c794bd7cbd55,497450,4322,ANZ,Standard Variable Home Loan (Interest Only),True,TRUE
+43ae05bc-74e0-4b31-a6b8-4737a3f9f34d,497500,4323,ANZ,Standard Variable Investment Loan (Interest Only),True,TRUE
+9d79616f-5c5c-4a7a-9369-c86870700e3f,497462,43412,ANZ,Breakfree Package Fixed Rate Investment Loan (Interest Only) 2 Years,False,FALSE
+5ac67676-f402-4429-ab15-2b551d9d058d,497464,43414,ANZ,Breakfree Package Fixed Rate Investment Loan (Interest Only) 4 Years,False,FALSE
+2d77d2b6-3b7d-40b2-9843-246c951b0070,497467,43417,ANZ,Breakfree Package Fixed Rate Investment Loan (Interest Only) 7 Years,False,FALSE
+fb840587-c593-4d87-aad3-d0402ad57a64,497472,43192,ANZ,Fixed Rate Investment Loan (Interest Only) 2 Years,False,FALSE
+cb4cf725-7676-4f17-8547-31020523e977,497474,43194,ANZ,Fixed Rate Investment Loan (Interest Only) 4 Years,False,FALSE
+f598650b-b89b-4a80-b48a-9843b9113591,497477,43197,ANZ,Fixed Rate Investment Loan (Interest Only) 7 Years,False,FALSE
+2f94553f-1892-4f6a-8b6d-b8c4d75d5edd,497421,43181,ANZ,Fixed Rate Home Loan (Interest Only) 1 Year,False,FALSE
+25b157b4-f411-4b8f-841e-2552c5200ee1,497423,43183,ANZ,Fixed Rate Home Loan (Interest Only) 3 Years,False,FALSE
+1c110875-cd55-4a48-86fb-e1f472a840d1,497425,43185,ANZ,Fixed Rate Home Loan (Interest Only) 5 Years,False,FALSE
+a3cc428f-d1b1-404f-9204-23542c75ab9b,4974210,431810,ANZ,Fixed Rate Home Loan (Interest Only) 10 Years,False,FALSE
+af083135-3614-4b61-9db5-c254c4d72212,497413,43363,ANZ,Breakfree Package Fixed Rate Home Loan (Interest Only) 3 Years,False,FALSE
+d734452d-12ca-4aca-8177-662a6c82f2f4,497415,43365,ANZ,Breakfree Package Fixed Rate Home Loan (Interest Only) 5 Years,False,FALSE
+c459454f-b69a-4098-8a07-b003c0b28be1,4974110,433610,ANZ,Breakfree Package Fixed Rate Home Loan (Interest Only) 10 Years,False,FALSE
+15961428-d195-43c3-9a1f-3b5135545ba8,489660,4304,Commonwealth Bank of Australia,Introductory 1 Year Guaranteed Rate Home Loan (Interest Only),True,TRUE
+bad69923-1738-4152-b192-2bcc4f5a1632,489840,4274,Commonwealth Bank of Australia,Introductory 1 Year Guaranteed Rate Investment Loan (Interest Only),True,TRUE
+153e60f1-02c9-4e58-95ba-3b137515331c,21522,45262,Arab Bank Australia,Fixed Rate Investment Loan 2 Years,False,FALSE
+7632ce48-cfbb-481c-ac38-4f34daff1ec9,21524,45264,Arab Bank Australia,Fixed Rate Investment Loan 4 Years,False,FALSE
+508e502c-4932-4a8a-88a4-6ee44fe1b035,499510,4004,CUA,Kick Start 2 Year Introductory Variable Home Loan,True,TRUE
+8245071e-693b-437a-b196-5614dae8b5cf,24731,44551,Teachers Mutual Bank,Fixed Home Loan (Interest Only) 1 Year,False,FALSE
+7d2dd19a-b4e4-4fe0-8a25-8a17128eb5a8,24733,44553,Teachers Mutual Bank,Fixed Home Loan (Interest Only) 3 Years,False,FALSE
+bceaa59e-a880-4655-af9b-ead21dc35a1b,24735,44555,Teachers Mutual Bank,Fixed Home Loan (Interest Only) 5 Years,False,FALSE
+644b811a-e3a4-47f7-8283-c8350982f6ae,499420,4565,MOVE - People Driven Banking,Straightforward Home Loan,True,TRUE
+68a1feba-3f30-4033-b079-631a55b115cc,407680,2787,People's Choice Credit Union,Basic Variable Investment Loan (Principal and Interest) (New Customer),True,TRUE
+b36393f1-29b5-442a-baae-6f66e09bf830,513382,44892,MyState,Fixed Home Loan (Interest Only) 2 Years (LVR < 80%),False,FALSE
+871e4f14-61c2-4352-ad59-f9e5c4fab75b,513385,44895,MyState,Fixed Home Loan (Interest Only) 5 Years (LVR < 80%),False,FALSE
+541ef7e2-e0a0-47c1-aaa2-90e8b9316086,501290,4640,ING,"Mortgage Simplifier Home Loan (Interest Only) ($150k-$500k, LVR < 80%)",True,TRUE
+b55a16e2-673e-4b64-b777-90883e416ae5,505240,4687,ING,Mortgage Simplifier Investment Loan (Interest Only) ($150k+),True,TRUE
+b5dcb124-31ba-4e07-8ca9-dc79cf5c9925,505260,4689,ING,"Orange Advantage Investment Loan (Interest Only) ($150k-$500k, LVR<80%)",True,TRUE
+b9b3dae7-b1e0-4e09-8c5a-e69b5a4a1e34,507380,4548,Bank of Queensland,Standard Variable Rate Investment Loan (Interest Only),True,TRUE
+5955143c-e033-4ed9-bedc-7aa62238bd83,507480,4547,Bank of Queensland,Standard Variable Rate Home Loan (Interest Only),True,TRUE
+297bcc1f-7a58-4f57-be7b-8999f159bf9f,507222,45562,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 2 Years,False,FALSE
+dd890052-8149-4068-939a-206c699d2af9,507224,45564,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 4 Years,False,FALSE
+62c141d8-19ed-46c8-b33f-fb22553de7c2,504080,4650,P&N Bank,& Investor Loan (Interest Only),True,TRUE
+5df41199-b433-42e9-b370-ffc65822f552,505982,47252,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 2 Years (Interest Only),True,TRUE
+6a9b3e1b-ada9-49fb-9962-7a1a8c72fc6c,505985,47255,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 5 Years (Interest Only),True,TRUE
+be1ce394-18c1-4e56-abac-77bbf6356e52,505983,47253,Bendigo & Adelaide Bank,Connect Package Investment Loan Fixed 3 Years (Interest Only),True,TRUE
+5b77b6b2-0358-4da1-8bbf-a04baa775fa6,505673,40553,MOVE - People Driven Banking,Lockit Investment Loan 3 Years ,False,FALSE
+aad60a77-5769-426c-9f80-8cf4e73da120,524030,4451,Adelaide Bank,SmartFit Investment Loan (Interest Only) (LVR < 90%),True,TRUE
+9653e02b-fd72-4d32-8aba-0651f2a72e19,523994,44484,Adelaide Bank,SmartFix Investment Loan (Interest Only) 4 Years,True,TRUE
+3979d2b0-433d-4aaf-b26a-f3ae6b259872,523991,44481,Adelaide Bank,SmartFix Investment Loan (Interest Only) 1 Year,True,TRUE
+6d958406-95ba-478f-b9e3-e700496f0857,524010,4454,Adelaide Bank,SmartSaver Investment Loan (Interest Only) (LVR < 90%),True,TRUE
+6f93a766-5fe9-4f75-8de3-99c086dbcc54,500612,47622,Adelaide Bank,SmartSaver Fixed Investment Loan (Principal and Interest) 2 Years,True,TRUE
+17962aae-5fc2-4bba-aa47-c61e60796553,500614,47624,Adelaide Bank,SmartSaver Fixed Investment Loan (Principal and Interest) 4 Years,True,TRUE
+876fc8ee-8dca-42b2-b831-2836b3c3f7b4,500591,47601,Adelaide Bank,SmartSaver Fixed Home Loan (Principal and Interest) 1 Year,True,TRUE
+c4ee54a1-2c2b-405d-a1fd-24c07e094ede,500593,47603,Adelaide Bank,SmartSaver Fixed Home Loan (Principal and Interest) 3 Years,True,TRUE
+7f2776ce-c291-434b-b037-b20a08726ba3,500595,47605,Adelaide Bank,SmartSaver Fixed Home Loan (Principal and Interest) 5 Years,True,TRUE
+4fcce312-85b3-4e8c-b707-6d26ad8937ea,498303,44813,QBANK,Fixed Rate Investment Loan Special (New Customer) 3 Years (LVR < 80%),True,TRUE
+a2ff4328-946b-4b1e-a0d2-90396ce093c0,518040,5054,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($700k+) (LVR 80%-90%),True,TRUE
+ca92e4c2-b9f0-4185-9ad6-1bff5ba992e3,518020,5053,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($150k-$250k) (LVR 80%-90%) ,True,TRUE
+ee351161-de6e-414d-84e4-25838d5f9766,510300,4813,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($700k+) (LVR <80%) ,True,TRUE
+e2d82055-a135-43dc-bdcb-e652cd725082,510261,48141,Heritage Bank,Fixed Rate Investment Loan (Interest Only) 1 Year ,True,TRUE
+725882ce-2de0-4de3-b99b-c7ca96763a0c,510263,48143,Heritage Bank,Fixed Rate Investment Loan (Interest Only) 3 Years ,True,TRUE
+99bce721-5ab6-4bb1-859f-c90509738001,485310,4344,Bananacoast Community Credit Union,OMG Investment Loan (Principal and Interest),True,TRUE
+e7d1d9ba-e377-4763-87a5-d1f022011ce1,507460,4551,Bank of Queensland,Privileges Package Variable Rate Home Loan (Interest Only) ($1m+) ,True,TRUE
+7789ae37-0a05-4851-8a65-1456a852fb41,507320,4552,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Interest Only) ($150k-$250k),True,TRUE
+31f59b46-d936-4457-a4d2-d541fc25d11d,507360,4553,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Interest Only) ($250k-$1m) ,True,TRUE
+5a9152b9-fdb3-4e22-8882-92e0d2063ad3,507272,45622,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 2 Years ,False,FALSE
+5186b3a0-4c42-4a4e-b735-f147b2434d93,507274,45624,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 4 Years ,False,FALSE
+5ac8804f-4f40-4a17-b595-aafcea991bd0,507572,45582,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 2 Years ,False,FALSE
+cc83e305-cb8c-4f6a-80ae-463bcd51d19b,507573,45583,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 3 Years ,False,FALSE
+87643f74-8e85-4be2-b2d2-2dfcaa1bbdd4,507575,45585,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 5 Years ,False,FALSE
+25e2eb21-4f24-4dc2-8b14-e5965f8920e2,485350,4231,RESI Mortgage Corp,Flexi Options Investment Loan (LVR < 80%) ,True,TRUE
+035957ed-2cf5-4b71-aec4-0646f6b3edeb,512820,4905,State Custodians,Low Rate Home Loan with Offset (Interest Only) (LVR < 80%),True,TRUE
+8d52b028-dac2-4998-bafa-7094f9d2f9d5,512900,4909,State Custodians,Low Rate Investment Loan with Offset (Interest Only) (LVR 80%-90%),True,TRUE
+2e4b3996-894e-4098-a5bf-d56faf172e44,512415,49335,HSBC,Fixed Rate Home Loan (Interest Only) 5 Years,False,FALSE
+65b13422-9a23-45e6-9588-25012ec39fc7,512413,49333,HSBC,Fixed Rate Home Loan (Interest Only) 3 Years,False,FALSE
+d3b262d5-5bd8-421a-9242-11622702c3e6,512414,49334,HSBC,Fixed Rate Home Loan (Interest Only) 4 Years,False,FALSE
+b672373c-ef94-4b73-b302-ade55bfa1c6e,393661,49501,RACQ Bank,Fixed Rate Home Loan (QLD only) 1 Year,False,FALSE
+78b2fa5f-a010-4096-b2b7-a86099d87b83,393663,49503,RACQ Bank,Fixed Rate Home Loan (QLD only) 3 Years,False,FALSE
+1d12c44d-8d45-4068-8c4e-a1f1d3db6e5c,291361,49581,RACQ Bank,Choices Fixed Home Loan (QLD only) 1 Year,False,FALSE
+a4f967e7-3a1f-4b72-884e-6b0ba350d646,291363,49583,RACQ Bank,Choices Fixed Home Loan (QLD only) 3 Years,False,FALSE
+0410417b-fa3a-4c58-bbef-b36cffddde24,217720,4952,RACQ Bank,Choices Mortgage Breaker Home Loan (QLD only) ($150k-$250k),True,TRUE
+dd676419-8e3f-4592-9e46-5bce612a1ebb,339160,4954,RACQ Bank,Choices Mortgage Breaker Home Loan (QLD only) ($500k+),True,TRUE
+7426a1f9-3127-4b8c-b4cb-62796638ea37,218650,4949,RACQ Bank,Mortgage Breaker Investment Loan (QLD only),True,FALSE
+573a2155-9b16-4777-b5d2-af4158321098,218662,49512,RACQ Bank,Fixed Rate Investment Loan (QLD only) 2 Years,False,FALSE
+c6aca9e9-f18a-4440-9004-21cd208effb7,218665,49515,RACQ Bank,Fixed Rate Investment Loan (QLD only) 5 Years,False,FALSE
+f0213931-2413-49a2-ab0a-8431e51eae45,398332,49622,RACQ Bank,Choices Fixed Investment Loan (QLD only) 2 Years ($250k-$500k),False,FALSE
+eb2a603a-7ab4-40ec-b359-ba8fce6f37c4,398335,49625,RACQ Bank,Choices Fixed Investment Loan (QLD only) 5 Years ($250k-$500k),False,FALSE
+727b8ca7-65b8-42a5-94fc-4781b6a0c971,398341,49631,RACQ Bank,Choices Fixed Investment Loan (QLD only) 1 Year ($500k+),False,FALSE
+a29ddd10-3cd2-42ce-909a-2bae524b6168,398345,49635,RACQ Bank,Choices Fixed Investment Loan (QLD only) 5 Years ($500k+),False,FALSE
+1fcac25f-1885-4256-be09-1c415041ef78,398333,49623,RACQ Bank,Choices Fixed Investment Loan (QLD only) 3 Years ($250k-$500k),False,FALSE
+7a27c15e-3bd8-4e4a-927d-c449259295f5,515592,42092,Illawarra Credit Union,Fixed Home Loan 2 Years (Interest Only),True,TRUE
+7607850e-df1b-46c2-be42-676103e1a9fa,515593,42093,Illawarra Credit Union,Fixed Home Loan 3 Years (Interest Only),True,TRUE
+19a243f5-5561-4f31-a9ce-7274948a73f5,515603,42053,Illawarra Credit Union,Fixed Lite Home Loan 3 Years (Interest Only),True,TRUE
+d4064ff1-b47f-4c2b-8f2b-c1dfef5439d3,515601,42051,Illawarra Credit Union,Fixed Lite Home Loan 1 Year (Interest Only),True,TRUE
+676beb60-a578-4923-8a4c-1b6ddc4f89b7,515731,49871,Newcastle Permanent,Premium Plus Package Fixed Rate Home Loan (Principal and Interest) 1 Year,True,TRUE
+49d34d2c-1dbf-4edc-a956-b5a64b8d043c,515733,49873,Newcastle Permanent,Premium Plus Package Fixed Rate Home Loan (Principal and Interest) 3 Years,True,TRUE
+40a52013-c0a9-49f3-a6db-d14aa7758ba9,515735,49875,Newcastle Permanent,Premium Plus Package Fixed Rate Home Loan (Principal and Interest) 5 Years,True,TRUE
+d70f36e6-f894-4897-859c-16a4499a335b,5157310,498710,Newcastle Permanent,Premium Plus Package Fixed Rate Home Loan (Principal and Interest) 10 Years,True,TRUE
+8135984a-95bf-4569-94ab-59d2f558c04e,515743,49883,Newcastle Permanent,Premium Plus Package Fixed Rate Investment Loan (Principal and Interest) 3 Years,True,TRUE
+17de0ec9-d5a6-4a94-a7a5-630fb4f98abb,515747,49887,Newcastle Permanent,Premium Plus Package Fixed Rate Investment Loan (Principal and Interest) 7 Years,True,TRUE
+fca7331b-aaeb-48ca-9f6e-50e5544befb0,515745,49885,Newcastle Permanent,Premium Plus Package Fixed Rate Investment Loan (Principal and Interest) 5 Years,True,TRUE
+70003122-2c54-4537-8ece-2423a58107ad,515741,49881,Newcastle Permanent,Premium Plus Package Fixed Rate Investment Loan (Principal and Interest) 1 Year,True,TRUE
+68eba753-6292-4a60-9768-8139c5e9e7a8,514620,4942,The Rock Building Society,Basic Variable Home Loan (Principal and Interest) (LVR <80%),False,TRUE
+714cec9a-00a5-4f97-9e99-9532760d784d,517101,50301,Suncorp Bank,Fixed Home Loan (Interest Only) 1 Year,False,FALSE
+a5bae849-78c2-4292-81bf-ea2a8701043b,517103,50303,Suncorp Bank,Fixed Home Loan (Interest Only) 3 Years,False,FALSE
+5b15f51c-416c-4a5a-ae5d-bb20785d2824,517091,50311,Suncorp Bank,Fixed Investment Loan (Interest Only) 1 Year,False,FALSE
+ed2f7038-89a1-4389-aafa-e88b9f96b507,517093,50313,Suncorp Bank,Fixed Investment Loan (Interest Only) 3 Years,False,FALSE
+ec7b2d7d-5dc6-4287-97a4-b4a61b9962ab,517203,50343,Suncorp Bank,Home Package Plus Personal Fixed (Interest Only) 3 Years,False,FALSE
+b88ad606-1745-4007-8951-6862ac4bbf09,517201,50341,Suncorp Bank,Home Package Plus Personal Fixed (Interest Only) 1 Year,False,FALSE
+fb174900-f636-465b-8051-c57935c87e80,517121,50351,Suncorp Bank,Home Package Plus Investment Fixed (Interest Only) 1 Year ,False,FALSE
+45211b5a-ab0b-4a1d-8d38-cada53f7c1d0,517122,50352,Suncorp Bank,Home Package Plus Investment Fixed (Interest Only) 2 Years,False,FALSE
+4f5c2369-2608-4b84-b119-b87b27322bff,512452,49342,HSBC,Premier Fixed Rate Home Loan (Interest Only) 2 Years,False,FALSE
+e7c2ad0e-f381-4b25-b8f7-756c4272ef5d,512454,49344,HSBC,Premier Fixed Rate Home Loan (Interest Only) 4 Years,False,FALSE
+f7dd6f07-b0b4-43fd-9748-ad31b7b1390e,428460,5097,Mortgage House,Advantage Home Loan Special (LVR < 95%),True,TRUE
+554667fc-a520-45f5-ab50-4e85ed06e71a,395152,44582,UniBank,Fixed Home Loan 2 Years (Interest Only),False,FALSE
+70944b1a-0fae-45f8-8124-d5c0d7f9e315,395154,44584,UniBank,Fixed Home Loan 4 Years (Interest Only),False,FALSE
+7fd01511-f7c3-4b76-b183-c061d1d94b8f,395153,44583,UniBank,Fixed Home Loan 3 Years (Interest Only),False,FALSE
+4d5d9713-60df-4b18-9f4f-d2600b54c4f9,400635,44595,UniBank,Fixed Investment Loan 5 Years (Interest Only),False,FALSE
+858f7ef6-e263-4e86-bd1a-a3a7da755426,400634,44594,UniBank,Fixed Investment Loan 4 Years (Interest Only),False,FALSE
+7fc5bec9-e2a8-40cb-bc75-cfcecb7f2c91,523961,44471,Adelaide Bank,SmartFix Home Loan (Interest Only) 1 Year,True,TRUE
+5b54e787-4a7d-40a6-bb85-45a621ef19d7,523965,44475,Adelaide Bank,SmartFix Home Loan (Interest Only) 5 Years,True,TRUE
+1915a58c-309e-4c15-9c54-9b67d96bbfd9,523963,44473,Adelaide Bank,SmartFix Home Loan (Interest Only) 3 Years,True,TRUE
+1b2b7761-87ed-4d3a-b83e-731c5e8990a3,524004,47634,Adelaide Bank,SmartSaver Fixed Investment Loan (Interest Only) 4 Years,True,TRUE
+74b69c03-08d3-4dbb-abbb-577e76109622,524002,47632,Adelaide Bank,SmartSaver Fixed Investment Loan (Interest Only) 2 Years,True,TRUE

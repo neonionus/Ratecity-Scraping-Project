@@ -1,0 +1,685 @@
+﻿rc_id,if_id,mz_id,company,variationname,rc_value,other_value
+10ec54e9-a1b6-41ed-8a82-f21d7b65469d,343640,1648,Greater Bank,"Ultimate Variable Home Loan (New Customers) (NSW, ACT & QLD only) ",3.74,0
+4280ce88-ee57-422b-9fc7-1a7b860694e7,355830,1775,Greater Bank,"Great Rate Variable Home Loan (New Customers) (NSW, ACT & QLD only)",3.74,0
+179cfd38-6f6e-42e9-8e14-fe83e1077460,81490,777,SCU,Pro Pack Home Loan ($250k+),4.4,0
+3044fd96-6fab-4c64-b0f8-7bc6d5343f54,353910,1755,SCU,My Life Variable Rate Package ($150k-$250k),4.07,0
+05f740a5-99ec-4695-b34d-eb5ccdaf394c,353920,1760,SCU,My Life Variable Rate Package ($250k-$500k),3.97,0
+66c12c16-e118-43b8-9213-f160a3ca7fd6,17400,780,SCU,Basic Variable Rate Home Loan,3.77,0
+c91d70f9-795b-43b2-8424-2701cb9f208e,428640,3336,NAB,Base Variable Investment Loan (Principal and Interest),4.65,0
+bccb66cc-7855-4960-947a-f3605c605988,428870,3331,NAB,Tailored Investment Loan (Principal and Interest),5.8,0
+7efdbc22-75f8-42a5-9ccf-7597af634a8b,20281,1441,NAB,Tailored Home Loan Fixed (Principal and Interest) 1 Year,5.24,0
+33c1cb7d-e368-4871-b517-6cd88b07aa59,20270,143,NAB,Tailored Home Loan (Principal and Interest),5.24,0
+9309368c-96a5-46fc-90a8-f73d220ffaae,177210,3646,NAB,Portfolio Facility ($1m+),5.66,0
+399af2bf-f693-487e-b4cf-b8baf1cc5ae1,20290,145,NAB,Flexiplus Mortgage,6.44,0
+59da3f16-df27-428e-a1e7-af9bfdeecc8e,428750,3345,NAB,Choice Package Tailored Investment Loan (Principal and Interest) ($750k+),4.9,0
+2f679b42-8754-4c07-a4ab-1a47af4416d3,428830,3334,NAB,Choice Package Tailored Investment Loan (Interest Only) ($250k-$750k),5.4,0
+59e3a171-7aba-48bf-a1ea-a03b7637c0c5,428840,3335,NAB,Choice Package Tailored Investment Loan (Interest Only) ($750k+),5.35,0
+868bd2ea-006d-472e-ae82-95b63a193ff9,18260,411,NAB,Choice Package Tailored Home Loan (Principal and Interest) (Amounts < $250k),4.64,0
+70394b36-62c3-4f00-b5d9-3662647b1287,428800,2223,NAB,Choice Package Tailored Home Loan (Interest Only) ($750k+),4.87,0
+13462538-4706-411e-815a-c990515b74d7,428770,2220,NAB,Choice Package Tailored Home Loan (Interest Only) (Amounts < $250k),5.17,0
+d82221ec-6a54-4569-adf5-69c3fdd5f884,21340,140,NAB,Base Variable Home Loan (Principal and Interest),3.69,0
+f97225eb-29c6-421a-94fb-c3db1b01f579,17110,107,ANZ,Standard Variable Home Loan (Principal and Interest),5.2,0
+9ad041f4-ccc6-46e1-a35b-320970ae600f,432260,3464,Qudos Bank,Variable Rate Investment Loan (LVR < 90%),5.19,0
+3a052dee-fc88-49dc-9528-0553f76a643b,432330,3113,Qudos Bank,Qantas Points Investment Loan (LVR < 80%),4.69,0
+2478f475-b8c5-4545-8668-3cab5d43f040,432300,3112,Qudos Bank,Low Cost Investment Loan (LVR < 80%),4.54,0
+b5ac1be6-bb24-4bee-90cd-57aef8a949ec,432250,626,Qudos Bank,Variable Rate Home Loan (LVR < 90%),4.58,0
+a6994c75-52d7-49ab-b385-6820c8a709a1,341100,1488,Qudos Bank,Qantas Points Home Loan (LVR < 80%),4.04,0
+b47fb891-c6d5-4bcc-8417-9b9f61828bfb,200420,5011,Qudos Bank,Low Cost Home Loan (LVR 80%-90%),3.99,0
+ea99bbd4-1433-4fa3-a6ce-e4e001db7eba,17290,4049,MOVE - People Driven Banking,Standard Variable Rate Investment Loan,5.25,0
+d7c5d247-66ca-493f-813e-aad92ced9964,22360,1094,MOVE - People Driven Banking,First Home Loan,3.99,0
+7cdbdf7f-3162-48b0-bb1e-b99fc7c8c7cb,516630,3029,UBank,Discount Offer for Investor Variable P&I Rate,3.99,0
+f5896b24-25bc-44de-9589-b719985ba05b,405740,5140,UBank,Discount Offer Variable Home Loan ($700k+),3.62,0
+29bca088-cf12-4f9b-b40a-4ae0ba449da3,196480,829,UBank,UHomeLoan - Standard Variable (Principal and Interest),4.17,0
+31a138cc-615c-4d91-880c-5b1b46afebfe,25105,3965,Adelaide Bank,SmartFix Home Loan (Principal and Interest) 5 Years,4.49,0
+5291e78e-add6-4e76-b142-71f4621b35ea,403200,2490,Adelaide Bank,SmartFit Investment Loan (Principal and Interest) (LVR < 90%),4.79,0
+508e5ca0-738b-45a0-8741-c28ca448c164,199300,469,Bank of Sydney,Standard Variable Rate Home Loan,5.64,0
+d00226f2-257f-4c6c-9294-f90aa38a2da5,485240,2350,Bananacoast Community Credit Union,Max Discounted Standard Investment Loan,4.6,0
+9c375547-1780-4876-bcc9-e46bebb08896,485260,1378,Bananacoast Community Credit Union,Max Discounted Standard Home Loan (Principal and Interest),4.35,0
+2bdca23a-9a44-4e66-8931-2ac1e9c25701,412400,2874,Heritage Bank,Standard Variable Investment Loan,5.69,0
+ab18fe87-f6bd-4ed2-b0fc-2dbed1a8d8f2,21150,39,Heritage Bank,Living Equity,5.51,0
+727dd799-95f4-4b72-9cf4-60aa29644527,393470,2065,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($250k-$700k) (LVR <80%),4.39,0
+aaf8a760-95f6-49de-8013-224658f70e9b,517980,5049,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($150k-$250k) (LVR 80%-90%) ,4.64,0
+e62977ee-eb5b-423d-b534-2bb300936a80,518000,5051,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($700k+) (LVR 80%-90%) ,4.54,0
+71b8bfc5-2b83-48eb-9802-41aa984ea66c,388620,1910,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR<80%),3.79,0
+1ab8abeb-670f-4a8e-8fb3-14f34a206f9a,513220,4892,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR 80%-90%),3.99,0
+6546b3e1-f0ea-486a-b5f0-8de83595b58e,513240,4893,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR 80%-90%),3.94,0
+0d66e9f5-6e0b-40bd-b661-dbaa806da39a,513260,4894,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR 80%-90%),3.89,0
+0dd2239b-06ca-4390-8760-41968958bff7,388590,1911,Heritage Bank,Home Advantage Living Equity Home Loan ($700k+),4.95,0
+dfb85014-0f54-48d3-bcd3-6f634eeed98e,25140,1904,Heritage Bank,Home Advantage Living Equity Home Loan ($150k-$250k),5.05,0
+efd4545a-1458-434b-8b41-360d4ddb0c79,394110,2096,ING,"Orange Advantage Investment Loan (Principal and Interest) ($150-$500k, LVR<80%)",4.24,0
+104607eb-c0c1-4f22-b95e-f242f6cf4403,155290,488,ING,Orange Advantage Home Loan (Principal and Interest) (Amounts < $150k),4.75,0
+de7edc5c-a280-40dd-ad9f-b7c711d04288,515240,4966,ING,"Orange Advantage Home Loan (Principal and Interest) ($1m+, LVR<80%)",3.64,0
+d66bcf7a-1de4-4def-bd7c-5d09ff855907,515210,4968,ING,"Orange Advantage Home Loan (Interest Only) ($1m+, LVR<80%) ",4.04,0
+7770ff21-5d1c-4685-a2e9-bf78fbceefa1,374550,4823,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($500k-$1m, LVR < 80%)",3.73,0
+f94df7c5-6ab7-4b35-9cd3-3045b70b251f,259290,978,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($150k-$500k, LVR 80%-90%)",4.02,0
+2620d5d4-7447-4bfc-b1ce-d8b23fdc419e,307640,1326,P&N Bank,Smooth Home Loan (LVR < 80%),4.64,0
+1d6c27ea-f8aa-42ca-9278-00d186fa2ef1,20790,551,P&N Bank,Equity Access,5.64,0
+dda3a148-8789-467b-9543-5d0441744cc5,409490,3100,P&N Bank,& Home Loan ,3.99,0
+59565ef8-e83e-4f28-84d5-8c52cfb0a7a1,271060,1657,Australian Military Bank,Value Home Loan,4.09,0
+b27bad32-b625-48ab-a8a4-409b4e546e95,414550,4180,AMP Bank,Professional Package Investment Loan (Interest Only) ($250k-$750k),4.48,0
+f4fba860-0e39-4cd8-bbce-b1c87271ece5,414540,4179,AMP Bank,Professional Package Investment Loan (Interest Only) ($100k-$250k),5.12,0
+d59a4b0e-effb-4c6c-b0a2-a4c1f0a32430,20930,4176,AMP Bank,Professional Package Home Loan (Interest Only) ($100k-$250k),5.11,0
+5f3e6a3a-d759-4540-b607-316c0bb29fbb,414460,4187,AMP Bank,Introductory Classic Investment Loan (Interest Only),6.52,0
+a7edb20c-e58a-4841-abda-8c6eca6bd04d,414480,4183,AMP Bank,Classic Variable Investment Loan (Interest Only),6.52,0
+ae8665b7-7844-4575-92d9-34b052125754,394630,2936,AMP Bank,Professional Package Line of Credit Investment Loan ($750k+),4.88,0
+b0e20634-ae8c-4c26-9adb-1ac61b50f1db,19840,2104,AMP Bank,Professional Package Line of Credit Home Loan ($250k-$750k),4.68,0
+0f350e8c-224e-47cd-932c-d7a1b2521db1,394620,1759,AMP Bank,Professional Package Line of Credit Home Loan ($750k+),4.54,0
+439f04c6-7172-447c-a87c-fae8f0a55ac6,484500,2925,AMP Bank,Professional Package Investment Loan (Principal and Interest) ($250k-$750k),4.24,0
+72b1719c-66f9-4108-a37b-51839d19c0a4,484530,2103,AMP Bank,Professional Package Home Loan (Principal and Interest) ($500k-$750k),3.79,0
+300eb9e4-0779-4173-8713-03d9b3f6afc0,484520,66,AMP Bank,Professional Package Home Loan (Principal and Interest) ($100k-$250k),4.49,0
+d625f56d-d471-4d94-815b-d10b0d0e42c4,484550,2943,AMP Bank,Introductory Classic Investment Loan (Principal and Interest),6.47,0
+fe09016c-c75e-4679-b048-a195396ce5ad,414420,2922,AMP Bank,Essential Investment Loan,5.12,0
+0415a3c0-6073-49e1-b1cc-79d6b7ea239e,481100,2875,AMP Bank,Essential Home Loan ($40k-$100k),4.62,0
+e450bccd-4645-448e-882b-258b81a43b33,126620,73,AMP Bank,Classic Variable Home Loan (Principal and Interest),5.5,0
+62c4274b-976e-429f-8ff6-1f8c9cf3ac34,188320,72,AMP Bank,Classic Line of Credit Home Loan,6.21,0
+102bb8e0-98bb-442b-a233-82fa86145391,18710,360,Arab Bank Australia,Personal Line of Credit,6.6,0
+b5fcfca5-4000-40c0-928b-5aa359de8db6,498573,3623,Arab Bank Australia,Fixed Rate Home Loan 3 Years,5.49,0
+f5ddf80f-1def-43e5-a276-3bc52f030e18,498572,3622,Arab Bank Australia,Fixed Rate Home Loan 2 Years,5.49,0
+188b46ad-1159-4ba4-b378-160ccb94d1df,498575,3625,Arab Bank Australia,Fixed Rate Home Loan 5 Years,5.49,0
+f9304809-60b0-41c1-be46-d5baf78e2be7,389970,1974,Aussie,"Select Standard Variable Investment Loan (Principal and Interest) ($500k+, LVR 80%-90%)",4.39,0
+9a35a64e-ac7a-488e-931f-07b568d9a3b4,359230,1528,Aussie,"Select Standard Variable Home Loan (Principal and Interest) ($500k+, LVR 80%-90%)",3.89,0
+77d16920-052b-4bb5-b859-c3fedf6a4469,359440,3970,Aussie,Select Line of Credit Home Loan (LVR 80%-90%),4.24,0
+8674bd70-f876-45cb-b765-792e92aa7485,389480,1966,Aussie,"Select Basic Investment Loan (Principal and Interest) ($500k+, LVR 80%-90%)",4.39,0
+a9d97b65-cd41-48b9-8682-732769c2e23b,358220,1529,Aussie,"Select Basic Home Loan (Principal and Interest) ($500k+, LVR 80%-90%)",3.89,0
+eab1c0e9-c179-4efb-a851-0fc8807a92dc,358250,1531,Aussie,"Select Basic Home Loan (Principal and Interest) ($500k+, LVR 90%-95%)",4.19,0
+319b0d8d-cd58-44fe-a700-245049891c67,511990,4665,Aussie,IQ Basic Investment Loan (Principal and Interest) (LVR < 70%),3.89,0
+d79ee1b9-7370-4e05-810e-4dae02b35ab3,512050,4664,Aussie,IQ Basic Investment Loan (Interest Only) (LVR < 70%),4.29,0
+af70c878-0409-48bc-b5bc-44ee55722a6b,512000,4662,Aussie,IQ Basic Home Loan (Principal and Interest) (LVR < 70%),3.69,0
+26ccde3d-1fe7-4b1c-864a-d4f09e28e6cd,344240,595,Aussie,IQ Basic Home Loan (Principal and Interest) (LVR 80%-90%),3.99,0
+7d6ce282-d759-434d-bc3e-1844aa5f8db4,512010,1801,Aussie,IQ Basic Home Loan (Interest Only) (LVR < 70%),4.14,0
+0ff6b50f-8d84-4256-835f-3a569f3ecdbe,160210,1961,Aussie,IQ Offset Investment Loan (Principal and Interest) (LVR 80%-90%),4.54,0
+d2f29260-7110-4523-a5be-eae98cbc186b,160200,2164,Aussie,IQ Offset Investment Loan (Principal and Interest) (LVR 70%-80%),4.14,0
+0819e589-c38d-415f-8741-75d2ddd5ed13,399250,2710,Aussie,IQ Offset Investment Loan (Interest Only) (LVR 70%-80%) ,4.74,0
+cdf84ec2-d264-4090-9eae-f4b42d035ca4,358130,1805,Aussie,IQ Offset Home Loan (Principal and Interest) (LVR 90%-95%),4.19,0
+74df4044-d7d2-4e0a-b0c3-2bf85ae22480,511910,4659,Aussie,IQ Offset Home Loan (Principal and Interest) (LVR < 70%),3.69,0
+8d890665-95e5-409b-9415-d3d65a14165e,358120,4842,Aussie,IQ Offset Home Loan (Interest Only) (LVR 70%-80%),4.44,0
+03a48949-4e4f-48c2-8ddc-c3d04dfd9ce1,219610,943,Bank of Melbourne,Standard Variable Home Loan (Principal and Interest),5.2,0
+12d07344-3b0c-4b1c-9ced-b70b5d222517,443760,3648,Bank of Melbourne,Basic Investment Loan (Principal and Interest),5.2,0
+c11904aa-44ab-48bf-a627-579eedf1ceb5,211530,3647,Bank of Melbourne,Basic Home Loan (Principal and Interest),4.62,0
+e7467c86-050f-43a0-8d20-579ea62e753a,400120,2362,Bank of Melbourne,Advantage Package Variable Investment Loan (Principal and Interest) (New Customer) ($500k-$750k),4.98,0
+2463f118-56cf-4ffa-89a7-cadda4a1b32c,400090,2364,Bank of Melbourne,Advantage Package Variable Investment Loan (Principal and Interest) (New Customer) ($150k-$250k),5.18,0
+f9a0732c-8fd5-445d-b25e-5ed0fb6dca92,309470,964,Bank of Melbourne,Advantage Package Variable Home Loan (Principal and Interest) (New Customer) ($500k-$750k),4.4,0
+4c29f39b-a90a-41df-865e-f8120872b6dc,310960,1352,Bank of Melbourne,Advantage Package Variable Home Loan (Principal and Interest) (New Customer) ($750k+),4.3,0
+10d63b41-2099-46a1-b7bd-b29db5593474,220380,3895,BankSA,Standard Variable Home Loan (Interest Only),5.8,0
+9c8ec7d9-6029-4930-a629-ee5ad642cc75,400260,2367,BankSA,Standard Variable Investment Loan (Principal and Interest),5.78,0
+8a157583-8e80-4787-8005-1bf6bdecf284,443740,2001,BankSA,Basic Investment Loan (Principal and Interest) (New Customer),4.19,0
+cd14ddab-5de0-4163-8638-3c779687d238,443750,28,BankSA,Basic Home Loan (Principal and Interest) (New Customer),3.64,0
+ffc691e2-b74a-4a23-9e5e-d695d7f1273c,400180,2369,BankSA,Advantage Package Variable Investment Loan (Principal and Interest) (New Customer) ($150k-$250k),5.18,0
+7350e1ff-8425-47cb-92d4-b8432a07fcdb,400210,2371,BankSA,Advantage Package Variable Investment Loan (Principal and Interest) (New Customer) ($500k-$750k),4.93,0
+9527649d-90d2-4b48-a20d-c5a7ad2f1917,400170,3901,BankSA,Advantage Package Variable Investment Loan (Principal and Interest) ($100k-$150k),5.53,0
+4fc8bf34-0bb5-4871-81c2-c9519730f565,23540,2816,BankVic,Standard Variable Investment Loan,5.19,0
+a7784a4a-3fa4-49c2-8df8-54ab04d2c5a0,240350,1494,BankVic,Offset Variable Home Loan,4.64,0
+9d7c8273-c2be-42fe-9f75-515214cd432d,330870,1408,BankVic,Base Variable Rate Home Loan,3.89,0
+d8354146-32b7-404c-a146-b37ffdca0649,413230,2879,Bankwest,Mortgage Shredder Investment Loan (Principal and Interest),6.07,0
+536cd0d7-a371-49ba-adf1-c9cf03f1695c,427860,3384,Bendigo & Adelaide Bank,Connect Package Investment Loan (Principal and Interest) ($500k+),4.71,0
+222af6e4-252a-4fb9-9987-159a9ed78a32,524340,1814,Beyond Bank Australia,Special Low Variable Rate Home Loan (LVR < 80%),3.73,0
+daf778ba-be96-4974-866f-01a0d469ca92,447790,1887,Beyond Bank Australia,Total Home Loan Package Variable Investment Loan ($500k+),4.69,0
+b070ea07-04da-4160-8c44-c389d1994633,447730,302,Beyond Bank Australia,Standard Variable Rate Investment Loan,5.49,0
+cc6fbac1-4258-4271-8120-ff5d23c6813c,378630,3480,Beyond Bank Australia,Total Home Loan Package All in One Home Loan ($300k-$500k),4.65,0
+38f66aea-0bba-4c33-a525-6af6bc825d75,19960,3478,Beyond Bank Australia,Standard Variable Rate Home Loan (LVR < 90%),5.2,0
+f791a423-0732-4b22-8b6b-24062298eefd,19800,3476,Beyond Bank Australia,Pinnacle Plus Package All in One Home Loan ($300k+),4.9,0
+6512f188-fed6-47f8-b6fd-0b793af9bc43,24260,3477,Beyond Bank Australia,Basic Variable Home Loan (LVR < 90%),4.5,0
+2a04d443-7cd7-4e8d-a88e-790470f4cbfa,17010,42,Bank of Queensland,Standard Variable Rate Home Loan (Principal and Interest),5.61,0
+dca715a9-780a-460f-bf7e-321a20b9392c,397520,2241,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Principal and Interest) ($150k-$250k),5.68,0
+199bed92-c7f7-4e5b-a1e4-bd8fb47ee0d6,397280,2243,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Principal and Interest) ($1m+),5.28,0
+27f4d7b7-2135-424c-a595-b82b57af0845,23110,49,Bank of Queensland,Privileges Package Variable Rate Home Loan (Principal and Interest) ($150k-$250k),5.11,0
+da96379f-40db-4394-824e-fb84d8fa05f6,217322,2212,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Principal and Interest) 2 Years,5.11,0
+c73ad2b4-ae54-42d4-8668-22646c297da1,217324,2214,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Principal and Interest) 4 Years,5.11,0
+3154416e-abcf-46a8-a743-de81a982a914,428150,3203,Bank of Queensland,Line of Credit Investment Loan,7.58,0
+d06ae262-63a2-497b-bd19-917f095627a8,397240,2245,Bank of Queensland,Economy Investment Loan (Principal and Interest),4.09,0
+498f9623-bf3e-40be-a1c9-edcb45722755,402990,3004,Bank of Queensland,Clear Path Variable Rate Investment Loan (Principal and Interest),5.04,0
+7c11b437-bd08-4a7a-b064-12dfb5e82392,423120,1396,Bank of Queensland,Clear Path Line of Credit Investment Loan,5.84,0
+afc1aff9-5c05-4dd0-aea1-70f9649c1759,21000,179,Citi,Standard Variable Home Loan,5.67,0
+bfa602fb-4579-4dd6-90ae-a60008cd44cb,24320,3103,Citi,Basic Variable Home Loan (LVR < 80%),4.31,0
+a7953bdc-29de-4f87-aee4-78eb06c99d33,17350,1748,Community First Credit Union,Basic Variable Home Loan (Principal and Interest) (LVR < 80%),4.1,0
+7ca8ff63-0102-4846-8472-bdc5a8ad4a1e,21250,2429,Gateway Bank,Standard Variable Investment Loan,5.67,0
+b6d00905-ffcf-405b-a360-0f1fefe2ae23,402740,2424,Gateway Bank,Premium Package Investment Loan (LVR 80%-85%),4.38,0
+d38bb81c-5c9f-410c-90b4-3d62b0b4ca6c,349600,1270,Gateway Bank,Premium Package Home Loan (LVR 80%-85%),3.74,0
+1a281b30-01f2-431a-b135-b31e7aa48d7b,402790,2426,Gateway Bank,Low Rate Essentials Investment Loan (LVR < 80%),4.12,0
+51c8f8a3-ee60-4e27-8926-351023064047,402780,2427,Gateway Bank,Low Rate Essentials Investment Loan (LVR 80%-85%),5.23,0
+7781dc3a-125c-4316-a856-10c8884c0648,87830,2509,Homeloans,"Ultra Plus Home Loan (Principal and Interest) ($200k+, LVR 80%-90%)",4.15,0
+0e39f961-b51b-4343-b041-94c4a172f35d,483870,4146,Homestar Finance,"Variable Rate Investment Loan (Interest Only) (Amounts <$750k, LVR <70%)",3.89,0
+2996468d-3a07-4878-b8d1-ff416fcf1187,483450,4142,Homestar Finance,"Variable Rate Home Loan (Interest Only) (Amounts < $750k, LVR < 70%)",3.74,0
+05daf4d6-ac99-479e-80da-6bc7d5f8bb5a,215260,264,HSBC,Home Smart Home Loan,5.23,0
+f6e5ad22-f17b-46ef-acb0-7c811eaaddd9,22120,265,HSBC,Home Equity Home Loan,5.31,0
+2d392f97-120d-48d0-ba74-3ca997358961,177530,2435,Hunter United,Package Home Loan,4.69,0
+596a499d-136b-4142-9a27-f6a23a82b0fd,483580,4124,Illawarra Credit Union,2 Year Introductory Variable Home Loan,4.85,0
+ab4e828f-b354-45b4-ad68-f89a1b973e52,417800,2775,Illawarra Credit Union,Variable Lite Investment Loan (Principal and Interest),5.45,0
+8e855e49-906c-4336-9c59-54a1d6511c3c,294800,1520,Illawarra Credit Union,Variable Home Loan (Principal and Interest) ($250k+),4.2,0
+f890edcb-1508-4d3b-9502-32aa97e02c6c,489770,2230,Commonwealth Bank of Australia,3 Year Special Economiser Investment Loan (Principal and Interest),5.34,0
+743cbad2-0b62-47a1-8afd-4b78cbeb6134,208534,1334,Commonwealth Bank of Australia,Wealth Package Fixed Rate Home Loan 4 Years,4.72,0
+183f6449-ff4e-4968-b0fd-616a4c631df1,208531,1331,Commonwealth Bank of Australia,Wealth Package Fixed Rate Home Loan 1 Year,4.72,0
+2c7a5c77-7e8e-43a3-995c-bd98fbd468c4,489810,2238,Commonwealth Bank of Australia,No Fee Variable Rate Investment Loan (Principal and Interest),5.1,0
+98a38da7-a995-448f-982d-72370e40939e,489760,2229,Commonwealth Bank of Australia,Introductory 12 Month Discounted Variable Investment Loan (Principal and Interest),5.8,0
+c03d6f2c-b14c-449a-81fd-59e4716607dd,489740,2207,Commonwealth Bank of Australia,Introductory 1 Year Guaranteed Rate Investment Loan (Principal and Interest),5.8,0
+63e93516-b9f7-4ed6-b70e-03abe901adab,489800,2237,Commonwealth Bank of Australia,Economiser Investment Loan (Principal and Interest),5.34,0
+9445df8a-0343-41ff-a7f1-6ad5e6a17079,450080,3660,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($150k-$400k, LVR 80%-90%)",4.74,0
+e8b9bbec-3108-40cc-93ac-7a7f08aaed11,450130,3666,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($700k+, LVR 80%-90%)",4.54,0
+9ed2aff9-2a8a-4176-a4c7-6e1328b1a60f,450000,3659,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($150k-$400k, LVR < 80%)",4.34,0
+0701f49a-3103-48a3-92bf-cece7cadb62f,406040,4590,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) (Amounts < $150k, LVR < 80%)",5.08,0
+a9c67626-dde1-4898-a44e-e53811cb695b,450570,3373,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($400k-$700k, LVR 90%-95%)",5.18,0
+cb78adf6-accf-42ef-842f-c19dde9189dc,450500,3658,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($150k-$400k, LVR 90%-95%)",5.18,0
+cddd567e-49aa-4644-9a12-82d0ac9de952,450290,3662,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($150k-$400k, LVR < 80%)",3.74,0
+faad6e3b-86ef-4533-a7ad-d66f45d506ec,450470,3663,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($700k+, LVR 80%-90%)",4.09,0
+07483d6c-adc1-4078-94fd-698475aa20e3,375280,4296,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) (Amounts < $150k, LVR < 80%)",4.83,0
+bed7ce13-2669-43f2-96c1-1d43cb6d5352,425635,45925,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 5 Years ,5.79,6.09
+d1c4f19e-6e8f-4837-8e69-02d2a13bb9e6,425632,45922,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 2 Years,5.79,6.09
+ba5763bb-7ea2-400f-a57f-c8153eeab7b0,406020,2642,ME Bank,Flexible Investment Loan (Principal and Interest) (LVR < 80%),5.79,0
+f101f74f-25c4-4c25-9e89-0a5349e9787c,425645,45915,ME Bank,Flexible Home Loan Fixed 5 Years (LVR < 90%),5.03,5.33
+381e0822-7c5c-4bef-ae3f-0b2bc2bf14cf,425647,45917,ME Bank,Flexible Home Loan Fixed 7 Years (LVR < 90%),5.03,5.33
+5eea389c-f57f-4305-83e9-17ababd7531f,425642,45912,ME Bank,Flexible Home Loan Fixed 2 Years (LVR < 90%),5.03,5.33
+a29149e9-de52-410d-8582-ae6930385c55,425644,45914,ME Bank,Flexible Home Loan Fixed 4 Years (LVR < 90%),5.03,5.33
+35930710-7d25-44ef-9801-698ffed2ace5,375250,1857,ME Bank,Flexible Home Loan (LVR < 80%),5.03,0
+051cdb6d-a4be-4eee-ae31-0c0433e1bd9d,25360,3779,Liberty Financial,Liberty Star Home Loan (LVR 80%-95%),5.09,0
+5a72cb08-1466-4ce2-8808-5bebcdf29a55,413750,1287,Liberty Financial,Liberty Sharp Home Loan (LVR 60%-70%),3.89,0
+91699aa9-3638-4abb-9151-05cf7af75a36,410740,3458,Macquarie Bank,"Basic Home Loan (Principal and Interest) ($750k+, LVR 70%-80%)",3.79,0
+006cadda-ba1a-4a94-b6ea-e58c7e640e73,135480,4066,Macquarie Credit Union,Introductory Rate Home Loan,4.99,0
+e30fe322-effc-4af0-ad6c-1bcc35ea3a6f,167580,5014,Macquarie Credit Union,First Home Buyer's Home Loan,4.99,0
+4cf4cccc-a2f0-4bb0-aae3-d3c089925844,487020,4801,Mortgage House,Advantage Investment Loan Special,3.99,0
+5d7f96ea-fcaf-45d8-bda6-49f6025a4751,55700,297,MyState,Standard Variable Home Loan (Principal and Interest),5.23,0
+e9c534e6-7457-484c-9608-bd76aa7e60bb,296390,1312,MyState,Special Residential Home Loan (Principal and Interest) (LVR < 80%),3.99,0
+c1b252fd-f360-455b-bd52-d100c5af86ee,516050,4867,Newcastle Permanent,Premium Plus Package Variable Rate Investment Loan (Principal and Interest) (Amounts < $500k),4.87,0
+d0da99f8-c62f-4525-82a2-8043cb104bac,516070,4869,Newcastle Permanent,Premium Plus Package Variable Rate Investment Loan (Principal and Interest) ($750k-$900k),4.72,0
+3a952535-8e64-4083-9133-b72dd96ae556,516020,2076,Newcastle Permanent,Real Option Investment Loan (Principal and Interest),5.35,0
+c5254ee7-0b85-4b97-8516-6203b0175af7,22670,333,Newcastle Permanent,Real Equity Credit Facility Home Loan,5.7,0
+e8eaab23-a522-4314-b6b5-b8d2e84edaab,208820,1035,Newcastle Permanent,Real Deal Variable Home Loan (Principal and Interest) (Introductory),4.65,0
+0e70bef6-570a-4974-b03f-7c8e681498fa,229800,334,Newcastle Permanent,Premium Variable Home Loan (Principal and Interest),5.27,0
+16ea47d1-8b3f-4942-8eef-26cbf69a4ad8,350530,4862,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan Special (Principal and Interest) (LVR < 80%),3.64,0
+90dae3d1-c454-4a9b-bf8e-1c414e7afacf,21530,4598,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan (Principal and Interest) ($500k-$750k),4.52,0
+3824c41b-07de-478b-9783-62c70d1fedd5,201710,4602,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan (Principal and Interest) ($900k+),4.37,0
+0289222c-1a4f-4553-b934-e21734797886,201700,2770,Newcastle Permanent,Premium Plus Package Credit Facility Home Loan ($900k+),4.9,0
+a3ce973b-ee1e-4dbe-9241-d4098cac017e,141810,2769,Newcastle Permanent,Premium Plus Package Credit Facility Home Loan ($750k-$900k),4.95,0
+61e68a26-c563-48e0-b513-327b7ffadad5,362420,1821,People's Choice Credit Union,Basic Variable Home Loan (Principal and Interest) (New Customer) (LVR < 80%),4.42,0
+57199690-43c5-474d-974f-783af2b749f0,407620,2789,People's Choice Credit Union,Standard Variable Investment Loan (Principal and Interest),5.85,0
+de61b68c-2c8f-4a8a-83cc-328dfefcdacc,407700,2783,People's Choice Credit Union,Package Variable Investment Loan (Principal and Interest) (New Customer),4.85,0
+1759144d-ab58-46ae-bde1-b6e124b8f6d7,350480,1435,People's Choice Credit Union,Package Variable Home Loan (Principal and Interest) (New Customer) (LVR < 80%),3.59,0
+079cb49b-3543-4150-ac40-bb2fcb9020a6,407520,2788,People's Choice Credit Union,Basic Variable Investment Loan (Principal and Interest),5.27,0
+d73fb772-34ff-4fa6-9176-4f5a35d5e00a,431720,3443,QBANK,Classic Plus Package Investment Loan (QLD only) ($100k-$250k),4.79,0
+39001593-5fda-4115-8409-e82244e0c484,431710,3442,QBANK,Classic Investment Loan,4.74,0
+f1a0b9cd-8d8e-4a82-b7cd-ac470bd5a78d,312430,791,QBANK,Mortgage Secured Overdraft,5.29,0
+d3e2090b-8cb2-45ac-9df4-70f191534c8d,470030,3992,QBANK,Classic Investment Loan Special Offer (New Customer) (LVR < 80%),4.19,0
+a9020ec9-4079-4035-8ec2-2576be35cd96,312360,1845,QBANK,Classic Home Loan Special Offer (QLD only) (New Customer) (LVR < 80%),3.78,0
+9719f961-e484-42cc-ac61-fd6b8052f58b,433520,792,QBANK,Classic Home Loan (QLD only),4.49,0
+e58163e0-8449-4200-9c95-236e9f4b46a4,430190,3367,RAMS,Full Feature Investment Loan (Principal and Interest),5.78,0
+bac1f4f5-93b2-4e8b-9e6b-281785fdc1d0,324740,1417,RAMS,"Value Advantage Package Full Feature Loan (Principal and Interest) ($250k-$500k, LVR 80%-95%)",4.47,0
+507db167-a364-46ac-aad3-1bc8faac2c5a,221590,1416,RAMS,"Value Advantage Package Full Feature Loan (Principal and Interest) ($500k-$1m, LVR 80%-95%)",4.37,0
+3d47d1ca-4827-48bd-96d6-289fcaafb84b,74460,986,RAMS,Line of Credit,6.39,0
+db772c30-4963-4586-886a-2ac079f2958e,261650,1110,RESI Mortgage Corp,Flexi Options Home Loan (LVR 80%-95%),4.41,0
+98fc9694-8baf-4422-b101-bc9733a308e1,19570,4271,Endeavour Mutual Bank,Variable Home Loan,4.24,0
+5cbe1bc8-fa15-439a-b222-def728167394,73800,579,St.George Bank,Advantage Package Portfolio Loan ($100k-$150k),6.19,0
+97fe0579-3729-48e6-88d7-b23f21c8b77f,219190,578,St.George Bank,Advantage Package Variable Home Loan (Principal and Interest) ($100k-$150k),4.97,0
+8b0fc4da-6bf0-4d37-a396-be41d338a5af,222970,3651,St.George Bank,Basic Home Loan (Principal and Interest),4.64,0
+75ae39ca-4b8c-4620-95a6-2c121e3426df,399930,3652,St.George Bank,Basic Investment Loan (Principal and Interest),5.2,0
+85ccb659-75ec-4130-867e-ae4987d64f3f,289980,226,St.George Bank,Portfolio Loan,6.44,0
+68210b84-18f8-4dbe-a1db-03b06b1b2420,219160,222,St.George Bank,Standard Variable Home Loan (Principal and Interest),5.22,0
+b0e0e464-e2f1-4f52-a2b3-11be8ad26def,512970,4354,State Custodians,Line of Credit Investment Loan (LVR < 80%),4.04,0
+20538822-a153-4d86-81ee-2da6af6ec48f,451510,3696,Suncorp Bank,Personal Purpose Back to Basics Special (Principal and Interest) (LVR < 90%),3.68,0
+3ae360f6-7150-4814-b9ac-4be26fe472dd,21390,206,Suncorp Bank,Personal Purpose Standard Variable (Principal and Interest),5.6,0
+f94bd283-4107-427c-9f47-a0134217e4f6,373070,2461,Suncorp Bank,Investment Purpose Standard Variable (Principal and Interest),6.07,0
+e733296e-523c-4c1b-a62c-11479290aea2,491660,2017,Suncorp Bank,Home Package Plus Personal Variable Special (Principal and Interest) ($150k+),3.79,0
+1dbbcece-d146-4c2f-8eb5-0ac181070bef,350600,1733,Suncorp Bank,"Home Package Plus Personal Variable (Principal and Interest) ($150k+, LVR 90%-95%)",4.85,0
+a131cfdd-c49e-42f1-abc4-8be35c4e6abb,350590,4753,Suncorp Bank,"Home Package Plus Personal Variable (Principal and Interest) ($150k+, LVR 80%-90%)",4.45,0
+208e8807-a582-4027-8a52-e7d23259433d,404430,2466,Suncorp Bank,"Home Package Plus Investment Variable (Principal and Interest) ($150k+, LVR 80%-90%)",5.32,0
+7892d878-7f8d-4fb9-bdaa-d71edfee2eb3,506880,4764,Suncorp Bank,"Home Package Plus Access Equity Line of Credit Special ($150k+, LVR < 90%)",4.47,0
+a138739f-c823-4d93-b027-2dd76c515f72,19730,205,Suncorp Bank,Access Equity Line of Credit,6.27,0
+34b77ad7-73ad-439e-a7f2-de4162a38741,498280,3718,Teachers Mutual Bank,Interest Only Investment Loan,5.66,0
+996fcfcb-2b80-450d-968b-5fea194ec61e,24700,609,Teachers Mutual Bank,Interest Only Home Loan,5.66,0
+842d9918-a5c1-4f98-8287-131e203c2d1e,167510,4089,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR < 60%)",3.79,0
+9ed356d2-7666-4298-a190-1749606c7622,476140,4081,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 60%-80%)",4.24,0
+555cc2b5-0f7d-4858-aec1-c5333278b97c,476230,4084,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 60%-80%)",3.89,0
+ed1831b6-9617-431e-bac6-f3bf3af3d523,476210,4075,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 80%-90%)",4.34,0
+0e962ef2-cdd3-4aa3-a2e8-3fe3bed11a3a,476170,4082,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 60%-80%)",3.89,0
+e19a66a0-fce0-44fa-9fff-8d5d9dbae62f,476240,4076,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 80%-90%)",4.27,0
+33194f07-7fee-441e-b4ab-98405dc8af4a,412910,2856,Teachers Mutual Bank,Classic Home Loan,3.65,0
+df2003e8-9898-429f-8cda-18e98ff3570c,445400,4236,The Rock Building Society,Standard Variable Investment Loan (Principal and Interest),5.73,0
+5be4195c-683e-4ad1-8563-a945440947a4,435900,2334,The Rock Building Society,Essentials Investment Loan (Principal and Interest) (LVR < 80%),4.49,0
+955a0b3b-7056-4e93-bc49-fbae4f781baf,274520,1315,The Rock Building Society,Essentials Home Loan (Principal and Interest) (LVR 90%-95%),4.86,0
+d8cb9dd8-1b0f-45db-afcc-7d4adda5fa82,395110,2440,UniBank,Flexi Choice Home Loan,5.36,0
+5dea4565-0d48-448f-af33-9481772410fe,476480,4093,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR < 60%)",3.79,0
+cb97d6e7-9a1a-4da4-b2c1-cf957f748232,476660,4096,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR < 60%)",3.89,0
+a4504672-5008-4388-a4cb-56be7fb7f992,395080,2446,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 90%-95%)",4.77,0
+acd53350-ff62-4331-a2b2-e8564c4e06e7,476620,4087,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 60%-80%)",3.89,0
+a5999a69-4743-484c-8c09-cdf9637893fb,395060,2445,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 90%-95%)",4.8,0
+fe824748-09eb-4408-9163-d1d2a26474df,476580,4078,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 80%-90%)",4.39,0
+40f39d31-4e1e-494a-bd92-33c5621cec22,476500,4085,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 60%-80%)",4.24,0
+7c4d5fef-cbd8-4053-b214-46ca182e70dd,395070,2444,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 90%-95%)",5.1,0
+11202eba-fd64-4826-8031-7133b7c17440,395050,2441,UniBank,My First Home Loan,4.91,0
+85ca99c4-11fd-4510-85f9-45a78e3ec5c1,409580,496,Bank First,Standard Variable Home Loan (LVR < 80%),4.69,0
+85d66ab6-7f50-4733-a2f5-b944ad44accc,24050,499,Bank First,Equity Line of Credit Home Loan,5.14,0
+d2354351-c9d0-4a92-b096-8a60ae6ab99d,411740,1881,Bank First,Premier Package Home Loan (LVR < 80%),3.89,0
+e15b0d4b-c395-40f5-b3d8-55b187a0196b,412160,2728,Bank First,Complete Investment Loan (LVR < 80%),4.49,0
+07f8ff25-d492-4fa8-bce1-0645f15035b6,412140,495,Bank First,Complete Home Loan (LVR < 80%),3.99,0
+27bf8c2d-506e-49fb-abd0-5232fb322815,458140,3752,Westpac,Premier Package Rocket Repay Home Loan (Interest Only) ($150k-$250k),5.23,0
+7568a828-78a2-4e8c-9bf8-a8b4a276dfb1,465790,3753,Westpac,Premier Package Rocket Repay Home Loan (Interest Only) ($250k-$500k),5.03,0
+3893e5cc-e1f1-44d6-8175-964948d30a62,221040,3867,Westpac,Premier Package Rocket Investment Loan (Interest Only) ($500k-$750k),5.45,0
+bc7720f5-3969-4105-a12e-0ef7f7d1c597,465890,3750,Westpac,Premier Package Rocket Investment Loan (Interest Only) ($250k-$500k),5.5,0
+d63b6ea1-e225-4875-9e54-908c0bdd5b6b,458450,3759,Westpac,Flexi First Option Home Loan (Interest Only),5.18,0
+8c82c2da-85dc-410e-8adc-df8342e5b24c,25150,3744,Westpac,Rocket Investment Loan (Interest Only),6.3,0
+69d5ed08-e483-4de9-834b-095fd2edbdfa,221050,88,Westpac,Rocket Investment Loan (Principal and Interest),5.79,0
+5054a3da-957e-4b6f-8025-fba6f0af565c,220930,97,Westpac,Premier Package Rocket Repay Home Loan (Principal and Interest) ($250k-$500k),4.44,0
+3c6387bd-eb13-42f2-aa19-d2b33bd84de5,465730,3865,Westpac,Premier Package Rocket Repay Home Loan (Principal and Interest) ($500k-$750k),4.39,0
+50919015-b1f6-4853-8b22-e9c975e639cd,465840,95,Westpac,Premier Package Rocket Investment Loan (Principal and Interest) ($250k-$500k),4.99,0
+a8085508-cbfe-4965-90a0-494cd8914f38,221010,94,Westpac,Premier Package Rocket Investment Loan (Principal and Interest) ($150k-$250k),5.19,0
+be77675c-4438-487f-a664-6e0618d4db42,130940,2112,Westpac,Flexi First Option Investment Loan (Principal and Interest),5.14,0
+f7028e7b-fb32-41ce-ac36-5b8801c68993,458470,3768,Westpac,Flexi First Option Home Loan (Principal and Interest),4.59,0
+e81f7683-c4ed-48ae-ac1c-98c0ffccd4b3,512170,4255,Bank of us,FlexiDiscount Home Loan (LVR 90%-95%),4.19,0
+4558b943-92de-4e46-a0af-5b209aa37938,227070,1827,Bank of us,FlexiDiscount Home Loan (LVR < 80%),3.79,0
+0e477f0a-e770-4345-a246-9ac0582afade,419470,4258,Bank of us,FlexiChoice Investment Loan (LVR 80%-90%),5.52,0
+366fa7b2-91dc-410a-9179-35d99a9161d8,16870,4880,Bank of us,FlexiChoice Investment Loan (LVR < 80%),5.52,0
+d7938211-ca60-412b-aefe-581f6643d0b8,512130,3036,Bank of us,Topline Investment Loan (LVR 80%-90%),4.89,0
+e787e1a0-ce7a-4051-a9cd-b1e1a41f382e,512120,806,Bank of us,Topline Home Loan (LVR 80%-90%),4.19,0
+f58ab863-2416-4f9e-8845-a051f10aac5a,18670,4878,Bank of us,Topline Home Loan (LVR < 80%),4.09,0
+b0f5276b-d700-4bab-b319-595cc6bf50b9,424050,3519,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($75k-$500k, LVR 80%-90%)",4.09,0
+0731c51c-2af8-4eff-8425-6cda63c96cff,424060,3520,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($500k-$750k, LVR 80%-90%)",4.04,0
+e7594754-c037-4ed1-998d-1dab8bb2964e,424090,3523,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($500k-$750k, LVR 90%-95%)",4.84,0
+77238f1b-4307-4a26-920c-e77389d49fd7,424020,3463,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($75k-$500k, LVR < 80%)",3.68,0
+454aa947-c0a9-4877-93b4-a51cd632c9f9,424160,3530,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($750k+, LVR 80%-90%)",4.09,0
+53422cbc-336f-4cd3-91c7-4589e76fcacd,424140,3528,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($75k-$500k, LVR 80%-90%)",4.19,0
+a428c1ce-6d23-4488-9384-ade561d3fd41,424150,3529,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($500k-$750k, LVR 80%-90%)",4.19,0
+e3aa149b-d08c-4511-9eae-550b6d1cd9f4,20220,255,Bank Australia,Premium Home Loan,4.82,0
+510b26d5-386c-42ca-9d71-9b15d474f7fa,419530,2865,Bank Australia,Package Premium Investment Loan (Principal and Interest) ($700k+),4.77,0
+5450e1ed-ca07-41e5-81b6-7b04c5aeda4d,479350,1373,Bank Australia,"Package Premium Home Loan ($400k-$700k, LVR < 80%)",3.92,0
+8d24e9a3-1f8d-48ea-a46d-e80fc858862f,479370,1375,Bank Australia,"Package Premium Home Loan ($700k+, LVR < 80%)",3.82,0
+daafa611-a1ef-44db-9059-60e1975ca429,21960,3727,Bank Australia,"Package Premium Home Loan ($100k-$400k, LVR 80%-95%)",4.27,0
+d5cb59bc-85e8-44ed-9a7a-efbc54e934ec,398600,1514,Bank Australia,Basic Home Loan (LVR < 80%),3.86,0
+c7bdfcd9-e6c8-42aa-ad1a-887251124829,489850,4273,Commonwealth Bank of Australia,Introductory 12 Month Discounted Variable Investment Loan (Interest Only),6.24,0
+be194371-6683-4465-81cb-2335746ead02,492940,4347,State Custodians,Low Rate Home Loan with Offset (Principal and Interest) (LVR 80%-90%),3.74,0
+dcda95fe-e4eb-4843-8666-7119f3e930f8,492960,4349,State Custodians,Low Rate Investment Loan with Offset (Principal and Interest) (LVR < 80%),3.79,0
+be4b4e83-5134-4b29-9e54-3628a90ddb35,492980,4351,State Custodians,Low Rate Investment Loan with Offset (Principal and Interest) (LVR 90%-95%),4.19,0
+f170d28f-56dd-4065-b44e-4467aad5eec5,508070,4766,loans.com.au,Smart Loan Offset Package (Principal and Interest) (Packaged with Owner Occupier Loan),3.89,0
+45e2751e-6c7e-4117-9ee2-bba5f54a931b,20100,4397,Bank Australia,Basic Investment Loan (Interest Only),5.07,0
+5ad05f3b-7f69-4f12-993b-8331604032ac,494910,4401,Bank Australia,Package Premium Investment Loan (Interest Only) ($400k-$700k),5.07,0
+c9e6c367-cfaa-4a0f-a274-a09d252d151a,494920,4402,Bank Australia,Package Premium Investment Loan (Interest Only) ($700k+),4.97,0
+09049693-4f55-47a1-8406-9dff2ea19b34,501050,4324,ANZ,Breakfree Package Variable Home Loan (Interest Only) ($150k-$250k),5.25,0
+6f090c4a-a241-456f-92c4-ff47494f6663,501080,4328,ANZ,Breakfree Package Variable Investment Loan (Interest Only) ($150k-$250k),5.76,0
+511e9b60-b107-4046-87e3-720357f7f02b,489680,4307,Commonwealth Bank of Australia,3 Year Special Economiser Home Loan (Interest Only),5.31,0
+c1a1d2e2-bc4b-4fbd-b6ce-97ead05838c0,489710,4314,Commonwealth Bank of Australia,Economiser Home Loan (Interest Only),5.31,0
+5e841ee8-e65e-4de5-9a0d-996fb993a427,489720,4315,Commonwealth Bank of Australia,No Fee Variable Rate Home Loan (Interest Only),5.07,0
+54a8f2f2-4cdd-41eb-bc32-badf0c68d9db,489670,4303,Commonwealth Bank of Australia,Introductory 12 Month Discounted Variable Home Loan (Interest Only),5.77,0
+9576e21a-32d2-49cf-a22d-cb81412d1506,499600,4564,P&N Bank,Simple Home Loan,4.19,0
+d9bd9ed2-24f4-4854-ab51-6e4c7883910b,500220,4621,Virgin Money,"Reward Me Home Loan (Interest Only) ($75k-$500k, LVR < 80%)",4.39,0
+049131c9-60cb-48c1-9475-3d5f04e8d74e,500240,4623,Virgin Money,"Reward Me Home Loan (Interest Only) ($750k+, LVR < 80%)",4.29,0
+4c5aab8e-9847-4271-bf37-2141930e7fc7,501260,4639,ING,"Mortgage Simplifier Home Loan (Interest Only) (Amounts < $150k, LVR <80%)",5.05,0
+3109a565-ff74-40a9-8d20-ac0a3d876295,501330,4970,ING,"Mortgage Simplifier Home Loan (Interest Only) ($500k-$1m, LVR < 80%) ",4.13,0
+3328a6f6-5361-4f2b-9a52-a4712e5f4a53,505210,4686,ING,Mortgage Simplifier Investment Loan (Interest Only) (Amounts < $150k),5.3,0
+63fc9bbf-6dbd-4ff3-8a90-7a19d1517ddb,505250,4688,ING,Orange Advantage Investment Loan (Interest Only) (Amounts < $150k),5.4,0
+a7150057-2943-4610-9a73-6618e1848cc4,507150,4544,Bank of Queensland,Clear Path Variable Rate Home Loan (Interest Only),4.87,0
+8edc1ca5-4e6b-47bb-9057-a7ad4f2e1cb4,507160,4545,Bank of Queensland,Clear Path Variable Rate Investment Loan (Interest Only),5.44,0
+237a8ccd-7d09-4ba5-b996-eb350b59067e,507200,4546,Bank of Queensland,First-Start Home Loan (Interest Only),6.01,0
+f8ce2fd9-adfc-468c-9ade-2c368cf8ad03,501030,4649,P&N Bank,& Investor Loan (Principal and Interest),4.19,0
+314f8990-3522-4766-a550-829a51fcf505,506050,4720,Bendigo & Adelaide Bank,Connect Package Investment Loan (Interest Only) ($500k+),5.06,0
+971ff3bc-65fc-488d-b14d-4c512d502d7c,518030,5052,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($250k-$700k) (LVR 80%-90%) ,4.99,0
+f7417458-f3db-466a-a9a7-b68a1c586438,510280,4811,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($150k-$250k) (LVR<80%),4.84,0
+660c897a-a0e9-404e-854b-a3f61fe3aba7,510290,4812,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($250k-$700k) (LVR <80%)  ,4.79,0
+0ebf5586-ccfe-4c07-a1e2-0f4b5e9d93ad,507510,4549,Bank of Queensland,Privileges Package Variable Rate Home Loan (Interest Only) ($150k-$250k) ,5.51,0
+ce524600-ad4b-407a-9ebf-0d062baa0e21,507550,4550,Bank of Queensland,Privileges Package Variable Rate Home Loan (Interest Only) ($250k-$1m) ,5.16,0
+6c72677c-a82b-454f-9626-374d8e02f1cb,507240,4554,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Interest Only) ($1m+) ,5.68,0
+8a2ae488-cb46-47bb-bd2a-40edc17d753e,339150,4953,RACQ Bank,Choices Mortgage Breaker Home Loan (QLD only) ($250k-$500k),4.19,0
+cd6702b2-dc34-441e-9096-24d4e33156f8,125410,4948,RACQ Bank,Mortgage Breaker Home Loan (QLD only),4.99,0
+53944aa4-5b8c-42ee-9a8f-c4ccc4ba58c7,217960,4955,RACQ Bank,Choices Mortgage Breaker Investment Loan (QLD only) ($150k-$250k),5.05,0
+d7c84752-4fff-4789-9580-825cd7a5d222,409170,4964,RACQ Bank,Mortgage Saver Special Home Loan (QLD only),3.74,0
+3f440ecb-2537-414a-a01a-c8c3e880f199,514670,4946,The Rock Building Society,Basic Variable Investment Loan (Principal and Interest) (LVR <80%) ,4.29,0
+3f843f28-483e-4e32-83a2-7446e9193637,517040,5024,Suncorp Bank,Investment Back to Basics (Interest Only),5.86,0
+0c9b041b-e901-49f6-aa94-7c912c207f76,517610,5027,Suncorp Bank,Personal Purpose Standard Variable (Interest Only),5.77,0
+64da978d-b1e4-4ebc-bfb5-61203f3f7469,517570,5032,Suncorp Bank,Home Package Plus Personal Variable Special (Interest Only) ($150k+),3.89,0
+a7750652-e2e0-4d6c-8474-fb9a891f0694,517230,5039,Suncorp Bank,"Home Package Plus Personal Variable (Interest Only) ($150k+, LVR 80%-90%)",4.62,0
+7b3bd7d8-6d2b-430b-8431-544533b48fc6,517130,5044,Suncorp Bank,"Home Package Plus Investment Variable (Interest Only) ($150k+, LVR < 80%)",5.34,0
+9ba8cda6-de7e-482f-8251-ed808f32fd9d,517710,5033,Suncorp Bank,Home Package Plus Investment Variable Special (Interest Only),4.57,0
+22df6e13-c653-46a0-94e5-fd3393f12a0d,517270,5022,Suncorp Bank,Personal Purpose Back to Basics Special (Interest Only) (LVR < 90%),3.78,0
+0a4f23fc-1a35-4922-86b1-474a48172628,517060,5023,Suncorp Bank,Personal Purpose Back to Basics (Interest Only),5.19,0
+a51b8920-a5ce-46d4-9197-e552965cf814,55300,3605,Community First Credit Union,Accelerator Package Home Loan (Principal and Interest) (Amounts < $250k) (New Customer),3.69,0
+6eed0a5f-93a4-4aaf-9926-46f41e14d293,524020,4449,Adelaide Bank,SmartFit Home Loan (Interest Only) (LVR < 90%),4.54,0
+b855428c-a814-40c2-8611-5ad22a3e603c,523970,4452,Adelaide Bank,SmartSaver Home Loan (Interest Only) (LVR < 90%),4.49,0
+cfb8f97d-4fd3-4c99-8881-073af9ba0634,523330,5173,Bank of Queensland,Economy Investment Loan (Interest Only),4.59,0
+79c78a59-fdd2-4f49-9b52-05284b5b27a2,218730,1301,MyState,Special Residential Home Loan (Principal and Interest) (LVR 90%-95%),4.86,0
+cea205ad-4246-4049-a896-5499b2c14c4e,131450,543,Greater Bank,"Line of Credit (NSW, ACT & QLD only)",5.2,0
+4a68c139-21c3-4dcf-97c1-8fff4800ac84,449870,2676,Greater Bank,"Ultimate Variable Investment Loan (Principal and Interest) (NSW, ACT & QLD only)",4.44,0
+9b967838-4db3-46bb-8c8f-4b3002862d5f,196280,837,Greater Bank,"Ultimate Variable Home Loan (NSW, ACT & QLD only)",4.16,0
+5f4aa1fb-2b20-4170-bcf6-15361f8c5316,449890,2669,Greater Bank,"Great Rate Variable Investment Loan (Principal and Interest) (NSW, ACT & QLD only)",4.64,0
+b8f5259b-b858-4378-9c7e-bd9595ec75fa,131410,544,Greater Bank,"Great Rate Variable Home Loan (NSW, ACT & QLD only)",4.36,0
+8d8a9044-b55f-4ecc-bb95-2d148484d5d7,18550,774,SCU,Standard Variable Rate Home Loan,5,0
+9332b634-2def-4def-94b7-640a6e4c5dd6,81480,776,SCU,Pro Pack Home Loan ($150k-$250k),4.65,0
+66228caa-8639-42b2-a70a-2846e8c88bf7,428650,3337,NAB,Base Variable Investment Loan (Interest Only),5.18,0
+f16786d2-7cdd-497a-9aa5-e7f888e69505,428880,3332,NAB,Tailored Investment Loan (Interest Only),6.25,0
+f4df4dee-67f0-48ef-b52b-25cfb4c0e1cd,428860,2216,NAB,Tailored Home Loan (Interest Only),5.77,0
+1a4f382b-abfd-4153-b753-789ad4987c3f,177220,3645,NAB,Portfolio Facility ($500k-$1m),5.76,0
+5b4403df-d0e1-4fda-9a4d-108bdb12be1e,177230,3644,NAB,Portfolio Facility ($250k-$500k),5.86,0
+7695777b-fbbf-43b8-b6e7-947b890cb08f,428710,3343,NAB,Choice Package Tailored Investment Loan (Principal and Interest) (Amounts < $250k),5.2,0
+74680964-e030-44e3-940b-dfd54b23f153,428730,3344,NAB,Choice Package Tailored Investment Loan (Principal and Interest) ($250k-$750k),4.95,0
+74cb5b19-4c2a-45e9-a344-5902c3c206ec,428810,3333,NAB,Choice Package Tailored Investment Loan (Interest Only) (Amounts < $250k),5.65,0
+e5b7d39e-3989-48d4-8bb8-ab92a2bf2498,344790,1681,NAB,Choice Package Tailored Home Loan (Principal and Interest) ($750k+),4.34,0
+570bcb4a-c42d-4839-8fda-7e0823d8735c,290010,1289,NAB,Choice Package Tailored Home Loan (Principal and Interest) ($250k-$750k),4.39,0
+5e08eb38-a122-4313-b50a-e69994648de6,428790,2222,NAB,Choice Package Tailored Home Loan (Interest Only) ($250k-$750k),4.92,0
+b91bf8f4-58ba-4595-9e7b-87e461134ea3,505990,153,NAB,Choice Package Flexiplus Mortgage,6.29,0
+2bc312a8-a6ca-472b-af95-2fae9643acc6,428630,2215,NAB,Base Variable Home Loan (Interest Only),4.7,0
+5ad79be5-1abd-436c-897d-03105c82d551,398240,2231,ANZ,Standard Variable Investment Loan (Principal and Interest),5.8,0
+4c7ffb3a-8794-4663-8893-81936febf4c5,17135,1035,ANZ,Fixed Rate Home Loan (Principal and Interest) 5 Years,5.2,0
+e6771396-05e2-4799-a693-a72db4c1c062,18770,104,ANZ,Equity Manager,6.37,0
+e755c1b1-4b75-4340-a2f9-fd3484c1053e,501110,2236,ANZ,Breakfree Package Variable Investment Loan (Principal and Interest) ($150k-$250k),5.3,0
+a42b8752-1bd8-4156-88fa-9217a970583d,108650,109,ANZ,Breakfree Package Variable Home Loan (Principal and Interest) ($150k-$250k),4.7,0
+339c5e30-2c53-45fc-bf1b-b99620ec435e,432240,5012,Qudos Bank,Low Cost Investment Loan (LVR 80%-90%),4.64,0
+7dad36b7-aa1c-4807-9f03-9baa3a92e6a3,200440,633,Qudos Bank,Low Cost Home Loan (LVR < 80%),3.89,0
+37132cba-d5cc-48b9-abf0-e9f2ac4aed61,266030,4048,MOVE - People Driven Banking,Wealth Builder Loan,4.39,0
+e98946a6-c35c-4d3b-bbcf-50e2777808d3,17340,4041,MOVE - People Driven Banking,Standard Variable Rate Home Loan,4.85,0
+19a14d2f-ce7e-4881-a702-82c3083745b7,17020,1093,MOVE - People Driven Banking,Economy Home Loan,3.99,0
+18b07d97-5d90-45d0-8256-407921d36848,521020,1354,UBank,Discount Offer Variable Home Loan (Amounts < $200k),3.74,0
+e3bfb263-2cc7-4aa3-b527-223bebb01446,403240,2492,Adelaide Bank,SmartSaver Investment Loan (Principal and Interest) (LVR < 90%),4.74,0
+a1531a97-f167-4dcf-9c3f-95baf68ad99d,203740,17,Adelaide Bank,SmartSaver Home Loan (Principal and Interest) (LVR < 90%),4.04,0
+6ee69fe3-1a2a-490f-807e-31655e85c5bb,24780,1387,Adelaide Bank,SmartFit Home Loan (Principal and Interest) (LVR < 90%),4.09,0
+8dcde4af-5da2-4781-ada4-ae061a6021d8,348540,1652,Bananacoast Community Credit Union,OMG Home Loan (Principal and Interest),3.84,0
+8a5f8119-e525-4dfd-9984-91f3e812a4ac,485320,2348,Bananacoast Community Credit Union,Standard Variable Investment Loan (Principal and Interest),5.3,0
+a61b3cd9-f634-46ed-b6ef-f7362545e4f1,17720,740,Bananacoast Community Credit Union,Standard Variable Home Loan (Principal and Interest),5.05,0
+c259c00b-1463-4edb-97bc-eb123b7afb6c,75900,40,Heritage Bank,Standard Variable Home Loan,5.14,0
+83d87e7c-ab6a-445a-ae1e-82fcc8064709,393460,2064,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($150k-$250k) (LVR<80%),4.44,0
+2d847a68-853c-45f6-8d6a-4492edb43cbf,393480,2066,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($700k+) (LVR <80%),4.34,0
+d9c7d4b9-ab5d-445c-bcb0-46d9f67c39da,517990,5050,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($250k-$700k) (LVR 80%-90%) ,4.59,0
+28da0624-ada5-450c-81d5-3edff1586516,18810,1903,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR<80%),3.89,0
+90cc5c12-6106-44b8-a346-6094cb53b281,388610,1907,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR<80%),3.84,0
+713a9618-4362-4136-a2c9-9b652c7b201a,513230,4889,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR 90%-95%) ,4.09,0
+e6c63ebf-d7bb-40c4-903d-a964c337c2a4,513250,4890,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR 90%-95%),4.04,0
+da82b581-d2e5-4c91-9264-f6fc6300850c,513270,4891,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR 90%-95%) ,3.99,0
+a3955be2-0817-4ce3-b0ef-018bfad9561a,388550,1908,Heritage Bank,Home Advantage Living Equity Home Loan ($250k-$700k),5,0
+b7156b16-17ff-450e-b4b3-0e98ea9a77ca,18183,333,Heritage Bank,Fixed Rate Home Loan 3 Years,5.14,0
+01545b0d-da26-45fe-9af8-a94354c7c557,422920,3125,ING,Orange Advantage Investment Loan (Principal and Interest) (Amounts < $150k),5.05,0
+9056fbe9-af8e-4f10-80dd-81081a29a583,155300,486,ING,"Orange Advantage Home Loan (Principal and Interest) ($150k-$500k, LVR 90%-95%)",4.75,0
+932ec4d2-e9f5-4422-ba6e-c00847b208e2,374620,4822,ING,"Orange Advantage Home Loan (Principal and Interest) ($500k-$1m, LVR < 80%)",3.68,0
+ad8a20cd-6149-4696-8529-6758d3ed6fcc,259320,1683,ING,"Orange Advantage Home Loan (Principal and Interest) ($150k-$500k, LVR < 80%) ",3.68,0
+4f233ec4-a223-4ce9-a123-d57be0bf68e2,501230,4637,ING,Orange Advantage Home Loan (Interest Only) (Amounts < $150k),5.15,0
+752421e8-2944-4efb-88b9-df483230c470,501240,4967,ING,"Orange Advantage Home Loan (Interest Only) ($500k-$1m, LVR<80%) ",4.08,0
+c40a07de-ed76-47db-9a33-489252978b65,394090,3467,ING,Mortgage Simplifier Investment Loan (Principal and Interest) (Amounts < $150k),4.95,0
+a6479019-38e7-4ef4-8b42-0b4ff3ec91e2,442250,2095,ING,"Mortgage Simplifier Investment Loan (Principal and Interest) ($150k-$500k, LVR < 80%)",4.29,0
+8955a405-1c10-4ea8-b755-426321f7b56b,501340,1849,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($150k-$500k, LVR < 80%)",3.73,0
+78e55ab2-17f9-40e3-9139-f7854d6860d8,163580,245,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($150k-$500k, LVR 90%-95%) ",4.7,0
+086b1d66-313d-4dc6-adec-779a3cd9197c,515290,4969,ING,"Mortgage Simplifier Home Loan (Principal and Interest) ($1m+, LVR <80%) ",3.69,0
+ad12595d-0e65-4ec4-a3f9-4b0d94d5c04e,307630,546,P&N Bank,Smooth Home Loan (LVR 80%-90%),4.74,0
+a9b567e8-d392-477a-b199-ef1445de6890,22020,547,P&N Bank,EasyPay Home Loan,5.14,0
+dbf9236d-e933-4623-885c-ee1c1f81baef,269480,803,Australian Military Bank,Variable Offset Home Loan,4.69,0
+a05d8d21-440f-4f9c-a530-ffdc77270139,344210,805,Australian Military Bank,Investment Home Loan (LVR < 80%),5.2,0
+730f4a5a-bcd5-4998-bb4b-0e8186b8472c,343480,4181,AMP Bank,Professional Package Investment Loan (Interest Only) ($750k+),4.34,0
+7494a832-eb12-42ce-8c75-e367037e0142,394600,4178,AMP Bank,Professional Package Home Loan (Interest Only) ($750k+),4.34,0
+f172644c-d169-4566-8d4d-b018fed7fa1c,265240,4186,AMP Bank,Introductory Classic Home Loan (Interest Only),6.01,0
+f914689f-3c26-4065-aa97-949905fa9af2,484580,4182,AMP Bank,Classic Variable Home Loan (Interest Only),6.01,0
+42d6a1bf-fee7-46c1-8b3a-a1945109a719,414730,2933,AMP Bank,Professional Package Line of Credit Investment Loan ($250k-$750k),4.88,0
+f9f50d00-1ad3-42cd-a425-b33644f2408a,414590,2935,AMP Bank,Professional Package Line of Credit Investment Loan ($100k-$250k),5.32,0
+7408e332-2d28-4e69-9d6d-176cda80d147,24200,69,AMP Bank,Professional Package Line of Credit Home Loan ($100k-$250k),5.31,0
+26446021-61be-40d0-96ec-9c9d357831fe,484510,2928,AMP Bank,Professional Package Investment Loan (Principal and Interest) ($750k+),4.19,0
+3319a83e-fcc8-490f-b3ff-ffcdce7b0abc,484490,2927,AMP Bank,Professional Package Investment Loan (Principal and Interest) ($100k-$250k),5.07,0
+7bcb5cf1-7cef-41d2-8331-087e74c30ea3,484482,742,AMP Bank,Professional Package Home Loan Fixed (Principal and Interest) 2 Years,4.49,0
+dd6c85e7-82df-4cc7-9a34-444029e63556,484483,743,AMP Bank,Professional Package Home Loan Fixed (Principal and Interest) 3 Years,4.49,0
+1fb610fb-8e69-4266-bbdc-d4a1fa287dc2,484540,1758,AMP Bank,Professional Package Home Loan (Principal and Interest) ($750k+),3.69,0
+eee72542-8617-49fa-800c-487f2f169b0b,484560,218,AMP Bank,Introductory Classic Home Loan (Principal and Interest),5.5,0
+21b149a3-8ced-488f-a591-309706ea61db,210690,3954,AMP Bank,Essential Home Loan ($100k+),3.96,0
+0a4c4bb6-987e-44f1-be4d-b313e1ae5839,484570,2942,AMP Bank,Classic Variable Investment Loan (Principal and Interest),6.47,0
+152e3dab-1f84-4f7a-aaa4-003b981c963c,414490,2941,AMP Bank,Classic Line of Credit Investment Loan,6.72,0
+e861ee29-0a56-43f6-b85a-ec2443db01a8,224973,653,AMP Bank,Classic Fixed Home Loan (Principal and Interest) 3 Years,5.5,0
+60ae713b-6966-4b0b-a3b0-597e0ffbcbe5,19970,361,Arab Bank Australia,The Basics Home Loan,5.49,0
+1df14734-973b-42f7-ac43-3bc437d21f05,479420,3418,Arab Bank Australia,HeadStart Loan,5.49,0
+52d767e5-acc7-4f67-a712-46964fdf29a6,498574,3624,Arab Bank Australia,Fixed Rate Home Loan 4 Years,5.49,0
+3ebd2a32-9ace-4e49-b171-0506f1556fb8,325700,1386,Arab Bank Australia,Essentials Home Loan,5.59,0
+ff9b0184-d073-423e-86c5-00d8cda73888,389890,1971,Aussie,"Select Standard Variable Investment Loan (Principal and Interest) ($500k+, LVR < 80%)",4.29,0
+b3b6b475-d16f-41aa-b711-96f0c8d7a3ca,359240,1530,Aussie,"Select Standard Variable Home Loan (Principal and Interest) ($500k+, LVR 90%-95%)",4.19,0
+e4497865-bc22-4111-bfb7-fa34bdefffa4,359220,1655,Aussie,"Select Standard Variable Home Loan (Principal and Interest) ($500k+, LVR < 80%)",3.79,0
+064ee125-940a-485c-b84a-6cd276203115,359400,3969,Aussie,Select Line of Credit Home Loan (LVR < 80%),4.14,0
+6b4b5b72-52a0-49b5-98c9-b86aed832160,529490,1964,Aussie,"Select Basic Investment Loan (Principal and Interest) ($500k+, LVR < 80%)",4.29,0
+1bdaa849-b388-4148-af0f-a11ac5ea1803,529500,1656,Aussie,"Select Basic Home Loan (Principal and Interest) ($500k+, LVR < 80%)",3.79,0
+5136c408-5818-4c7b-bfae-97ca4c639599,396850,1959,Aussie,IQ Basic Investment Loan (Principal and Interest) (LVR 80%-90%),4.54,0
+d1349a0e-d55a-4f12-83da-f451467bf54d,396800,2160,Aussie,IQ Basic Investment Loan (Principal and Interest) (LVR 70%-80%) ,4.14,0
+0ada22c5-ed30-4300-ae02-a762dc7bbbf5,396890,2706,Aussie,IQ Basic Investment Loan (Interest Only) (LVR 70%-80%),4.74,0
+fa5f047b-1463-4bed-9203-bd6e68257bf8,396810,2158,Aussie,IQ Basic Home Loan (Principal and Interest) (LVR 70%-80%),3.79,0
+f560d514-127a-4001-a948-dcfcc8c3a96a,358060,1802,Aussie,IQ Basic Home Loan (Principal and Interest) (LVR 90%-95%),4.19,0
+5f9d8585-1fd3-4f46-a7e5-a04ca845e108,396790,4663,Aussie,IQ Basic Home Loan (Interest Only) (LVR 70%-80%),4.44,0
+ed4c16f8-a229-44e7-b7d5-da2935e3983c,511920,4661,Aussie,IQ Offset Investment Loan (Principal and Interest) (LVR < 70%),3.89,0
+1b1eb16c-3b70-4017-ae5f-558270ed4c33,511890,4660,Aussie,IQ Offset Investment Loan (Interest Only) (LVR < 70%),4.29,0
+96c4dc22-ed2d-4530-8910-627cbfddc9e9,160190,1804,Aussie,IQ Offset Home Loan (Principal and Interest) (LVR 80%-90%),3.99,0
+dede576e-1f54-4169-a9df-51e8a909acf9,160180,1208,Aussie,IQ Offset Home Loan (Principal and Interest) (LVR 70%- 80%),3.79,0
+c9b4da1a-b305-40d6-9ef7-292df7db1527,511950,2162,Aussie,IQ Offset Home Loan (Interest Only) (LVR < 70%),4.14,0
+66f80e0b-9e5c-4f75-90d3-0cb4fd388422,400040,2361,Bank of Melbourne,Standard Variable Investment Loan (Principal and Interest),5.78,0
+3efe7018-eb81-40ff-b434-859c311dcd2c,400030,2002,Bank of Melbourne,Basic Investment Loan (Principal and Interest) (New Customer),4.19,0
+2159908d-af8c-4939-a939-250ab32716fd,443770,944,Bank of Melbourne,Basic Home Loan (Principal and Interest) (New Customer),3.64,0
+a766740a-6793-4c0c-a55e-30732a8617f8,400100,2365,Bank of Melbourne,Advantage Package Variable Investment Loan (Principal and Interest) (New Customer) ($250k-$500k),5.03,0
+a9f8d98e-b5fc-4182-8de5-0a60c41d09d1,400130,2366,Bank of Melbourne,Advantage Package Variable Investment Loan (Principal and Interest) (New Customer) ($750k+),4.88,0
+cd5dedca-7654-43f8-82e6-c9c202097762,219660,945,Bank of Melbourne,Advantage Package Variable Home Loan (Principal and Interest) (New Customer) ($250k-$500k),4.45,0
+e7a50f57-27e3-4287-ab89-97e1ea84b50e,219650,956,Bank of Melbourne,Advantage Package Variable Home Loan (Principal and Interest) (New Customer) ($150k-$250k),4.6,0
+db99fb5a-4347-47e5-af72-01840da3e391,400160,3896,BankSA,Standard Variable Investment Loan (Interest Only),6.32,0
+ead23768-5106-4b8e-836c-3f950489aee2,19130,25,BankSA,Standard Variable Home Loan (Principal and Interest),5.21,0
+74eb5033-2e24-4ff5-9aa5-a2589fd20dfd,400140,3650,BankSA,Basic Investment Loan (Principal and Interest),5.2,0
+192fc9ce-1cff-4a1f-9710-6ee9b098f0cc,220390,3649,BankSA,Basic Home Loan (Principal and Interest),4.63,0
+f6ac3108-bf3f-4358-bde5-47e5321e1c98,400200,3885,BankSA,Advantage Package Variable Investment Loan (Principal and Interest) (New Customer) ($750k+),4.88,0
+818afcf9-bc2e-462f-a027-7cf1d8267354,400190,2370,BankSA,Advantage Package Variable Investment Loan (Principal and Interest) (New Customer) ($250k-$500k),4.98,0
+a7e9b1f9-c995-4bae-9a50-053c462e6770,220410,3899,BankSA,Advantage Package Variable Home Loan (Principal and Interest) ($100k-$150k),4.96,0
+12defa53-2096-4d01-bd13-d461672543c2,428360,2818,BankVic,Offset Variable Investment Loan,5.24,0
+b99573f9-220d-4089-a45b-d30acae0af23,461060,616,BankVic,Introductory Variable Home Loan 2 Years,4.59,0
+f1622df3-0252-42b5-97d4-3296b24365f7,19440,116,Bankwest,Mortgage Shredder Home Loan (Principal and Interest),5.42,0
+8e45b753-d15c-4c08-ba30-6281f5d5f55b,428030,3387,Bendigo & Adelaide Bank,Basic Home Loan (Principal and Interest),4.38,0
+80279e13-6ae9-4662-adb7-18910cb8a15e,18730,156,Bendigo & Adelaide Bank,Home Equity Home Loan,5.88,0
+8145ae1c-a5b9-4235-af87-4511c765f920,447850,304,Beyond Bank Australia,Standard All in One Variable Rate Investment Loan,5.64,0
+e32b6591-2339-4deb-a8a6-41416e8055ad,447780,2815,Beyond Bank Australia,Total Home Loan Package Variable Investment Loan ($50k-$300k),4.99,0
+862c795b-f26e-46f5-9c41-19c46d94273d,447810,301,Beyond Bank Australia,Pinnacle Plus Package Variable Investment Loan (Principal and Interest) ($200k-$300k),5.19,0
+8028736e-f5c8-4b3d-a899-b58dee6d304d,447740,636,Beyond Bank Australia,Basic Variable Investment Loan,4.79,0
+72ca8013-1857-41cb-88ba-b5ad4bcaed1f,517700,3484,Beyond Bank Australia,"Total Home Loan Package Variable Home Loan ($500k+, LVR < 90%)",4.4,0
+0e3bd103-7412-4b37-a1d8-64fe4c259bf1,517670,3482,Beyond Bank Australia,"Total Home Loan Package Variable Home Loan ($50k-$300k, LVR < 90%)",4.7,0
+cde3918c-f882-41b0-9664-8b0828a2b5bb,517650,3481,Beyond Bank Australia,Total Home Loan Package All in One Home Loan ($500k+),4.55,0
+8ebf346c-698f-4305-9983-1207686ea22f,378640,3479,Beyond Bank Australia,Total Home Loan Package All in One Home Loan ($50k-$300k),4.85,0
+52ed4802-3e34-49ed-9c20-9b2e84cdd4bb,23100,48,Bank of Queensland,Line of Credit Home Loan,7.19,0
+a39313c6-66fa-4101-b3eb-46b741e2fc1f,397370,2244,Bank of Queensland,Standard Variable Rate Investment Loan (Principal and Interest),6.18,0
+1340c07b-8d36-4723-84f8-d3d0957f9d67,397540,2242,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Principal and Interest) ($250k-$1m),5.33,0
+c140007e-d981-464f-bf4a-d3db0c395d36,16760,41,Bank of Queensland,Privileges Package Variable Rate Home Loan (Principal and Interest) ($1m+),4.71,0
+4c1081d2-07ab-48bf-952d-fd9c94b3eaa9,23120,50,Bank of Queensland,Privileges Package Variable Rate Home Loan (Principal and Interest) ($250k-$1m),4.76,0
+fe8f9176-0aa2-4b42-ae02-2e6f67d43d3e,217325,2215,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Principal and Interest) 5 Years,5.11,0
+03918d46-16eb-485e-acb5-f9111dd0cfc2,139020,3398,Bank of Queensland,First-Start Home Loan (Principal and Interest),5.61,0
+c6e37103-a924-4ed9-8a90-4d26e6227bc7,20470,43,Bank of Queensland,Economy Home Loan (Principal and Interest),3.79,0
+d84210ea-e52e-40f4-8a3e-2386d2772e18,323450,1379,Bank of Queensland,Clear Path Variable Rate Home Loan (Principal and Interest),4.47,0
+f1e1c0b9-60f3-456b-ad98-7138a35fd907,327180,3205,Bank of Queensland,Clear Path Line of Credit Home Loan,5.4,0
+adb36459-7033-4b0e-893f-bcb342707851,407130,2756,Citi,Standard Variable Investment Loan (Principal and Interest),4.66,0
+e11623bd-f542-4bb8-8af5-56a342b49410,406770,3127,Citi,Basic Variable Investment Loan (Principal and Interest) (LVR < 80%),4.71,0
+2e45706c-0b37-4712-95f4-c37ada10253f,21030,3604,Community First Credit Union,Standard Variable Home Loan,5.17,0
+58505193-596e-437b-a81d-760127885af4,469510,3447,G&C Mutual Bank,Standard Variable Investment Loan,5.78,0
+78fe02bd-75ff-4127-9451-23f87957fce2,189620,784,G&C Mutual Bank,Standard Variable Home Loan,5.23,0
+02fbaf70-282c-4cae-8a75-5d4ae785f188,21410,772,Gateway Bank,Standard Variable Home Loan,5.03,0
+62b9384c-a60c-4681-933f-80c38e31d5e1,402850,2423,Gateway Bank,Premium Package Investment Loan (LVR < 80%),4.19,0
+9b4bb4bd-f2f7-46dd-93af-6a83e7e191be,349610,1699,Gateway Bank,Premium Package Home Loan (LVR 85%-95%),3.89,0
+19520890-74c9-44ce-b3ae-133db5467041,402810,2428,Gateway Bank,Low Rate Essentials Investment Loan (LVR 85%-95%),5.63,0
+904a1588-3309-4c48-be7b-a0c8c99fcd45,349650,1700,Gateway Bank,Low Rate Essentials Home Loan (LVR 85%-95%),4.93,0
+9f24ee22-758a-4ac2-a68a-24af3cd96652,349630,932,Gateway Bank,Low Rate Essentials Home Loan (LVR 80%-85%),3.67,0
+4d1b1f2b-1888-4618-8092-21fb2264379f,18330,1829,Homeloans,MoniPower Home Loan (Principal and Interest) (LVR < 80%),4.14,0
+832e629e-440b-45e3-802a-6603d4c1e2d5,483440,428,Homestar Finance,"Variable Rate Home Loan (Principal and Interest) (Amounts < $750k, LVR < 70%)",3.49,0
+b7327b47-9cdb-4ddf-b016-842cf0937761,483860,4144,Homestar Finance,"Variable Rate Investment Loan (Principal and Interest) (Amounts < $750k, LVR 70%-80%)",3.79,0
+11bceefa-3b41-4099-a23e-14f4712c1b50,357700,266,HSBC,Home Value Home Loan (Principal and Interest),3.59,0
+20cfc6e1-aa8c-415a-9564-8a5b1ac21edb,16780,260,HSBC,Standard Variable Rate Home Loan,5.23,0
+7707bbc6-5928-430c-bdbc-76b542ef83d9,217850,3063,HSBC,Premier Home Smart Home Loan,4.48,0
+2ea41c27-4c48-4d3d-9a6b-55b0771a0384,24380,3064,HSBC,Premier Home Equity Home Loan,4.56,0
+f61f0691-9673-4351-9ccc-895fc7ed2ff7,177520,2438,Hunter United,Basic Variable Home Loan,4.55,0
+70f14a0e-600f-4fa1-8093-baad67eed73a,417790,2778,Illawarra Credit Union,Variable Investment Loan (Principal and Interest) ($250k+),4.7,0
+c8d5cf78-9e86-4c40-aa8a-4b6b7a0f5601,21350,812,Illawarra Credit Union,Variable Lite Home Loan (Principal and Interest),5.1,0
+5f17968a-0c5c-4ff6-8319-bb2966ac1db5,208532,1332,Commonwealth Bank of Australia,Wealth Package Fixed Rate Home Loan 2 Years,4.72,0
+80ba1b77-5b90-42cf-b732-44dbc9632a38,20640,131,Commonwealth Bank of Australia,Viridian Line of Credit,6.38,0
+1cf66184-4f39-45c5-8c34-99fb718c8feb,197830,867,Commonwealth Bank of Australia,No Fee Variable Rate Home Loan (Principal and Interest),4.52,0
+b83ccfed-0fba-4b87-95fe-302725315c64,18120,126,Commonwealth Bank of Australia,Introductory 12 Month Discounted Variable Home Loan (Principal and Interest),5.22,0
+31de895d-4f7e-464f-b708-05c5482f5c42,19410,127,Commonwealth Bank of Australia,Introductory 1 Year Guaranteed Rate Home Loan (Principal and Interest),5.22,0
+c016a224-1dd3-4b79-b83e-ad68fc50b903,20621,1301,Commonwealth Bank of Australia,Fixed Rate Home Loan 1 Year,5.22,0
+04f39af4-df0e-4a9b-a7c1-f9e377c5fc7e,20570,494,Commonwealth Bank of Australia,Economiser Home Loan (Principal and Interest),4.76,0
+d6880cad-df88-495c-94e8-f2143a46e721,23780,132,Commonwealth Bank of Australia,3 Year Special Economiser Home Loan (Principal and Interest),4.76,0
+f2f2d3cf-1f10-4869-8e68-c69d6916a1a2,450100,3160,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($400k-$700k, LVR 80%-90%)",4.64,0
+1c8f66ae-1b4f-4f3b-a301-e9e31535ea63,425570,4297,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) (Amounts < $150k, LVR 80%-90%)",5.08,0
+9c00b15f-634d-4274-a947-a76797fbb95d,450060,3665,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($700k+, LVR < 80%)",4.19,0
+bd7fc1ce-360f-43df-abe6-c8cf4aef4505,450020,2072,ME Bank,"Member Package Flexible Investment Loan (Principal and Interest) ($400k-$700k, LVR < 80%)",4.29,0
+c879a032-0f05-4e4a-b5f7-1756fd533716,450380,3674,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($700k+, LVR < 80%)",3.69,0
+315de39d-3e0e-4c51-a194-c012754b1f64,450590,3664,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($700k+, LVR 90%-95%)",5.18,0
+0ea7a840-9c6a-413a-a5f3-3c195cb7b8d2,450350,1859,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($400k-$700k, LVR < 80%)",3.69,0
+2d676918-c18c-4005-bdd0-c36ed46107b5,450410,3657,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) ($150k-$400k, LVR 80%-90%)",4.29,0
+1c1b2b7a-c848-42db-988c-4cf45f23ffb1,431130,3656,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) (Amounts < $150k, LVR 90%-95%)",5.18,0
+04fc5362-32f2-49ab-b1b8-3f3a180ee2c8,425580,4589,ME Bank,"Member Package Flexible Home Loan (Principal and Interest) (Amounts < $150k, LVR 80%-90%)",4.83,0
+7ccc940c-ed0e-4b09-8c33-2a770f2f3aa8,425631,45921,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 1 Year,5.79,6.09
+89d04c00-d965-4bdf-b64e-0c004a9b80a3,425634,45924,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 4 Years,5.79,6.09
+b7d7d98b-ac84-4692-9fac-4656fdccd2ff,425637,45927,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 7 Years,5.79,6.09
+c41d830b-5b0f-44c6-9d46-4a09908ad227,425633,45923,ME Bank,Flexible Investment Loan Fixed (Principal and Interest) 3 Years,5.79,6.09
+0d0b8c1f-a86b-4a60-ab37-a78a4160de4d,425540,3158,ME Bank,Flexible Investment Loan (Principal and Interest) (LVR 80%-90%),6.09,0
+7cd95e3b-44bd-4563-9ad5-71f5144325d9,425641,45911,ME Bank,Flexible Home Loan Fixed 1 Year (LVR < 90%),5.03,5.33
+b24fcb6b-1978-4be8-a0df-c47ca48d97f6,425643,45913,ME Bank,Flexible Home Loan Fixed 3 Years (LVR < 90%),5.03,5.33
+0892d875-fb48-400f-965f-9f8358dac430,425560,3157,ME Bank,Flexible Home Loan (LVR 80%-95%),5.33,0
+a8795d98-6406-4d23-9297-c971de21a941,375240,1856,ME Bank,Basic Home Loan (LVR < 80%),4.09,0
+d11b531a-db91-4015-a39b-795f44e42c55,413720,3778,Liberty Financial,Liberty Star Home Loan (LVR 70%-80%),4.34,0
+d504801e-5ba2-45b3-b682-0db684dd2b2c,413730,3777,Liberty Financial,Liberty Star Home Loan (LVR 60%-70%),3.99,0
+c4708901-0e38-478c-88c0-bb20775e5f6f,218900,1955,Liberty Financial,Liberty Sharp Home Loan (LVR 80%-95%),4.99,0
+bfd428cb-82e8-47f4-8261-d9e3d2300cd1,413740,1064,Liberty Financial,Liberty Sharp Home Loan (LVR 70%-80%),4.24,0
+da697164-5b3e-4a44-90d3-ebeee9426d2d,413860,3770,Liberty Financial,Liberty Free Home Loan (LVR 70%-80%),4.49,0
+8a07235e-07e7-4480-bc63-dcab362ec9e4,468410,4765,loans.com.au,Essentials Investment Loan (Purchase) (Interest Only),4.19,0
+4204f25a-247b-4d95-8168-43c081e9372d,529950,3826,loans.com.au,Essentials Home Loan (Purchase) (Interest Only),3.99,0
+b928aed3-075f-4308-b242-3c66db122f85,508030,4118,loans.com.au,Essentials Investment Loan (Purchase) (Principal and Interest),4.19,0
+72612b55-ff0d-4f90-9f9b-0f8bbd517011,344880,2126,Macquarie Bank,"Basic Investment Loan (Principal and Interest) ($750k+, LVR 70%-80%)",4.14,0
+ad4b5117-5c93-44bb-a9f6-579e7ea43a8b,347720,2119,Macquarie Bank,"Offset Package Investment Loan (Principal and Interest) ($750k+, LVR 70%-80%)",4.14,0
+6da9c4cb-b92f-43e2-a919-1f9b44a84cfb,347820,3457,Macquarie Bank,"Offset Package Home Loan (Principal and Interest) ($750k+, LVR < 80%)",3.79,0
+488e6ef6-6c0c-4921-b5c8-bd81c5dcf746,137770,4070,Macquarie Credit Union,Standard Variable Home Loan,4.99,0
+906710a2-4a03-4b35-b9a8-df0b1d8ac40a,167570,4068,Macquarie Credit Union,Basic Low Rate Home Loan,4.74,0
+83eb4101-3bc7-45e8-8b0e-676b20a6e369,515340,4113,Mortgage House, Advantage Home Loan (PAYG Special Cat 1) (LVR 70%-80%) ,3.64,0
+4cced22b-5438-46d7-a927-3df64198e937,405880,2323,MyState,Special Residential Investment Loan (Principal and Interest),4.49,0
+23889c5e-f10d-4d9a-8d6f-0b7085dbe75c,516040,2080,Newcastle Permanent,Premium Variable Investment Loan (Principal and Interest),5.57,0
+f7b87209-b0b6-4642-bba4-93a6d732ecd1,516060,4868,Newcastle Permanent,Premium Plus Package Variable Rate Investment Loan (Principal and Interest) ($500k-$750k),4.82,0
+0cbcd720-7bd9-4926-b05f-6f5423f42229,516080,4870,Newcastle Permanent,Premium Plus Package Variable Rate Investment Loan (Principal and Interest) ($900k+),4.67,0
+cb690cf2-841d-4c14-9576-10d021382ff8,229790,330,Newcastle Permanent,Real Option Home Loan (Principal and Interest),5.05,0
+a4304f43-88e1-455b-a0a6-95298ab1d0ed,23200,2082,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan (Principal and Interest) (Amounts < $500k),4.57,0
+cf024424-c272-4719-8648-e4bc1f4cf12c,141800,4600,Newcastle Permanent,Premium Plus Package Variable Rate Home Loan (Principal and Interest) ($750k-$900k),4.42,0
+492ab447-47a2-4a2c-942f-3652c760ac5b,24010,2768,Newcastle Permanent,Premium Plus Package Credit Facility Home Loan ($500k-$750k),5.05,0
+47ab757b-9348-41a9-9f06-4ae5f67efb43,24330,821,Newcastle Permanent,Premium Plus Package Credit Facility Home Loan (Amounts < $500k),5.1,0
+9c3276cc-5472-4596-848c-c4d022ef78c1,19380,878,People's Choice Credit Union,Standard Variable Home Loan (Principal and Interest),5.2,0
+5f27bb59-e57b-48b4-aa1d-8b966e6b6926,407690,2785,People's Choice Credit Union,Package Variable Investment Loan (Principal and Interest),5.15,0
+47dd86f1-f0e7-4dee-ac85-b02b0ccbbd99,16930,879,People's Choice Credit Union,Package Variable Home Loan (Principal and Interest) ($100k+),4.4,0
+b3c3c0e4-1811-47fe-a62e-d0d8824895d2,438710,876,People's Choice Credit Union,Line of Credit,6.1,0
+2e12ccba-ad4d-42d6-bdab-fff61f1d989d,21880,1820,People's Choice Credit Union,Basic Variable Home Loan (Principal and Interest),4.62,0
+34b0527e-f38e-487e-aa62-7f130c78cd66,431760,3441,QBANK,Standard Variable Invesment Loan,5.24,0
+bbe3a91a-be7e-4352-b70b-02e7845889dc,431740,3440,QBANK,Classic Plus Package Investment Loan (New Customer),4.39,0
+0b73a592-6c74-4969-91b1-a385bcd233f2,431730,3444,QBANK,Classic Plus Package Investment Loan (QLD only) ($250k+),4.64,0
+a36e0211-0cff-4250-ac8a-04ecc8fcc49b,312350,788,QBANK,Standard Variable Home Loan (QLD only),4.99,0
+5600125a-a25a-4b8c-ad65-3688fee9df42,411710,2654,QBANK,Classic Plus Package Home Loan (QLD only) (New Customer) ($500k+),4.09,0
+d797b007-db4f-47ea-8c3f-d6c7da9c1355,470040,3993,QBANK,Classic Investment Loan Special Offer (New Customer) (LVR 80%-95%),4.54,0
+388924a9-d6b3-45a9-bb3e-da91334c1846,470090,3991,QBANK,Classic Home Loan Special Offer (QLD only) (New Customer) (LVR 90%-95%),4.35,0
+0e1c3574-7c29-4005-9d49-fadf5f6a0f42,470080,3990,QBANK,Classic Home Loan Special Offer (QLD only) (New Customer) (LVR 80%-90%),4.1,0
+ca2262f6-4fb5-44d5-a5bb-f760b00665f1,430740,3371,RAMS,"Value Advantage Package Full Feature Investment Loan (Principal and Interest) ($250k-$500k, LVR 80%-95%)",4.98,0
+adc17891-9777-4b9d-95d2-7901f6a6f0c5,430690,3368,RAMS,"Value Advantage Package Full Feature Investment Loan (Principal and Interest) ($150k-$250k, LVR 80%-95%)",5.13,0
+c6f8be55-5ac7-4a76-aaec-b51a3969761b,430210,3364,RAMS,"Low Rate Home Loan (Investor, Principal + Interest)",4.88,0
+194a0297-9e44-42b3-8b77-a9dbf2241bfa,19530,984,RAMS,Low Rate Home Loan (Principal and Interest),4.37,0
+a2ae03ea-eb56-48d6-aaca-da13012a3379,19560,987,RAMS,Full Feature Home Loan (Principal and Interest),5.27,0
+af9d15e9-802f-408b-9cc4-49dd9e8d2150,24160,1518,RESI Mortgage Corp,"Smart Pro Home Loan ($200k+, LVR 90%-95%)",4.39,0
+0ae71721-33fb-4085-a44b-ad99e17fcea5,449820,4885,Endeavour Mutual Bank,Family Helper Home Loan,4.24,0
+203cfe9b-3445-48e8-8edb-478d86354c2c,21770,5013,Endeavour Mutual Bank,Mortgage Line of Credit,4.89,0
+15d71395-86eb-425e-8e89-fcfbec01fcb4,399960,2358,St.George Bank,Advantage Package Variable Investment Loan (Principal and Interest) ($100k-$150k),5.53,0
+0739d2ce-2f28-4eb0-b35b-b6f1ffea0702,443720,223,St.George Bank,Basic Home Loan (Principal and Interest) (New Customer),3.68,0
+7b5b8022-ee4b-4439-98d4-34b94161b414,443730,2003,St.George Bank,Basic Investment Loan (Principal and Interest) (New Customer),4.19,0
+146615a0-ab13-4b88-a5c5-c1473229786b,399950,2356,St.George Bank,Standard Variable Investment Loan (Principal and Interest),5.78,0
+1e6f821d-9971-4f36-8fb5-1e644d2f2c15,512990,4355,State Custodians,Line of Credit Investment Loan (LVR 80%-90%),4.24,0
+1be2bac7-6f1a-4b63-a5b4-52dc1116ac96,492990,4352,State Custodians,Line of Credit Home Loan (LVR < 80%),3.79,0
+ca009635-cf53-4819-863d-f6bf60a4a2c8,483800,3701,Suncorp Bank,Personal Purpose Back to Basics Special (Principal and Interest) (LVR 90%-95%),3.93,0
+e2b473f9-4ccc-4d5d-ba5f-81de835a7bb8,385860,3707,Suncorp Bank,Personal Purpose Back to Basics,5.02,0
+b6659e21-272a-484c-a477-2289d47912c8,350580,2460,Suncorp Bank,Investment Back to Basics (Principal and Interest),5.44,0
+b1e7528a-5b40-460a-9a01-cd973ef07922,517680,2018,Suncorp Bank,Home Package Plus Investment Variable Special (Principal and Interest),4.19,0
+01c48737-ce1c-415e-a64b-f430ada8897c,312070,1130,Suncorp Bank,"Home Package Plus Personal Variable (Principal and Interest) ($150k+, LVR < 80%)",4.35,0
+a5ea7060-7ed2-4bbc-81c4-28b68315f7dd,404420,2465,Suncorp Bank,"Home Package Plus Investment Variable (Principal and Interest) ($150k+, LVR < 80%)",4.92,0
+da39057b-949e-4ad4-a425-42de936f1bce,17970,605,Teachers Mutual Bank,Flexi Choice Home Loan,5.36,0
+c6fe092e-fbda-40b9-8d46-7be85de278a1,476180,4074,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 80%-90%)",4.39,0
+84beed80-2f56-410d-9b87-702871025f99,476150,4073,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 80%-90%)",4.84,0
+119bceb1-898d-4d92-9b28-711967a848e0,476250,1809,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 90%-95%)",4.7,0
+c95fb207-ef41-4b56-b31c-5d81b4a72f41,476200,4083,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 60%-80%)",3.89,0
+2047fc09-deab-4eb7-b211-5978a6198e51,358420,4092,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR < 60%)",3.89,0
+ed34bf1e-2f19-4af9-9cff-f1f8d3c5c74e,176240,4090,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR < 60%)",3.79,0
+655e7dbd-7aa6-4e54-a0d4-b5f8506689c2,358400,4091,Teachers Mutual Bank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR < 60%)",3.89,0
+78d449bd-2d37-467e-b111-a6973b755640,18440,606,Teachers Mutual Bank,My First Home Loan,4.91,0
+9d771e89-c752-4151-a084-4c6791ef5eab,413940,729,The Rock Building Society,Standard Variable Home Loan (Principal and Interest),5.73,0
+267f8473-70d4-47ec-a0ba-832e39e6f801,291790,1316,The Rock Building Society,Essentials Home Loan (Principal and Interest) (LVR < 80%),3.99,0
+df1f3c2e-0df9-4dcd-a957-ceef7b86c71b,425780,3013,UniBank,Flexi Choice Investment Loan,5.36,0
+46bc7f0f-b909-4e67-ba8b-502a9badcec5,476650,4095,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR < 60%)",3.89,0
+f5b484b5-3bb4-4b9e-ba58-05d8fe7359ae,476590,4094,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR < 60%)",3.79,0
+7c7bfd9c-ee68-4d08-91dd-076a74cb9928,476550,4077,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($150k-$250k, LVR 80%-90%)",4.84,0
+ac136892-666a-4b4c-9a3a-1548023b1304,395090,2447,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 90%-95%)",4.7,0
+fab71ba0-823c-49f5-9375-ba5e4236b6bc,476680,4088,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 60%-80%)",3.89,0
+7a91e349-bdfe-4a3c-b432-710cf1ec5159,476630,4079,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($500k-$750k, LVR 80%-90%)",4.34,0
+47c240e0-e76a-4ff2-8eaa-c758eeb8d6d3,476700,4080,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($750k+, LVR 80%-90%)",4.27,0
+b9fc902f-bb19-4a0e-84e4-ba465e683694,476560,4086,UniBank,"Solutions Plus Home Loan (Principal and Interest) ($250k-$500k, LVR 60%-80%)",3.89,0
+892829d6-1bd9-4b5f-9f12-9463343e4339,425770,2859,UniBank,Classic Home Loan,3.65,0
+ca97cd41-af07-468e-88f5-ef17068a67b0,409600,2729,Bank First,Standard Variable Investment Loan (LVR < 80%),5.19,0
+ed5492af-3635-451a-8850-9c382ab9a115,409590,2984,Bank First,Standard Variable Home Loan (LVR 80%-95%),4.89,0
+c1570282-5e94-426f-9352-7358379fd240,411760,2701,Bank First,Premier Package Investment Loan (LVR < 80%),4.39,0
+88b61db0-f79f-4c1a-bdaa-0b09aa976107,411750,1786,Bank First,Premier Package Home Loan  (LVR 80%-95%),4.09,0
+73d97d3d-5caf-4936-967c-49013c297232,412150,2988,Bank First,Complete Home Loan (LVR 80%-95%),4.19,0
+b969b4c8-0573-4083-964f-eff5832d0798,220960,3754,Westpac,Premier Package Rocket Repay Home Loan (Interest Only) ($750k+),4.93,0
+e7cb0d23-f755-47eb-8495-a48681ba6743,220940,3866,Westpac,Premier Package Rocket Repay Home Loan (Interest Only) ($500k-$750k),4.98,0
+e98b10ba-43d7-4b0b-a464-722fc1a56103,221000,3749,Westpac,Premier Package Rocket Investment Loan (Interest Only) ($150k-$250k),5.7,0
+51fd6d17-4029-4db1-9563-8d07c0ed7f83,458410,3502,Westpac,Flexi First Option Investment Loan (Interest Only),5.65,0
+54c98b2d-62c9-4f99-b700-a457203eaff0,220970,3741,Westpac,Rocket Repay Home Loan (Interest Only),5.83,0
+6fdd456b-e57b-47c9-875a-9f83ffe23445,17240,81,Westpac,Rocket Repay Home Loan (Principal and Interest),5.24,0
+5b9ac401-e3dc-4814-92db-8edd60ebc693,220950,1201,Westpac,Premier Package Rocket Repay Home Loan (Principal and Interest) ($750k+),4.34,0
+d034beb3-1c8b-4a94-89af-9745ee88334b,220920,96,Westpac,Premier Package Rocket Repay Home Loan (Principal and Interest) ($150k-$250k),4.64,0
+44d117c2-39e1-4480-9961-8cf69f5fe4c4,221030,1239,Westpac,Premier Package Rocket Investment Loan (Principal and Interest) ($750k+),4.89,0
+9fdc8189-734f-4f63-a0fd-8791ff7ee48a,221020,3868,Westpac,Premier Package Rocket Investment Loan (Principal and Interest) ($500k-$750k),4.94,0
+d30c9a34-5bf4-407a-9d77-b86880dab084,19820,91,Westpac,Equity Access,6.42,0
+97e19866-eed0-436c-91d1-feb41c7e41d8,512160,808,Bank of us,FlexiDiscount Home Loan (LVR 80%-90%),4.09,0
+40c6af23-67fa-4531-b63b-70dab826b6f9,419600,3040,Bank of us,FlexiChoice Investment Loan (LVR 90%-95%),5.52,0
+49c6263f-8edb-4995-9ddf-911e7853ee71,419520,4106,Bank of us,Topline Investment Loan (LVR 90%-95%),5.09,0
+8cac049c-6bc1-4b7e-a836-df05ca5b513d,419560,4879,Bank of us,Topline Investment Loan (LVR < 80%),4.69,0
+191d3b9a-c054-4cf4-a3e7-d47af5ed9925,54970,4105,Bank of us,Topline Home Loan (LVR 90%-95%),4.29,0
+f45bf072-fe43-4229-a7dc-b341cd39cf1a,424040,3505,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($750k+, LVR < 80%)",3.64,0
+c115aa1a-3421-45a5-ab23-dca45bc19c06,424100,3524,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($750k+, LVR 90%-95%)",4.84,0
+b8f3ad84-982b-4994-8c55-8ca216aea29f,424030,3504,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($500k-$750k, LVR < 80%)",3.68,0
+49be69c1-1813-46eb-a0c6-dba5c41d5721,424070,3521,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($750k+, LVR 80%-90%)",3.99,0
+34449648-a297-4f10-9f5d-e302a4f2c719,424080,3522,Virgin Money,"Reward Me Home Loan (Principal and Interest) ($75k-$500k, LVR 90%-95%)",4.84,0
+95ff922d-7e8b-4193-83fc-7c8a9f7c954e,424120,3526,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($500k-$750k, LVR < 80%)",3.99,0
+95d10703-0221-44b7-96b7-7efd64ae88e9,424130,3527,Virgin Money,"Reward Me Investment Loan (Principal and Interest) ($750k+, LVR < 80%)",3.89,0
+be504b4d-f66b-49c8-aafa-c14ae58bbf35,419480,3462,Bank Australia,Premium Investment Loan (Principal and Interest),5.17,0
+fa0340d9-6b8a-45e8-a520-6fe9d2fb91e2,419500,2863,Bank Australia,Package Premium Investment Loan (Principal and Interest) ($100k-$400k),4.97,0
+25b82347-acb2-4c30-bfc2-60c98ed7e5ac,419510,2864,Bank Australia,Package Premium Investment Loan (Principal and Interest) ($400k-$700k),4.87,0
+2a2308d2-3154-42fe-a916-6553af547921,479330,1374,Bank Australia,"Package Premium Home Loan ($100k-$400k, LVR < 80%)",4.02,0
+3e6a7d36-f654-4084-bfd7-f2eac59b1bf1,20680,3728,Bank Australia,"Package Premium Home Loan ($400k-$700k, LVR 80%-95%)",4.17,0
+0425ccc2-f693-41ce-ad43-c69898a4415f,238490,3729,Bank Australia,"Package Premium Home Loan ($700k+, LVR 80%-95%)",4.07,0
+7490d82a-69dc-42b2-a0b7-40a05e3f4cee,500310,254,Bank Australia,Basic Investment Loan (Principal and Interest),4.87,0
+26f6bf8e-b03e-44f4-8746-6a874c63332c,506560,4757,Bank Australia,Basic Home Loan Special (LVR < 80%),3.65,0
+913d6444-15dd-4d4c-b8ce-f7946e33cee2,489860,4277,Commonwealth Bank of Australia,3 Year Special Economiser Investment Loan (Interest Only),5.78,0
+f262249b-6746-4003-9b4d-1094f6730d29,489890,4284,Commonwealth Bank of Australia,Economiser Investment Loan (Interest Only),5.78,0
+fd649fb0-31b5-4edf-a840-7a47b0766c67,489900,4285,Commonwealth Bank of Australia,No Fee Variable Rate Investment Loan (Interest Only),5.54,0
+e982adbb-0fd0-4a33-8311-c1f6b6465ad3,516760,4374,Community First Credit Union,Standard Variable Home Loan (Interest Only),5.52,0
+12a10fb6-c0b7-44a4-a34f-c6a6380ad961,516770,4366,Community First Credit Union,Basic Variable Home Loan (Interest Only) (LVR < 80%),4.45,0
+0892aae4-b35e-4ab5-ab9f-02541a9a071e,492930,4346,State Custodians,Low Rate Home Loan with Offset (Principal and Interest) (LVR < 80%),3.54,0
+62681318-5805-429b-82bc-3313b0d27fc6,492950,4348,State Custodians,Low Rate Home Loan with Offset (Principal and Interest) (LVR 90%-95%),3.94,0
+cfc6a445-43ac-4035-8ad7-5daf1414e869,492970,4350,State Custodians,Low Rate Investment Loan with Offset (Principal and Interest) (LVR 80%-90%),3.99,0
+76a8e5fd-2da1-4179-831c-986a904bee46,494850,4399,Bank Australia,Premium Investment Loan (Interest Only),5.37,0
+0cf0df6d-7f40-4464-8a7d-eb480d123562,494900,4400,Bank Australia,Package Premium Investment Loan (Interest Only) ($100k-$400k),5.17,0
+1e697d2d-d952-4513-b1da-c794bd7cbd55,497450,4322,ANZ,Standard Variable Home Loan (Interest Only),5.75,0
+43ae05bc-74e0-4b31-a6b8-4737a3f9f34d,497500,4323,ANZ,Standard Variable Investment Loan (Interest Only),6.26,0
+dfde041b-c391-4e04-937f-0180d684ffa4,498150,4478,Suncorp Bank,"Home Package Plus Personal Variable First Home Buyer Special (Principal and Interest) ($150k+, LVR < 95%)",3.79,0
+15961428-d195-43c3-9a1f-3b5135545ba8,489660,4304,Commonwealth Bank of Australia,Introductory 1 Year Guaranteed Rate Home Loan (Interest Only),5.22,0
+bad69923-1738-4152-b192-2bcc4f5a1632,489840,4274,Commonwealth Bank of Australia,Introductory 1 Year Guaranteed Rate Investment Loan (Interest Only),5.8,0
+508e502c-4932-4a8a-88a4-6ee44fe1b035,499510,4004,CUA,Kick Start 2 Year Introductory Variable Home Loan,3.99,0
+644b811a-e3a4-47f7-8283-c8350982f6ae,499420,4565,MOVE - People Driven Banking,Straightforward Home Loan,3.59,0
+68a1feba-3f30-4033-b079-631a55b115cc,407680,2787,People's Choice Credit Union,Basic Variable Investment Loan (Principal and Interest) (New Customer),5.07,0
+bd2898bd-ee15-4643-aa0a-31de6b85ca5f,500230,4622,Virgin Money,"Reward Me Home Loan (Interest Only) ($500k-$750k, LVR < 80%)",4.34,0
+541ef7e2-e0a0-47c1-aaa2-90e8b9316086,501290,4640,ING,"Mortgage Simplifier Home Loan (Interest Only) ($150k-$500k, LVR < 80%)",4.13,0
+0aa0c4e2-724f-46b8-89c3-cbb771a6d1c8,515260,4971,ING,"Mortgage Simplifier Home Loan (Interest Only) ($1m+, LVR < 80%)  ",4.09,0
+b55a16e2-673e-4b64-b777-90883e416ae5,505240,4687,ING,Mortgage Simplifier Investment Loan (Interest Only) ($150k+),4.69,0
+b5dcb124-31ba-4e07-8ca9-dc79cf5c9925,505260,4689,ING,"Orange Advantage Investment Loan (Interest Only) ($150k-$500k, LVR<80%)",4.64,0
+b9b3dae7-b1e0-4e09-8c5a-e69b5a4a1e34,507380,4548,Bank of Queensland,Standard Variable Rate Investment Loan (Interest Only),6.58,0
+5955143c-e033-4ed9-bedc-7aa62238bd83,507480,4547,Bank of Queensland,Standard Variable Rate Home Loan (Interest Only),6.01,0
+62c141d8-19ed-46c8-b33f-fb22553de7c2,504080,4650,P&N Bank,& Investor Loan (Interest Only),4.39,0
+aad60a77-5769-426c-9f80-8cf4e73da120,524030,4451,Adelaide Bank,SmartFit Investment Loan (Interest Only) (LVR < 90%),5.04,0
+6d958406-95ba-478f-b9e3-e700496f0857,524010,4454,Adelaide Bank,SmartSaver Investment Loan (Interest Only) (LVR < 90%),4.99,0
+a2ff4328-946b-4b1e-a0d2-90396ce093c0,518040,5054,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($700k+) (LVR 80%-90%),4.94,0
+ca92e4c2-b9f0-4185-9ad6-1bff5ba992e3,518020,5053,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($150k-$250k) (LVR 80%-90%) ,5.04,0
+ee351161-de6e-414d-84e4-25838d5f9766,510300,4813,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($700k+) (LVR <80%) ,4.74,0
+99bce721-5ab6-4bb1-859f-c90509738001,485310,4344,Bananacoast Community Credit Union,OMG Investment Loan (Principal and Interest),4.09,0
+e7d1d9ba-e377-4763-87a5-d1f022011ce1,507460,4551,Bank of Queensland,Privileges Package Variable Rate Home Loan (Interest Only) ($1m+) ,5.11,0
+7789ae37-0a05-4851-8a65-1456a852fb41,507320,4552,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Interest Only) ($150k-$250k),6.08,0
+31f59b46-d936-4457-a4d2-d541fc25d11d,507360,4553,Bank of Queensland,Privileges Package Variable Rate Investment Loan (Interest Only) ($250k-$1m) ,5.73,0
+25e2eb21-4f24-4dc2-8b14-e5965f8920e2,485350,4231,RESI Mortgage Corp,Flexi Options Investment Loan (LVR < 80%) ,4.51,0
+035957ed-2cf5-4b71-aec4-0646f6b3edeb,512820,4905,State Custodians,Low Rate Home Loan with Offset (Interest Only) (LVR < 80%),3.79,0
+8d52b028-dac2-4998-bafa-7094f9d2f9d5,512900,4909,State Custodians,Low Rate Investment Loan with Offset (Interest Only) (LVR 80%-90%),4.24,0
+0410417b-fa3a-4c58-bbef-b36cffddde24,217720,4952,RACQ Bank,Choices Mortgage Breaker Home Loan (QLD only) ($150k-$250k),4.59,0
+dd676419-8e3f-4592-9e46-5bce612a1ebb,339160,4954,RACQ Bank,Choices Mortgage Breaker Home Loan (QLD only) ($500k+),4.09,0
+7426a1f9-3127-4b8c-b4cb-62796638ea37,218650,4949,RACQ Bank,Mortgage Breaker Investment Loan (QLD only),5.45,0
+78b60623-bb67-4b44-b5c2-9153bcde80c4,339100,4956,RACQ Bank,Choices Mortgage Breaker Investment Loan (QLD only) ($250k-$500k),4.65,0
+aae3adbf-ec1b-4953-b44e-0216b7bd5e65,521670,5156,RACQ Bank,Mortgage Breaker Investor Special – Choices Package (QLD only) ($150k+),4.19,0
+68eba753-6292-4a60-9768-8139c5e9e7a8,514620,4942,The Rock Building Society,Basic Variable Home Loan (Principal and Interest) (LVR <80%),3.79,0
+6ad5140f-3463-41a0-b421-2128312c4224,514660,4944,The Rock Building Society,Basic Variable Home Loan (Principal and Interest) (LVR 90%-95%)  ,4.66,0
+7c5d38f8-dcce-4892-a965-a82674f35150,517590,5029,Suncorp Bank,Investment Purpose Standard Variable (Interest Only),6.49,0
+0c293f4f-7d29-45ca-b9ed-bc28e5790eef,517220,5038,Suncorp Bank,"Home Package Plus Personal Variable (Interest Only) ($150k+, LVR < 80%)",4.52,0
+526a098f-2f08-4205-9515-54d3d3079f1d,517510,4479,Suncorp Bank,"Home Package Plus Personal Variable First Home Buyer Special ($150k+, LVR < 90%)",3.89,0
+fb313693-3d60-4159-b3cc-19e51087757f,517150,5045,Suncorp Bank,"Home Package Plus Investment Variable (Interest Only) ($150k+, LVR 80%-90%)",5.74,0
+f7dd6f07-b0b4-43fd-9748-ad31b7b1390e,428460,5097,Mortgage House,Advantage Home Loan Special (LVR < 95%),4.09,0
+b05426b0-9cf3-4720-81f4-edc73146f2a8,521140,5135,Qudos Bank,No Frills Home Loan,3.69,0
+6fc41b9f-78d0-4a7d-ad5e-5387a35e1f23,523320,5174,Bank of Queensland,Economy Home Loan (Interest Only),4.29,0

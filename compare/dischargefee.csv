@@ -1,0 +1,128 @@
+﻿rc_id,if_id,mz_id,company,variationname,rc_value,other_value
+2bdca23a-9a44-4e66-8931-2ac1e9c25701,412400,2874,Heritage Bank,Standard Variable Investment Loan,200,250
+ab18fe87-f6bd-4ed2-b0fc-2dbed1a8d8f2,21150,39,Heritage Bank,Living Equity,200,250
+727dd799-95f4-4b72-9cf4-60aa29644527,393470,2065,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($250k-$700k) (LVR <80%),200,250
+aaf8a760-95f6-49de-8013-224658f70e9b,517980,5049,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($150k-$250k) (LVR 80%-90%) ,200,250
+e62977ee-eb5b-423d-b534-2bb300936a80,518000,5051,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($700k+) (LVR 80%-90%) ,200,250
+71b8bfc5-2b83-48eb-9802-41aa984ea66c,388620,1910,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR<80%),200,250
+1ab8abeb-670f-4a8e-8fb3-14f34a206f9a,513220,4892,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR 80%-90%),200,250
+6546b3e1-f0ea-486a-b5f0-8de83595b58e,513240,4893,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR 80%-90%),200,250
+0d66e9f5-6e0b-40bd-b661-dbaa806da39a,513260,4894,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR 80%-90%),200,250
+0dd2239b-06ca-4390-8760-41968958bff7,388590,1911,Heritage Bank,Home Advantage Living Equity Home Loan ($700k+),200,250
+dfb85014-0f54-48d3-bcd3-6f634eeed98e,25140,1904,Heritage Bank,Home Advantage Living Equity Home Loan ($150k-$250k),200,250
+b9870593-8d73-4c3e-ae77-a7799bfd128a,18191,19091,Heritage Bank,Home Advantage Fixed Home Loan 1 Year,200,250
+4258dfc9-4a24-4055-a62a-1a982af1c61e,18195,19095,Heritage Bank,Home Advantage Fixed Home Loan 5 Years,200,250
+1bf1d670-7ac9-40f2-a8ae-4c5e66b24fbb,18185,335,Heritage Bank,Fixed Rate Home Loan 5 Years,200,250
+8fdc93d8-8c13-44b3-89dd-f61ae00b2684,18182,332,Heritage Bank,Fixed Rate Home Loan 2 Years,200,250
+359dc808-594c-4c99-b482-d74ad05dd932,390135,22805,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 5 Years,400,535
+81ff5c3a-e1f7-4792-a1ae-fef92d540cfe,390132,22802,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 2 Years,400,535
+1358efd7-d4e2-4125-9fd7-54676155628d,390133,22803,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 3 Years,400,535
+cad874ce-d3dd-49a6-9c98-a28ceb98ba29,238995,15405,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 5 Years,400,535
+946ff986-ef8f-4e36-b60f-1bb4b546e417,238991,15401,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 1 Year,400,535
+d8354146-32b7-404c-a146-b37ffdca0649,413230,2879,Bankwest,Mortgage Shredder Investment Loan (Principal and Interest),164,338.20
+1f7627d0-854d-4164-af6f-ec6a2ff8c654,18585,20525,Bankwest,Fixed Investment Loan (Principal and Interest) 5 Years,164,338.20
+4b4c1cba-cbe9-4e76-a0a3-5a8024b0d413,18581,20521,Bankwest,Fixed Investment Loan (Principal and Interest) 1 Year,164,338.20
+514d775c-c2f7-4c23-b813-572a3c436038,18582,20522,Bankwest,Fixed Investment Loan (Principal and Interest) 2 Years,164,338.20
+1656736b-ec3e-438d-abfb-27d35a52a803,393105,1155,Bankwest,Fixed Home Loan (Principal and Interest) 5 Years,164,338.20
+50ba65b1-301d-4567-8e27-9601739e7f2c,393104,1154,Bankwest,Fixed Home Loan (Principal and Interest) 4 Years,164,338.20
+5c4f3721-8e41-4f31-bb1a-7e374533f83a,471333,22533,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (New Customer) 3 Years,150,320
+22baeaba-4f87-40a9-b8a6-4a889525497d,451503,22503,Bank of Queensland,Standard Fixed Rate Investment Loan (New Customer) 3 Years,150,320
+6b75c925-ce16-485d-a423-9596444387d7,471343,18923,Bank of Queensland,Privileges Package Fixed Rate Home Loan (New Customer) 3 Years,150,320
+2a04d443-7cd7-4e8d-a88e-790470f4cbfa,17010,42,Bank of Queensland,Standard Variable Rate Home Loan (Principal and Interest),150,320
+7b3cbff5-f99e-466f-a401-a3222bc22949,397265,22525,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 5 Years,150,320
+80543fd1-6cdd-4d97-86e7-465197c4ef9e,397263,22523,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 3 Years,150,320
+48c096a5-6d95-4a5a-a047-29fc8a1ea863,437543,18613,Bank of Queensland,Standard Fixed Rate Home Loan (New Customer) 3 Years,150,320
+b171b240-2f50-467d-a33c-c3f0d28f6e55,20781,441,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 1 Year,150,320
+d3cf75ad-bef5-4ad6-9951-2980bcd40079,20784,444,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 4 Years,150,320
+970185ad-1423-484f-8725-ae31cf962ee9,397532,22572,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 2 Years,150,320
+b596ad59-873f-4189-a609-968ef92cc697,397531,22571,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 1 Year,150,320
+9fc4be93-5790-420d-9dae-c76de433a412,217321,2211,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Principal and Interest) 1 Year,150,320
+3154416e-abcf-46a8-a743-de81a982a914,428150,3203,Bank of Queensland,Line of Credit Investment Loan,150,320
+d06ae262-63a2-497b-bd19-917f095627a8,397240,2245,Bank of Queensland,Economy Investment Loan (Principal and Interest),150,320
+498f9623-bf3e-40be-a1c9-edcb45722755,402990,3004,Bank of Queensland,Clear Path Variable Rate Investment Loan (Principal and Interest),150,320
+7c11b437-bd08-4a7a-b064-12dfb5e82392,423120,1396,Bank of Queensland,Clear Path Line of Credit Investment Loan,150,320
+2c7a5c77-7e8e-43a3-995c-bd98fbd468c4,489810,2238,Commonwealth Bank of Australia,No Fee Variable Rate Investment Loan (Principal and Interest),350,0
+006cadda-ba1a-4a94-b6ea-e58c7e640e73,135480,4066,Macquarie Credit Union,Introductory Rate Home Loan,200,0
+e30fe322-effc-4af0-ad6c-1bcc35ea3a6f,167580,5014,Macquarie Credit Union,First Home Buyer's Home Loan,200,0
+5e841ee8-e65e-4de5-9a0d-996fb993a427,489720,4315,Commonwealth Bank of Australia,No Fee Variable Rate Home Loan (Interest Only),350,0
+a7150057-2943-4610-9a73-6618e1848cc4,507150,4544,Bank of Queensland,Clear Path Variable Rate Home Loan (Interest Only),150,320
+8edc1ca5-4e6b-47bb-9057-a7ad4f2e1cb4,507160,4545,Bank of Queensland,Clear Path Variable Rate Investment Loan (Interest Only),150,320
+237a8ccd-7d09-4ba5-b996-eb350b59067e,507200,4546,Bank of Queensland,First-Start Home Loan (Interest Only),150,320
+aef9fb71-aea9-44f9-aea6-a9955b814c70,507221,45561,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 1 Year,150,320
+81fadd22-7ec9-4d2c-81bd-26abfc364b7f,507223,45563,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 3 Years,150,320
+e203e36a-b981-49a0-8535-0e48151ad558,507225,45565,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 5 Years,150,320
+971ff3bc-65fc-488d-b14d-4c512d502d7c,518030,5052,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($250k-$700k) (LVR 80%-90%) ,200,250
+f7417458-f3db-466a-a9a7-b68a1c586438,510280,4811,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($150k-$250k) (LVR<80%),200,250
+660c897a-a0e9-404e-854b-a3f61fe3aba7,510290,4812,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($250k-$700k) (LVR <80%)  ,200,250
+22db63d4-d14e-4135-824a-f488b002debf,510262,48142,Heritage Bank,Fixed Rate Investment Loan (Interest Only) 2 Years ,200,250
+02ab1e0b-81a4-4a50-ad91-1eb8c03405a7,510265,48145,Heritage Bank,Fixed Rate Investment Loan (Interest Only) 5 Years ,200,250
+17546166-cdf6-458c-8898-e2f064815495,507275,45625,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 5 Years ,150,320
+e7e5866c-ab88-46b4-a767-9d0d914a46df,507271,45621,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 1 Year,150,320
+08063e51-ca7d-4bcd-8a0b-6977f583ae54,507273,45623,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 3 Years ,150,320
+915f64a6-3c76-42c1-a27f-bf12e7adcbea,507574,45584,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 4 Years ,150,320
+2bc2752b-7d35-41a4-8c43-358b0937a372,507571,45581,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 1 Year ,150,320
+cfb8f97d-4fd3-4c99-8881-073af9ba0634,523330,5173,Bank of Queensland,Economy Investment Loan (Interest Only),150,320
+8dcde4af-5da2-4781-ada4-ae061a6021d8,348540,1652,Bananacoast Community Credit Union,OMG Home Loan (Principal and Interest),0,395
+c259c00b-1463-4edb-97bc-eb123b7afb6c,75900,40,Heritage Bank,Standard Variable Home Loan,200,250
+83d87e7c-ab6a-445a-ae1e-82fcc8064709,393460,2064,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($150k-$250k) (LVR<80%),200,250
+2d847a68-853c-45f6-8d6a-4492edb43cbf,393480,2066,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($700k+) (LVR <80%),200,250
+d9c7d4b9-ab5d-445c-bcb0-46d9f67c39da,517990,5050,Heritage Bank,Home Advantage Variable Investment Loan (Principal and Interest) ($250k-$700k) (LVR 80%-90%) ,200,250
+28da0624-ada5-450c-81d5-3edff1586516,18810,1903,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR<80%),200,250
+90cc5c12-6106-44b8-a346-6094cb53b281,388610,1907,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR<80%),200,250
+713a9618-4362-4136-a2c9-9b652c7b201a,513230,4889,Heritage Bank,Home Advantage Variable Home Loan ($150k-$250k) (LVR 90%-95%) ,200,250
+e6c63ebf-d7bb-40c4-903d-a964c337c2a4,513250,4890,Heritage Bank,Home Advantage Variable Home Loan ($250k-$700k) (LVR 90%-95%),200,250
+da82b581-d2e5-4c91-9264-f6fc6300850c,513270,4891,Heritage Bank,Home Advantage Variable Home Loan ($700k+) (LVR 90%-95%) ,200,250
+a3955be2-0817-4ce3-b0ef-018bfad9561a,388550,1908,Heritage Bank,Home Advantage Living Equity Home Loan ($250k-$700k),200,250
+38cf8cb8-fb5f-4a44-aaed-523bf2a35034,18192,19092,Heritage Bank,Home Advantage Fixed Home Loan 2 Years,200,250
+3fa85654-9e97-4ef9-b56b-3cb4395a0573,18193,19093,Heritage Bank,Home Advantage Fixed Home Loan 3 Years,200,250
+571d8386-0827-4b4e-8ec5-69847bfcdf35,18181,331,Heritage Bank,Fixed Rate Home Loan 1 Year,200,250
+1c8035e4-0431-4cf8-8141-48d52c5e2d02,390131,22801,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 1 Year,400,535
+71b79449-1a63-40d6-bb83-9cde67c142f0,390134,22804,Aussie,Select Standard Investment Loan Fixed (Principal and Interest) 4 Years,400,535
+06f02433-0042-4d42-ac5c-023fd03655c4,238994,15404,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 4 Years,400,535
+be0b896f-249f-4b7f-a45b-a87a2f663cb9,238992,15402,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 2 Years,400,535
+8d29cf78-d4ec-47fe-ad78-29ea3ddf9987,238993,15403,Aussie,Select Standard Home Loan Fixed (Principal and Interest) 3 Years,400,535
+f1622df3-0252-42b5-97d4-3296b24365f7,19440,116,Bankwest,Mortgage Shredder Home Loan (Principal and Interest),164,338.20
+6f8235e1-6cca-4858-9be2-645a1d6297e3,18583,20523,Bankwest,Fixed Investment Loan (Principal and Interest) 3 Years,164,338.20
+c811d5a1-53e2-449a-bdaa-1cfe1271f5a4,18584,20524,Bankwest,Fixed Investment Loan (Principal and Interest) 4 Years,164,338.20
+97e7ce1f-cbcc-490e-9157-16c6dd3dc344,393101,1151,Bankwest,Fixed Home Loan (Principal and Interest) 1 Year,164,338.20
+922e4bec-87fa-4648-8196-495cf8078d26,393102,1152,Bankwest,Fixed Home Loan (Principal and Interest) 2 Years,164,338.20
+3c57bd98-7bee-408a-8ed4-169fd1ff5a31,393103,1153,Bankwest,Fixed Home Loan (Principal and Interest) 3 Years,164,338.20
+5826ec5a-cb6a-49b7-b22d-9fe770103d19,507392,22502,Bank of Queensland,Standard Fixed Rate Investment Loan (New Customer) 2 Years,150,320
+52ed4802-3e34-49ed-9c20-9b2e84cdd4bb,23100,48,Bank of Queensland,Line of Credit Home Loan,150,320
+9dd3a5ff-125c-4a63-a1e7-d49d3230fe97,507422,18922,Bank of Queensland,Privileges Package Fixed Rate Home Loan (New Customer) 2 Years,150,320
+a39313c6-66fa-4101-b3eb-46b741e2fc1f,397370,2244,Bank of Queensland,Standard Variable Rate Investment Loan (Principal and Interest),150,320
+44959693-5d5a-49b2-a000-32f06a214984,397262,22522,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 2 Years,150,320
+4cda1d2e-2635-4fed-97b8-0446f6b71660,397261,22521,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 1 Year,150,320
+cbdf53c1-765f-4058-93f4-1e09022c875b,397264,22524,Bank of Queensland,Standard Fixed Rate Investment Loan (Principal and Interest) 4 Years,150,320
+aba579d3-17cc-4b6f-88be-bb9c00e9ced6,507412,18612,Bank of Queensland,Standard Fixed Rate Home Loan (New Customer) 2 Years,150,320
+3adddddd-cb72-405d-99a6-a7441b8e4a2c,20785,445,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 5 Years,150,320
+3568a533-08f3-40a1-8b4e-c385d219e60c,20782,442,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 2 Years,150,320
+363c7d87-d980-4e02-a35a-6f35602c341a,20783,443,Bank of Queensland,Standard Fixed Rate Home Loan (Principal and Interest) 3 Years,150,320
+81d7e187-cc92-482c-a00b-26a4b4629688,397533,22573,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 3 Years,150,320
+ef67815e-4737-4da1-9a2e-b08f383699ac,397535,22575,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 5 Years,150,320
+30f42b70-a960-4561-a8c4-937208e80d8b,397534,22574,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Principal and Interest) 4 Years,150,320
+15832308-2438-44d6-8b1e-74dd686eff00,217323,2213,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Principal and Interest) 3 Years,150,320
+03918d46-16eb-485e-acb5-f9111dd0cfc2,139020,3398,Bank of Queensland,First-Start Home Loan (Principal and Interest),150,320
+c6e37103-a924-4ed9-8a90-4d26e6227bc7,20470,43,Bank of Queensland,Economy Home Loan (Principal and Interest),150,320
+d84210ea-e52e-40f4-8a3e-2386d2772e18,323450,1379,Bank of Queensland,Clear Path Variable Rate Home Loan (Principal and Interest),150,320
+f1e1c0b9-60f3-456b-ad98-7138a35fd907,327180,3205,Bank of Queensland,Clear Path Line of Credit Home Loan,150,320
+1cf66184-4f39-45c5-8c34-99fb718c8feb,197830,867,Commonwealth Bank of Australia,No Fee Variable Rate Home Loan (Principal and Interest),350,0
+488e6ef6-6c0c-4921-b5c8-bd81c5dcf746,137770,4070,Macquarie Credit Union,Standard Variable Home Loan,200,0
+906710a2-4a03-4b35-b9a8-df0b1d8ac40a,167570,4068,Macquarie Credit Union,Basic Low Rate Home Loan,200,0
+fd649fb0-31b5-4edf-a840-7a47b0766c67,489900,4285,Commonwealth Bank of Australia,No Fee Variable Rate Investment Loan (Interest Only),350,0
+b9b3dae7-b1e0-4e09-8c5a-e69b5a4a1e34,507380,4548,Bank of Queensland,Standard Variable Rate Investment Loan (Interest Only),150,320
+5955143c-e033-4ed9-bedc-7aa62238bd83,507480,4547,Bank of Queensland,Standard Variable Rate Home Loan (Interest Only),150,320
+297bcc1f-7a58-4f57-be7b-8999f159bf9f,507222,45562,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 2 Years,150,320
+dd890052-8149-4068-939a-206c699d2af9,507224,45564,Bank of Queensland,Standard Fixed Rate Investment Loan (Interest Only) 4 Years,150,320
+a2ff4328-946b-4b1e-a0d2-90396ce093c0,518040,5054,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($700k+) (LVR 80%-90%),200,250
+ca92e4c2-b9f0-4185-9ad6-1bff5ba992e3,518020,5053,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($150k-$250k) (LVR 80%-90%) ,200,250
+ee351161-de6e-414d-84e4-25838d5f9766,510300,4813,Heritage Bank,Home Advantage Variable Investment Loan (Interest Only) ($700k+) (LVR <80%) ,200,250
+e2d82055-a135-43dc-bdcb-e652cd725082,510261,48141,Heritage Bank,Fixed Rate Investment Loan (Interest Only) 1 Year ,200,250
+725882ce-2de0-4de3-b99b-c7ca96763a0c,510263,48143,Heritage Bank,Fixed Rate Investment Loan (Interest Only) 3 Years ,200,250
+99bce721-5ab6-4bb1-859f-c90509738001,485310,4344,Bananacoast Community Credit Union,OMG Investment Loan (Principal and Interest),0,395
+5a9152b9-fdb3-4e22-8882-92e0d2063ad3,507272,45622,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 2 Years ,150,320
+5186b3a0-4c42-4a4e-b735-f147b2434d93,507274,45624,Bank of Queensland,Privileges Package Fixed Rate Investment Loan (Interest Only) 4 Years ,150,320
+5ac8804f-4f40-4a17-b595-aafcea991bd0,507572,45582,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 2 Years ,150,320
+cc83e305-cb8c-4f6a-80ae-463bcd51d19b,507573,45583,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 3 Years ,150,320
+87643f74-8e85-4be2-b2d2-2dfcaa1bbdd4,507575,45585,Bank of Queensland,Privileges Package Fixed Rate Home Loan (Interest Only) 5 Years ,150,320
+6fc41b9f-78d0-4a7d-ad5e-5387a35e1f23,523320,5174,Bank of Queensland,Economy Home Loan (Interest Only),150,320
