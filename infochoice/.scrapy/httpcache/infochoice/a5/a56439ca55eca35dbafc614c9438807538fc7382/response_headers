@@ -1,0 +1,19 @@
+Content-Type: text/html
+Server: nginx
+Last-Modified: Tue, 01 May 2018 06:51:22 GMT
+Etag: "5ae80e6a-1d59"
+Expires: Sat, 05 May 2018 05:23:30 GMT
+Cache-Control: max-age=86400
+Cache-Control: private
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self' *.googlesyndication.com https:; font-src 'self' data: https://www.infochoice.com.au https:; frame-src 'self' *.adobedtm.com *.infochoice.com https:; img-src data: 'self' *.infochoice.com.au *.omtrdc.net *.everesttech.net https:; style-src 'self' 'unsafe-inline' https:; connect-src 'self' 'unsafe-inline' *.omtrdc.net *.demdex.net *.facebook https:; script-src 'self' 'unsafe-inline' 'unsafe-eval' *.omtrdc.net *.facebook *.google-analytics.com *.hotjar.com *.googleadservices.com *.bing.com *.webengage *.yimg.com *.adobedtm.com  *.demdex.net https:
+Strict-Transport-Security: max-age=31536000; includeSubDomains; always
+Accept-Ranges: bytes
+X-Akamai-Transformed: 9 7513 0 pmb=mTOE,2
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Date: Fri, 04 May 2018 05:23:30 GMT
+Set-Cookie: ak_bmsc=756FA4FFAB8010AF6C93AB00E990FE84CA07B156BE6B000052EEEB5A3D9B4641~plh82Cl5mUUFQacCtKTPQ7iVHbpV2Cm9yqsq23U1LP3PM88zJzf8q55VJAQoie5oy8ZZl5fII/hbBcpaRveqj2yNT0rSuVRDiI25nWHC13bsmROf4B4ecAIVKqWoyygIZNRiaaVGVZCleLu1pInFgupF9vHYoJ/cNMMNas2RHKa4EoPXPLqf2pY8/jOq6JiTkGHFe189p9a/xgnn7sRVOfvZh8eg/gLQSzAMC+nlkFxtR6n3VzXEeC1BOJAkg8Fowl; expires=Fri, 04 May 2018 07:23:30 GMT; max-age=7200; path=/; domain=.infochoice.com.au; HttpOnly
+Set-Cookie: bm_mi=7306577192ED9EBA9A5380881065D00B~IdxrmtApYyuToGrYvaMQL+aNII6A0y3WBMcqSBSARbqZ3Y2wi+2YjMhnvEna0BLFH3u0NCTMRiBRrgASYvbYlenf+ItmEHC8/33lFr2v2COi4TZoB3dTwaJ+S8Mgx14BGLY6loKDtVeuufDTvlGJ41vzDnIzh/2DtQxmn/+DMNOtDQHm7cLin26yKQ62wT+SwtxXYC1ETFRJlmDGvCgZ1816bCelSPMnirvO51Qxz/SkZgATxq4AZYRwmvKLdCRTtN3bLXOuSAylSZ3G75nOKaM6QLMShFqBws5xqSRiHsvYeyFj93hzPac1lOFEmJNa/AtI3eh8/4tffGZYlFe1dA==; Domain=.infochoice.com.au; Path=/; Max-Age=0; HttpOnly

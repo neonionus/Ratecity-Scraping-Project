@@ -1,0 +1,14 @@
+Date: Fri, 13 Apr 2018 00:24:54 GMT
+Content-Type: text/plain; charset=UTF-8
+Set-Cookie: __cfduid=d873a9e9cb9ddad1e4bfc9fdfbe9dfe901523579094; expires=Sat, 13-Apr-19 00:24:54 GMT; path=/; domain=.ratecity.com.au; HttpOnly
+X-Powered-By: Express
+Cache-Control: public, max-age=3600
+Last-Modified: Thu, 12 Apr 2018 02:07:18 GMT
+Etag: W/"337-162b79b67f0"
+Cf-Cache-Status: HIT
+Vary: Accept-Encoding
+Expires: Fri, 13 Apr 2018 01:24:54 GMT
+Expect-Ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+Server: cloudflare
+Cf-Ray: 40a9cade4bb35da2-BNE
+Content-Encoding: gzip
